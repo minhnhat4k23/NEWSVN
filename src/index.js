@@ -1,16 +1,17 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import Parser from "rss-parser";
 
-const ROOT = path.resolve(import.meta.dirname, "..");
-const FEEDS_PATH = path.join(ROOT, "feeds.json");
-const STATE_PATH = path.join(ROOT, "state.json");
+export const ROOT = path.resolve(import.meta.dirname, "..");
+export const FEEDS_PATH = path.join(ROOT, "feeds.json");
+export const STATE_PATH = path.join(ROOT, "state.json");
 const MAX_ITEMS_PER_RUN = 5;
 const SEND_DELAY_MS = 500;
 
 const parser = new Parser();
 
-async function readJson(filePath, fallback) {
+export async function readJson(filePath, fallback) {
   try {
     const raw = await readFile(filePath, "utf-8");
     return JSON.parse(raw);
@@ -20,7 +21,7 @@ async function readJson(filePath, fallback) {
   }
 }
 
-function getWebhookMap() {
+export function getWebhookMap() {
   const raw = process.env.DISCORD_WEBHOOKS;
   if (!raw) {
     console.warn("DISCORD_WEBHOOKS chua duoc set - se khong gui duoc tin nao.");
@@ -38,7 +39,14 @@ function itemKey(item) {
   return item.guid || item.link || item.title;
 }
 
-function toEmbed(feedTitle, item) {
+function extractImageUrl(item) {
+  const html = item.content || item["content:encoded"] || "";
+  const match = /<img[^>]+src="([^"]+)"/i.exec(html);
+  const url = match?.[1];
+  return url && url.startsWith("http") ? url : undefined;
+}
+
+export function toEmbed(feedTitle, item) {
   let description = (item.contentSnippet || item.content || "").trim();
   if (description.length > 200) description = description.slice(0, 197) + "...";
   const embed = {
@@ -49,7 +57,7 @@ function toEmbed(feedTitle, item) {
     author: { name: feedTitle },
     footer: { text: "Ngay dang:" },
   };
-  const imageUrl = item.enclosure?.url;
+  const imageUrl = item.imageUrl;
   if (imageUrl) embed.image = { url: imageUrl };
   return embed;
 }
@@ -63,7 +71,7 @@ function toLinkButtonRow(url) {
   ];
 }
 
-async function sendToDiscord(webhookUrl, embed, opts = {}) {
+export async function sendToDiscord(webhookUrl, embed, opts = {}) {
   const body = { embeds: [embed] };
   if (opts.content) body.content = opts.content;
   if (opts.username) body.username = opts.username;
@@ -81,7 +89,7 @@ async function sendToDiscord(webhookUrl, embed, opts = {}) {
   }
 }
 
-function sleep(ms) {
+export function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
@@ -129,6 +137,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   } else {
     for (const item of toSend) {
       try {
+        item.imageUrl = extractImageUrl(item);
         const embed = toEmbed(parsed.title || key, item);
         await sendToDiscord(webhookUrl, embed, {
           content: embed.description,
@@ -159,7 +168,9 @@ async function main() {
   console.log("Da cap nhat state.json.");
 }
 
-main().catch((err) => {
-  console.error("Loi khong mong muon:", err);
-  process.exit(1);
-});
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((err) => {
+    console.error("Loi khong mong muon:", err);
+    process.exit(1);
+  });
+}

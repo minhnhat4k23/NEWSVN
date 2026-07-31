@@ -8,6 +8,7 @@
     "start": "node src/index.js"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "rss-parser": "^3.13.0"
   }
 }
