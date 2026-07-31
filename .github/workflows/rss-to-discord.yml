@@ -41,3 +41,4 @@ jobs:
           else
             echo "state.json khong doi, khong can commit."
           fi
+
