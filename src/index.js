@@ -46,16 +46,30 @@ function toEmbed(feedTitle, item) {
     url: item.link,
     description,
     timestamp: item.isoDate || undefined,
-    footer: { text: feedTitle },
+    author: { name: feedTitle },
+    footer: { text: "Ngay dang:" },
   };
   const imageUrl = item.enclosure?.url;
   if (imageUrl) embed.image = { url: imageUrl };
   return embed;
 }
 
-async function sendToDiscord(webhookUrl, embed, threadName) {
+function toLinkButtonRow(url) {
+  return [
+    {
+      type: 1,
+      components: [{ type: 2, style: 5, label: "Doc chi tiet ↗", url }],
+    },
+  ];
+}
+
+async function sendToDiscord(webhookUrl, embed, opts = {}) {
   const body = { embeds: [embed] };
-  if (threadName) body.thread_name = threadName.slice(0, 100);
+  if (opts.content) body.content = opts.content;
+  if (opts.username) body.username = opts.username;
+  if (opts.avatarUrl) body.avatar_url = opts.avatarUrl;
+  if (opts.threadName) body.thread_name = opts.threadName.slice(0, 100);
+  if (embed.url) body.components = toLinkButtonRow(embed.url);
   const res = await fetch(webhookUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -115,7 +129,13 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   } else {
     for (const item of toSend) {
       try {
-        await sendToDiscord(webhookUrl, toEmbed(parsed.title || key, item), item.title);
+        const embed = toEmbed(parsed.title || key, item);
+        await sendToDiscord(webhookUrl, embed, {
+          content: embed.description,
+          username: parsed.title || key,
+          avatarUrl: parsed.image?.url,
+          threadName: item.title,
+        });
       } catch (err) {
         console.warn(`[${key}] Loi gui Discord cho "${item.title}": ${err.message}`);
       }
