@@ -1,0 +1,13 @@
+{
+  "name": "vnexpress-discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dang tin RSS VnExpress vao cac channel Discord tuong ung qua Webhook, chay theo lich tren GitHub Actions.",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
