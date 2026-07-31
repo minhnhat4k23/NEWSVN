@@ -71,6 +71,8 @@ function toLinkButtonRow(url) {
   ];
 }
 
+const MAX_SEND_ATTEMPTS = 3;
+
 export async function sendToDiscord(webhookUrl, embed, opts = {}) {
   const body = { embeds: [embed] };
   if (opts.content) body.content = opts.content;
@@ -78,12 +80,31 @@ export async function sendToDiscord(webhookUrl, embed, opts = {}) {
   if (opts.avatarUrl) body.avatar_url = opts.avatarUrl;
   if (opts.threadName) body.thread_name = opts.threadName.slice(0, 100);
   if (embed.url) body.components = toLinkButtonRow(embed.url);
-  const res = await fetch(webhookUrl, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
-  if (!res.ok) {
+
+  for (let attempt = 1; attempt <= MAX_SEND_ATTEMPTS; attempt++) {
+    let res;
+    try {
+      res = await fetch(webhookUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+    } catch (err) {
+      if (attempt === MAX_SEND_ATTEMPTS) throw err;
+      await sleep(1000 * attempt);
+      continue;
+    }
+
+    if (res.ok) return;
+
+    const isRateLimited = res.status === 429;
+    const isServerError = res.status >= 500;
+    if ((isRateLimited || isServerError) && attempt < MAX_SEND_ATTEMPTS) {
+      const retryAfterSec = isRateLimited ? Number(res.headers.get("retry-after")) || 1 : attempt;
+      await sleep((retryAfterSec + 0.5) * 1000);
+      continue;
+    }
+
     const text = await res.text().catch(() => "");
     throw new Error(`Discord webhook tra ve ${res.status}: ${text}`);
   }
