@@ -27,6 +27,7 @@ const MAX_BACKFILL_PER_CHANNEL = 30;
 const BACKFILL_MONTHS = 3;
 const MAX_PAGES = 10;
 const SEND_DELAY_MS = 500;
+const VNEXPRESS_LOGO_URL = "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png";
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
@@ -144,6 +145,7 @@ async function backfillChannel(key, state, webhookMap) {
       await sendToDiscord(webhookUrl, embed, {
         content: embed.description,
         username: key,
+        avatarUrl: VNEXPRESS_LOGO_URL,
         threadName: item.title,
       });
     } catch (err) {
