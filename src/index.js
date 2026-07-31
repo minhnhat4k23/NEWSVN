@@ -24,13 +24,13 @@ export async function readJson(filePath, fallback) {
 export function getWebhookMap() {
   const raw = process.env.DISCORD_WEBHOOKS;
   if (!raw) {
-    console.warn("DISCORD_WEBHOOKS chua duoc set - se khong gui duoc tin nao.");
+    console.warn("DISCORD_WEBHOOKS is not set - no messages will be sent.");
     return {};
   }
   try {
     return JSON.parse(raw);
   } catch {
-    console.warn("DISCORD_WEBHOOKS khong phai JSON hop le.");
+    console.warn("DISCORD_WEBHOOKS is not valid JSON.");
     return {};
   }
 }
@@ -106,7 +106,7 @@ export async function sendToDiscord(webhookUrl, embed, opts = {}) {
     }
 
     const text = await res.text().catch(() => "");
-    throw new Error(`Discord webhook tra ve ${res.status}: ${text}`);
+    throw new Error(`Discord webhook returned ${res.status}: ${text}`);
   }
 }
 
@@ -120,13 +120,13 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   try {
     parsed = await parser.parseURL(feedUrl);
   } catch (err) {
-    console.warn(`[${key}] Loi khi fetch/parse feed: ${err.message}`);
+    console.warn(`[${key}] Error fetching/parsing feed: ${err.message}`);
     return;
   }
 
   const items = parsed.items || [];
   if (items.length === 0) {
-    console.log(`[${key}] Feed khong co item nao.`);
+    console.log(`[${key}] Feed has no items.`);
     return;
   }
 
@@ -134,7 +134,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
 
   if (!lastKey) {
     state[key] = { lastKey: itemKey(items[0]) };
-    console.log(`[${key}] Lan dau gap feed nay - luu baseline, khong gui tin.`);
+    console.log(`[${key}] First time seeing this feed - saving baseline, not sending anything.`);
     return;
   }
 
@@ -145,16 +145,16 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   }
 
   if (newItems.length === 0) {
-    console.log(`[${key}] Khong co bai moi.`);
+    console.log(`[${key}] No new articles.`);
     return;
   }
 
   newItems.reverse();
   const toSend = newItems.slice(-MAX_ITEMS_PER_RUN);
-  console.log(`[${key}] Co ${newItems.length} bai moi, gui ${toSend.length} bai.`);
+  console.log(`[${key}] Found ${newItems.length} new articles, sending ${toSend.length}.`);
 
   if (!webhookUrl) {
-    console.warn(`[${key}] Khong tim thay webhook URL trong DISCORD_WEBHOOKS - bo qua gui, van cap nhat state.`);
+    console.warn(`[${key}] No webhook URL found in DISCORD_WEBHOOKS - skipping send, state still updated.`);
   } else {
     for (const item of toSend) {
       try {
@@ -167,7 +167,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
           threadName: item.title,
         });
       } catch (err) {
-        console.warn(`[${key}] Loi gui Discord cho "${item.title}": ${err.message}`);
+        console.warn(`[${key}] Error sending to Discord for "${item.title}": ${err.message}`);
       }
       await sleep(SEND_DELAY_MS);
     }
@@ -186,12 +186,12 @@ async function main() {
   }
 
   await writeFile(STATE_PATH, JSON.stringify(state, null, 2) + "\n", "utf-8");
-  console.log("Da cap nhat state.json.");
+  console.log("state.json updated.");
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((err) => {
-    console.error("Loi khong mong muon:", err);
+    console.error("Unexpected error:", err);
     process.exit(1);
   });
 }

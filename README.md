@@ -1,34 +1,38 @@
 # vnexpress-discord-bot
 
-Bot tu dong dang tin RSS VnExpress vao cac channel Discord tuong ung, chay hoan toan tren GitHub Actions (cron) - khong can server rieng.
+Bot that automatically posts VnExpress RSS articles to matching Discord channels, running entirely on GitHub Actions (cron) - no dedicated server required.
 
-## Cach hoat dong
+## How it works
 
-Moi 15 phut, GitHub Actions chay `src/index.js`: doc `feeds.json` (map ten kenh -> RSS URL), so voi `state.json` (bai da gui lan truoc), neu co bai moi thi gui embed qua Discord Webhook, roi commit lai `state.json`.
+Every 5 minutes, GitHub Actions runs `src/index.js`: it reads `feeds.json` (channel key -> RSS URL), compares against `state.json` (the last article sent per channel), and if there's anything new it posts an embed via Discord Webhook, then commits the updated `state.json` back to the repo.
+
+Sending is resilient to transient failures: network errors, Discord rate limits (429), and Discord server errors (5xx) are retried automatically with backoff. Genuine errors (bad payload, missing permissions) fail immediately without retrying.
+
+There's also a one-off `src/backfill.js` script (not run by the cron workflow) that scrapes VnExpress category listing pages directly - RSS only exposes the ~20-60 most recent items, not enough history - to backfill up to 30 older articles per channel. It never touches `state.json`, so it won't interfere with the live cron.
 
 ## Setup
 
-### 1. Tao Discord Webhook cho tung channel
+### 1. Create a Discord Webhook for each channel
 
-Voi moi channel Discord muon nhan tin:
+For every Discord channel you want to receive articles:
 
-1. Vao **Channel Settings** -> **Integrations** -> **Webhooks** -> **New Webhook**.
-2. Dat ten, copy **Webhook URL**.
+1. Go to **Channel Settings** -> **Integrations** -> **Webhooks** -> **New Webhook**.
+2. Name it, then copy the **Webhook URL**.
 
-Lam nhu vay cho tat ca channel trong `feeds.json` (xem file do de biet danh sach key).
+Do this for every channel listed in `feeds.json` (see that file for the list of keys).
 
-### 2. Tao GitHub repo va push code
+### 2. Create the GitHub repo and push the code
 
 ```bash
-gh repo create <ten-repo> --public --source=. --remote=origin --push
+gh repo create <repo-name> --public --source=. --remote=origin --push
 ```
 
-### 3. Them GitHub Secret gop tat ca webhook
+### 3. Add a GitHub Secret with all webhooks combined
 
-Vao repo tren GitHub -> **Settings** -> **Secrets and variables** -> **Actions** -> **New repository secret**:
+On the repo's GitHub page -> **Settings** -> **Secrets and variables** -> **Actions** -> **New repository secret**:
 
 - Name: `DISCORD_WEBHOOKS`
-- Value: JSON gop tat ca webhook URL, key phai trung voi key trong `feeds.json`, vi du:
+- Value: a single JSON object combining all webhook URLs, with keys matching `feeds.json`, e.g.:
 
 ```json
 {
@@ -37,13 +41,21 @@ Vao repo tren GitHub -> **Settings** -> **Secrets and variables** -> **Actions**
 }
 ```
 
-Kenh nao khong co trong JSON nay se bi bo qua (khong loi, chi log canh bao).
+Any channel missing from this JSON is simply skipped (no error, just a warning in the logs).
 
-### 4. Chay thu
+### 4. Try it out
 
-- **Local**: `npm install` roi `DISCORD_WEBHOOKS='{"thoi-su":"<webhook-url>"}' node src/index.js` (PowerShell: dung `$env:DISCORD_WEBHOOKS='...'` truoc khi chay). Lan chay dau tien voi feed moi se khong gui gi (chi luu baseline) - chay lan 2 moi thay bai moi duoc gui.
-- **Tren GitHub**: tab **Actions** -> chon workflow **RSS to Discord** -> **Run workflow** de chay thu ngay khong can doi cron.
+- **Locally**: `npm install`, then `DISCORD_WEBHOOKS='{"thoi-su":"<webhook-url>"}' node src/index.js` (PowerShell: set `$env:DISCORD_WEBHOOKS='...'` first). The very first run for a new feed sends nothing (it only saves a baseline) - run it a second time to see new articles actually delivered.
+- **On GitHub**: go to the **Actions** tab -> select the **RSS to Discord** workflow -> **Run workflow** to trigger it immediately without waiting for the schedule.
 
-## Chinh sua danh sach feed
+### 5. (Optional) Backfill older articles
 
-Sua truc tiep `feeds.json` - them/bot/doi RSS URL, khong can dong code nao.
+```bash
+DISCORD_WEBHOOKS='{"thoi-su":"<webhook-url>", ...}' node src/backfill.js
+```
+
+Logs how many articles were found per channel and how far back the oldest one dates, then sends them oldest-first. Safe to re-run; it only ever sends articles older than each channel's current `state.json` pointer.
+
+## Editing the feed list
+
+Edit `feeds.json` directly to add, remove, or change RSS URLs - no code changes needed.

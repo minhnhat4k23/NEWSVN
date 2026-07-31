@@ -42,7 +42,7 @@ async function fetchListingPage(slug, pageNum) {
       ? `https://vnexpress.net/${slug}`
       : `https://vnexpress.net/${slug}-p${pageNum}`;
   const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
-  if (!res.ok) throw new Error(`HTTP ${res.status} khi tai ${url}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status} while loading ${url}`);
   const html = await res.text();
   const $ = cheerio.load(html);
   const items = [];
@@ -92,7 +92,7 @@ async function collectBackfillItems(key, slug, lastKey) {
     try {
       pageItems = await fetchListingPage(slug, page);
     } catch (err) {
-      console.warn(`[${key}] Loi tai trang ${page}: ${err.message}`);
+      console.warn(`[${key}] Error loading page ${page}: ${err.message}`);
       break;
     }
     if (pageItems.length === 0) break;
@@ -113,7 +113,7 @@ async function collectBackfillItems(key, slug, lastKey) {
 async function backfillChannel(key, state, webhookMap) {
   const slug = CATEGORY_PAGES[key];
   if (!slug) {
-    console.warn(`[${key}] Khong co category page tuong ung, bo qua.`);
+    console.warn(`[${key}] No matching category page, skipping.`);
     return;
   }
 
@@ -121,20 +121,20 @@ async function backfillChannel(key, state, webhookMap) {
   const items = await collectBackfillItems(key, slug, lastKey);
 
   if (items.length === 0) {
-    console.log(`[${key}] Khong tim thay bai cu nao de backfill.`);
+    console.log(`[${key}] No older articles found to backfill.`);
     return;
   }
 
   const oldest = items[items.length - 1];
   const oldestDate = await fetchPublishDate(oldest.link);
   const coverageMsg = oldestDate
-    ? `bai cu nhat ngay ${oldestDate}`
-    : "khong lay duoc ngay bai cu nhat";
-  console.log(`[${key}] Tim thay ${items.length} bai, ${coverageMsg}.`);
+    ? `oldest article dated ${oldestDate}`
+    : "could not get the oldest article's date";
+  console.log(`[${key}] Found ${items.length} articles, ${coverageMsg}.`);
 
   const webhookUrl = webhookMap[key];
   if (!webhookUrl) {
-    console.warn(`[${key}] Khong co webhook trong DISCORD_WEBHOOKS - chi thong ke, khong gui.`);
+    console.warn(`[${key}] No webhook in DISCORD_WEBHOOKS - stats only, not sending.`);
     return;
   }
 
@@ -149,7 +149,7 @@ async function backfillChannel(key, state, webhookMap) {
         threadName: item.title,
       });
     } catch (err) {
-      console.warn(`[${key}] Loi gui backfill cho "${item.title}": ${err.message}`);
+      console.warn(`[${key}] Error sending backfill item "${item.title}": ${err.message}`);
     }
     await sleep(SEND_DELAY_MS);
   }
@@ -157,7 +157,7 @@ async function backfillChannel(key, state, webhookMap) {
 
 async function main() {
   console.log(
-    `Backfill toi da ${MAX_BACKFILL_PER_CHANNEL} bai/channel, muc tieu ${BACKFILL_MONTHS} thang gan nhat.`
+    `Backfilling up to ${MAX_BACKFILL_PER_CHANNEL} articles/channel, targeting the last ${BACKFILL_MONTHS} months.`
   );
   const state = await readJson(STATE_PATH, {});
   const webhookMap = getWebhookMap();
@@ -166,10 +166,10 @@ async function main() {
     await backfillChannel(key, state, webhookMap);
   }
 
-  console.log("Backfill hoan tat. state.json KHONG bi thay doi.");
+  console.log("Backfill complete. state.json was NOT modified.");
 }
 
 main().catch((err) => {
-  console.error("Loi khong mong muon:", err);
+  console.error("Unexpected error:", err);
   process.exit(1);
 });

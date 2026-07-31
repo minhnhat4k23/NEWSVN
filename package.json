@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Dang tin RSS VnExpress vao cac channel Discord tuong ung qua Webhook, chay theo lich tren GitHub Actions.",
+  "description": "Posts VnExpress RSS articles to matching Discord channels via Webhook, running on a GitHub Actions schedule.",
   "scripts": {
     "start": "node src/index.js"
   },

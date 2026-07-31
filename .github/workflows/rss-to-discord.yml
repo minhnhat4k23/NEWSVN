@@ -39,6 +39,6 @@ jobs:
             git commit -m "chore: update feed state"
             git push
           else
-            echo "state.json khong doi, khong can commit."
+            echo "state.json unchanged, nothing to commit."
           fi
 
