@@ -53,11 +53,13 @@ function toEmbed(feedTitle, item) {
   return embed;
 }
 
-async function sendToDiscord(webhookUrl, embed) {
+async function sendToDiscord(webhookUrl, embed, threadName) {
+  const body = { embeds: [embed] };
+  if (threadName) body.thread_name = threadName.slice(0, 100);
   const res = await fetch(webhookUrl, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ embeds: [embed] }),
+    body: JSON.stringify(body),
   });
   if (!res.ok) {
     const text = await res.text().catch(() => "");
@@ -113,7 +115,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   } else {
     for (const item of toSend) {
       try {
-        await sendToDiscord(webhookUrl, toEmbed(parsed.title || key, item));
+        await sendToDiscord(webhookUrl, toEmbed(parsed.title || key, item), item.title);
       } catch (err) {
         console.warn(`[${key}] Loi gui Discord cho "${item.title}": ${err.message}`);
       }
