@@ -43,6 +43,33 @@ function publishedAt(item) {
   return Number.isNaN(parsed) ? 0 : parsed;
 }
 
+// vnecdn.net answers 403 to Discord's image fetcher, so linking an article
+// image directly leaves the embed blank. Downloading it ourselves and
+// uploading it as an attachment sidesteps that entirely.
+export const BROWSER_USER_AGENT =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
+
+const MAX_ATTACHMENT_BYTES = 8 * 1024 * 1024;
+
+export async function fetchImageAttachment(url) {
+  if (!url || !url.startsWith("http")) return null;
+  try {
+    const res = await fetch(url, {
+      headers: { "User-Agent": BROWSER_USER_AGENT },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) return null;
+    const type = res.headers.get("content-type") || "";
+    if (!type.startsWith("image/")) return null;
+    const bytes = await res.arrayBuffer();
+    if (bytes.byteLength === 0 || bytes.byteLength > MAX_ATTACHMENT_BYTES) return null;
+    const ext = type.includes("png") ? "png" : type.includes("webp") ? "webp" : "jpg";
+    return { blob: new Blob([bytes], { type }), filename: `image.${ext}` };
+  } catch {
+    return null;
+  }
+}
+
 function extractImageUrl(item) {
   const html = item.content || item["content:encoded"] || "";
   const match = /<img[^>]+src="([^"]+)"/i.exec(html);
@@ -77,26 +104,43 @@ function toLinkButtonRow(url) {
 
 const MAX_SEND_ATTEMPTS = 3;
 
+function toMultipartBody(payload, attachment) {
+  const form = new FormData();
+  form.append("payload_json", JSON.stringify(payload));
+  form.append("files[0]", attachment.blob, attachment.filename);
+  return form;
+}
+
 export async function sendToDiscord(webhookUrl, embed, opts = {}) {
-  const body = { embeds: [embed] };
+  const attachment = opts.attachment;
+  const finalEmbed = attachment
+    ? { ...embed, image: { url: `attachment://${attachment.filename}` } }
+    : embed;
+
+  const body = { embeds: [finalEmbed] };
   if (opts.content) body.content = opts.content;
   if (opts.username) body.username = opts.username;
   if (opts.avatarUrl) body.avatar_url = opts.avatarUrl;
   if (opts.threadName) body.thread_name = opts.threadName.slice(0, 100);
-  if (embed.url) body.components = toLinkButtonRow(embed.url);
+  if (finalEmbed.url) body.components = toLinkButtonRow(finalEmbed.url);
 
   // Discord silently drops `components` from webhook messages unless this flag is set.
   const endpoint = new URL(webhookUrl);
   endpoint.searchParams.set("with_components", "true");
 
   for (let attempt = 1; attempt <= MAX_SEND_ATTEMPTS; attempt++) {
+    // Rebuilt per attempt so a retry never reuses a consumed body.
+    const request = attachment
+      ? { method: "POST", body: toMultipartBody(body, attachment) }
+      : {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(body),
+        };
+
     let res;
     try {
-      res = await fetch(endpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(body),
-      });
+      res = await fetch(endpoint, request);
     } catch (err) {
       if (attempt === MAX_SEND_ATTEMPTS) throw err;
       await sleep(1000 * attempt);
@@ -173,6 +217,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
           username: parsed.title || key,
           avatarUrl: parsed.image?.url,
           threadName: item.title,
+          attachment: await fetchImageAttachment(item.imageUrl),
         });
       } catch (err) {
         console.warn(`[${key}] Error sending to Discord for "${item.title}": ${err.message}`);

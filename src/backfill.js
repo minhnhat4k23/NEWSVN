@@ -1,10 +1,12 @@
 import * as cheerio from "cheerio";
 import {
   STATE_PATH,
+  BROWSER_USER_AGENT,
   readJson,
   getWebhookMap,
   toEmbed,
   sendToDiscord,
+  fetchImageAttachment,
   sleep,
 } from "./index.js";
 
@@ -28,8 +30,7 @@ const BACKFILL_MONTHS = 3;
 const MAX_PAGES = 10;
 const SEND_DELAY_MS = 500;
 const VNEXPRESS_LOGO_URL = "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png";
-const USER_AGENT =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
+const USER_AGENT = BROWSER_USER_AGENT;
 
 function articleId(link) {
   const match = /-(\d+)\.html$/.exec(link || "");
@@ -147,6 +148,7 @@ async function backfillChannel(key, state, webhookMap) {
         username: key,
         avatarUrl: VNEXPRESS_LOGO_URL,
         threadName: item.title,
+        attachment: await fetchImageAttachment(item.imageUrl),
       });
     } catch (err) {
       console.warn(`[${key}] Error sending backfill item "${item.title}": ${err.message}`);
