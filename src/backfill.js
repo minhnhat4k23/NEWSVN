@@ -117,8 +117,14 @@ async function backfillChannel(key, state, webhookMap) {
     return;
   }
 
-  const lastKey = state[key]?.lastKey;
-  const items = await collectBackfillItems(key, slug, lastKey);
+  // State is a list of delivered article keys; the highest article id in it is
+  // the boundary this script backfills below. (Older state stored a single
+  // lastKey pointer - still honoured so this keeps working either way.)
+  const entry = state[key] || {};
+  const keys = Array.isArray(entry.seen) ? entry.seen : entry.lastKey ? [entry.lastKey] : [];
+  const ids = keys.map(articleId).filter((n) => n != null);
+  const boundary = ids.length ? `-${Math.max(...ids)}.html` : null;
+  const items = await collectBackfillItems(key, slug, boundary);
 
   if (items.length === 0) {
     console.log(`[${key}] No older articles found to backfill.`);

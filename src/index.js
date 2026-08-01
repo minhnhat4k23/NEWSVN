@@ -7,6 +7,10 @@ export const ROOT = path.resolve(import.meta.dirname, "..");
 export const FEEDS_PATH = path.join(ROOT, "feeds.json");
 export const STATE_PATH = path.join(ROOT, "state.json");
 const SEND_DELAY_MS = 500;
+// How many delivered article keys to remember per channel. Must comfortably
+// exceed a feed's length so an article can never fall out of the list while
+// still being present in the feed.
+const SEEN_LIMIT = 300;
 
 const parser = new Parser({ timeout: 30000 });
 
@@ -41,6 +45,31 @@ function itemKey(item) {
 function publishedAt(item) {
   const parsed = Date.parse(item.isoDate || item.pubDate || "");
   return Number.isNaN(parsed) ? 0 : parsed;
+}
+
+function byOldestFirst(items) {
+  return [...items].sort((a, b) => publishedAt(a) - publishedAt(b));
+}
+
+// Midnight today, Vietnam time (UTC+7), as an epoch value.
+function startOfTodayVietnam() {
+  const VN_OFFSET_MS = 7 * 60 * 60 * 1000;
+  const vnNow = Date.now() + VN_OFFSET_MS;
+  return Math.floor(vnNow / 86400000) * 86400000 - VN_OFFSET_MS;
+}
+
+// Old state stored a single {lastKey} pointer, which silently skipped articles.
+// Rebuild a seen-list from it: everything published before today counts as
+// handled, so today's articles get delivered even if the pointer had jumped
+// past them.
+function migrateFromPointer(key, items) {
+  const cutoff = startOfTodayVietnam();
+  const older = byOldestFirst(items).filter((item) => publishedAt(item) < cutoff);
+  const todays = items.length - older.length;
+  console.log(
+    `[${key}] Migrating state to a seen-list; ${todays} article(s) from today will be re-checked.`
+  );
+  return older.map(itemKey);
 }
 
 // vnecdn.net answers 403 to Discord's image fetcher, so linking an article
@@ -196,22 +225,26 @@ async function processFeed(key, feedUrl, state, webhookMap) {
     return;
   }
 
-  const lastKey = state[key]?.lastKey;
+  const entry = state[key];
 
-  if (!lastKey) {
-    state[key] = { lastKey: itemKey(items[0]) };
+  if (!entry) {
+    state[key] = { seen: byOldestFirst(items).map(itemKey).slice(-SEEN_LIMIT) };
     console.log(`[${key}] First time seeing this feed - saving baseline, not sending anything.`);
     return;
   }
 
-  const newItems = [];
-  for (const item of items) {
-    if (itemKey(item) === lastKey) break;
-    newItems.push(item);
-  }
+  // VnExpress does not order its feed strictly by publication time - an article
+  // published an hour ago can sit below one from yesterday. Walking the feed
+  // until a single stored pointer matches therefore skips anything below that
+  // pointer, permanently. Track the set of delivered articles instead, so a
+  // article's position in the feed stops mattering.
+  const seen = Array.isArray(entry.seen) ? [...entry.seen] : migrateFromPointer(key, items);
+  const known = new Set(seen);
+  const newItems = items.filter((item) => !known.has(itemKey(item)));
 
   if (newItems.length === 0) {
     console.log(`[${key}] No new articles.`);
+    state[key] = { seen: seen.slice(-SEEN_LIMIT) };
     return;
   }
 
@@ -231,7 +264,6 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   // article instead of skipping past it. Discord rejects with
   // "Maximum number of active threads reached" once a forum is full, and that
   // clears itself as older posts archive.
-  let lastDelivered = null;
   for (const item of toSend) {
     try {
       item.imageUrl = extractImageUrl(item);
@@ -244,7 +276,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
         threadName: item.title,
         attachment: await fetchImageAttachment(item.imageUrl),
       });
-      lastDelivered = item;
+      seen.push(itemKey(item));
     } catch (err) {
       console.warn(
         `[${key}] Discord rejected "${item.title}": ${err.message} - stopping here, will resume from this article next run.`
@@ -254,7 +286,7 @@ async function processFeed(key, feedUrl, state, webhookMap) {
     await sleep(SEND_DELAY_MS);
   }
 
-  if (lastDelivered) state[key] = { lastKey: itemKey(lastDelivered) };
+  state[key] = { seen: seen.slice(-SEEN_LIMIT) };
 }
 
 async function main() {
