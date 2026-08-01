@@ -46,6 +46,19 @@ function publishedAt(item) {
 // vnecdn.net answers 403 to Discord's image fetcher, so linking an article
 // image directly leaves the embed blank. Downloading it ourselves and
 // uploading it as an attachment sidesteps that entirely.
+// vnecdn.net also 403s Discord when it tries to fetch the feed's own logo for
+// the webhook avatar, so the avatar is served from this repo instead.
+export const BOT_AVATAR_URL =
+  "https://raw.githubusercontent.com/minhnhat4k23/NEWSVN/master/assets/avatar.png";
+
+// Feed titles arrive as "Phap luat - VnExpress RSS"; the "RSS" suffix is noise
+// for readers.
+export function feedDisplayName(feedTitle, key) {
+  const title = (feedTitle || "").trim();
+  if (!title) return key;
+  return title.replace(/\s+RSS$/i, "");
+}
+
 export const BROWSER_USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
 
@@ -212,11 +225,12 @@ async function processFeed(key, feedUrl, state, webhookMap) {
     for (const item of toSend) {
       try {
         item.imageUrl = extractImageUrl(item);
-        const embed = toEmbed(parsed.title || key, item);
+        const displayName = feedDisplayName(parsed.title, key);
+        const embed = toEmbed(displayName, item);
         await sendToDiscord(webhookUrl, embed, {
           content: embed.description,
-          username: parsed.title || key,
-          avatarUrl: parsed.image?.url,
+          username: displayName,
+          avatarUrl: BOT_AVATAR_URL,
           threadName: item.title,
           attachment: await fetchImageAttachment(item.imageUrl),
         });
@@ -245,7 +259,10 @@ async function main() {
   console.log("state.json updated.");
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+const invokedDirectly =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+
+if (invokedDirectly) {
   main().catch((err) => {
     console.error("Unexpected error:", err);
     process.exit(1);

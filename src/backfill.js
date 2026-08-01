@@ -2,6 +2,7 @@ import * as cheerio from "cheerio";
 import {
   STATE_PATH,
   BROWSER_USER_AGENT,
+  BOT_AVATAR_URL,
   readJson,
   getWebhookMap,
   toEmbed,
@@ -28,7 +29,6 @@ const MAX_BACKFILL_PER_CHANNEL = 30;
 const BACKFILL_MONTHS = 3;
 const MAX_PAGES = 10;
 const SEND_DELAY_MS = 500;
-const VNEXPRESS_LOGO_URL = "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png";
 const USER_AGENT = BROWSER_USER_AGENT;
 
 function articleId(link) {
@@ -145,7 +145,7 @@ async function backfillChannel(key, state, webhookMap) {
       await sendToDiscord(webhookUrl, embed, {
         content: embed.description,
         username: key,
-        avatarUrl: VNEXPRESS_LOGO_URL,
+        avatarUrl: BOT_AVATAR_URL,
         threadName: item.title,
         attachment: await fetchImageAttachment(item.imageUrl),
       });
