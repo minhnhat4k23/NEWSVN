@@ -220,28 +220,41 @@ async function processFeed(key, feedUrl, state, webhookMap) {
   console.log(`[${key}] Found ${toSend.length} new articles, sending all of them.`);
 
   if (!webhookUrl) {
-    console.warn(`[${key}] No webhook URL found in DISCORD_WEBHOOKS - skipping send, state still updated.`);
-  } else {
-    for (const item of toSend) {
-      try {
-        item.imageUrl = extractImageUrl(item);
-        const displayName = feedDisplayName(parsed.title, key);
-        const embed = toEmbed(displayName, item);
-        await sendToDiscord(webhookUrl, embed, {
-          content: embed.description,
-          username: displayName,
-          avatarUrl: BOT_AVATAR_URL,
-          threadName: item.title,
-          attachment: await fetchImageAttachment(item.imageUrl),
-        });
-      } catch (err) {
-        console.warn(`[${key}] Error sending to Discord for "${item.title}": ${err.message}`);
-      }
-      await sleep(SEND_DELAY_MS);
-    }
+    // Don't advance the pointer: these articles were never delivered, and
+    // burning them here would lose them permanently.
+    console.warn(`[${key}] No webhook URL found in DISCORD_WEBHOOKS - skipping, will retry next run.`);
+    return;
   }
 
-  state[key] = { lastKey: itemKey(items[0]) };
+  // The pointer may only move over articles Discord actually accepted. On the
+  // first rejection we stop, so the run after this one resumes from that
+  // article instead of skipping past it. Discord rejects with
+  // "Maximum number of active threads reached" once a forum is full, and that
+  // clears itself as older posts archive.
+  let lastDelivered = null;
+  for (const item of toSend) {
+    try {
+      item.imageUrl = extractImageUrl(item);
+      const displayName = feedDisplayName(parsed.title, key);
+      const embed = toEmbed(displayName, item);
+      await sendToDiscord(webhookUrl, embed, {
+        content: embed.description,
+        username: displayName,
+        avatarUrl: BOT_AVATAR_URL,
+        threadName: item.title,
+        attachment: await fetchImageAttachment(item.imageUrl),
+      });
+      lastDelivered = item;
+    } catch (err) {
+      console.warn(
+        `[${key}] Discord rejected "${item.title}": ${err.message} - stopping here, will resume from this article next run.`
+      );
+      break;
+    }
+    await sleep(SEND_DELAY_MS);
+  }
+
+  if (lastDelivered) state[key] = { lastKey: itemKey(lastDelivered) };
 }
 
 async function main() {
