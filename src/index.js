@@ -8,7 +8,7 @@ export const FEEDS_PATH = path.join(ROOT, "feeds.json");
 export const STATE_PATH = path.join(ROOT, "state.json");
 const SEND_DELAY_MS = 500;
 
-const parser = new Parser();
+const parser = new Parser({ timeout: 30000 });
 
 export async function readJson(filePath, fallback) {
   try {
@@ -140,7 +140,8 @@ export async function sendToDiscord(webhookUrl, embed, opts = {}) {
 
     let res;
     try {
-      res = await fetch(endpoint, request);
+      // Without a deadline a stalled upload hangs the whole run forever.
+      res = await fetch(endpoint, { ...request, signal: AbortSignal.timeout(60000) });
     } catch (err) {
       if (attempt === MAX_SEND_ATTEMPTS) throw err;
       await sleep(1000 * attempt);

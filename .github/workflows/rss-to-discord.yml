@@ -20,6 +20,9 @@ concurrency:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    # A hung run holds the concurrency group and starves every later run,
+    # so fail fast instead of waiting for the 6h default.
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
