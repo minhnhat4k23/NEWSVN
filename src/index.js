@@ -6,7 +6,6 @@ import Parser from "rss-parser";
 export const ROOT = path.resolve(import.meta.dirname, "..");
 export const FEEDS_PATH = path.join(ROOT, "feeds.json");
 export const STATE_PATH = path.join(ROOT, "state.json");
-const MAX_ITEMS_PER_RUN = 5;
 const SEND_DELAY_MS = 500;
 
 const parser = new Parser();
@@ -37,6 +36,11 @@ export function getWebhookMap() {
 
 function itemKey(item) {
   return item.guid || item.link || item.title;
+}
+
+function publishedAt(item) {
+  const parsed = Date.parse(item.isoDate || item.pubDate || "");
+  return Number.isNaN(parsed) ? 0 : parsed;
 }
 
 function extractImageUrl(item) {
@@ -81,10 +85,14 @@ export async function sendToDiscord(webhookUrl, embed, opts = {}) {
   if (opts.threadName) body.thread_name = opts.threadName.slice(0, 100);
   if (embed.url) body.components = toLinkButtonRow(embed.url);
 
+  // Discord silently drops `components` from webhook messages unless this flag is set.
+  const endpoint = new URL(webhookUrl);
+  endpoint.searchParams.set("with_components", "true");
+
   for (let attempt = 1; attempt <= MAX_SEND_ATTEMPTS; attempt++) {
     let res;
     try {
-      res = await fetch(webhookUrl, {
+      res = await fetch(endpoint, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
@@ -149,9 +157,9 @@ async function processFeed(key, feedUrl, state, webhookMap) {
     return;
   }
 
-  newItems.reverse();
-  const toSend = newItems.slice(-MAX_ITEMS_PER_RUN);
-  console.log(`[${key}] Found ${newItems.length} new articles, sending ${toSend.length}.`);
+  // Oldest first, so a channel reads top-to-bottom in publication order.
+  const toSend = newItems.sort((a, b) => publishedAt(a) - publishedAt(b));
+  console.log(`[${key}] Found ${toSend.length} new articles, sending all of them.`);
 
   if (!webhookUrl) {
     console.warn(`[${key}] No webhook URL found in DISCORD_WEBHOOKS - skipping send, state still updated.`);
@@ -181,9 +189,11 @@ async function main() {
   const state = await readJson(STATE_PATH, {});
   const webhookMap = getWebhookMap();
 
-  for (const [key, feedUrl] of Object.entries(feeds)) {
-    await processFeed(key, feedUrl, state, webhookMap);
-  }
+  // Each channel has its own webhook, so its own Discord rate-limit bucket -
+  // running them concurrently is much faster than one after another.
+  await Promise.all(
+    Object.entries(feeds).map(([key, feedUrl]) => processFeed(key, feedUrl, state, webhookMap))
+  );
 
   await writeFile(STATE_PATH, JSON.stringify(state, null, 2) + "\n", "utf-8");
   console.log("state.json updated.");

@@ -1,12 +1,21 @@
 name: RSS to Discord
 
 on:
+  # GitHub throttles frequent schedules (observed ~hourly in practice), so this
+  # is only a safety net - an external cron service drives the real cadence by
+  # calling the workflow_dispatch API.
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+
+# Never let two runs overlap: they would both read the same state.json and
+# repost the same articles.
+concurrency:
+  group: rss-to-discord
+  cancel-in-progress: false
 
 jobs:
   run-bot:
