@@ -22,7 +22,6 @@ const CATEGORY_PAGES = {
   "gia-dinh": "doi-song",
   "tam-su": "tam-su",
   "tam-su-2": "y-kien",
-  "bua-lo": "giai-tri",
 };
 
 const MAX_BACKFILL_PER_CHANNEL = 30;
