@@ -1,11 +1,13 @@
 name: RSS to Discord
 
 on:
-  # GitHub throttles frequent schedules (observed ~hourly in practice), so this
-  # is only a safety net - an external cron service drives the real cadence by
-  # calling the workflow_dispatch API.
+  # An external cron service drives the real 15-minute cadence via
+  # workflow_dispatch. This schedule is only a fallback for if that service
+  # stops, and deliberately runs at :07 - sharing the :00/:15/:30/:45 boundary
+  # with the external trigger produced two runs in the same minute, and the
+  # loser of the resulting push race failed the whole job.
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -46,11 +48,35 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- state.json; then
+          if git diff --quiet -- state.json; then
+            echo "state.json unchanged, nothing to commit."
+            exit 0
+          fi
+          git add state.json
+          git commit -m "chore: update feed state"
+          # Losing a push race must not drop this commit: the articles it
+          # records are already in Discord, and forgetting them makes the next
+          # run post duplicates. Rebuild the commit on top of whatever landed
+          # first, keeping the union of both runs' delivered articles - a plain
+          # rebase would just conflict, since both sides rewrite state.json.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "state pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected; merging with the state that landed first (attempt $attempt)"
+            cp state.json "$RUNNER_TEMP/ours.json"
+            git fetch origin master || exit 1
+            git reset --hard FETCH_HEAD || exit 1
+            node scripts/merge-state.mjs "$RUNNER_TEMP/ours.json" state.json || exit 1
+            if git diff --quiet -- state.json; then
+              echo "nothing left to add after merge."
+              exit 0
+            fi
             git add state.json
             git commit -m "chore: update feed state"
-            git push
-          else
-            echo "state.json unchanged, nothing to commit."
-          fi
+            sleep $((attempt * 3))
+          done
+          echo "::error::could not push state.json after 5 attempts"
+          exit 1
 
