@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/vanh-dai-5-vung-thu-do-ket-noi-7-tinh-thanh-5103204.html",
-      "https://vnexpress.net/sieu-bao-dolphin-co-kha-nang-gay-gio-manh-tren-bien-dong-5103300.html",
       "https://vnexpress.net/5-cong-nhan-tu-vong-trong-trai-lon-do-su-co-tac-duong-ong-5103332.html",
       "https://vnexpress.net/nhieu-anh-chan-dung-trong-ho-chon-tap-the-o-dong-nai-5103386.html",
       "https://vnexpress.net/tp-hcm-nghien-cuu-mo-lan-uu-tien-de-xe-buyt-dung-gio-5103318.html",
@@ -300,13 +298,13 @@
       "https://vnexpress.net/hon-100-chuyen-bay-bi-gian-doan-do-uav-xam-nhap-tan-son-nhat-5108235.html",
       "https://vnexpress.net/pha-do-khan-cap-long-cho-bien-hoa-sau-vu-chay-5108274.html",
       "https://vnexpress.net/cho-tha-rong-khong-ro-mom-xuat-hien-khap-noi-o-ha-noi-5108270.html",
-      "https://vnexpress.net/gan-14-ty-dong-nang-cap-2-km-lan-can-ven-bien-nha-trang-5108399.html"
+      "https://vnexpress.net/gan-14-ty-dong-nang-cap-2-km-lan-can-ven-bien-nha-trang-5108399.html",
+      "https://vnexpress.net/cho-tha-rong-khong-ro-mom-xuat-hien-o-nhieu-noi-cong-cong-ha-noi-5108270.html",
+      "https://vnexpress.net/thao-do-2-km-lan-can-doc-bien-trung-tam-nha-trang-5108399.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-ngoai-can-tranh-thu-nguon-luc-cho-khoa-hoc-cong-nghe-5104055.html",
-      "https://vnexpress.net/quan-chuc-eu-nguoi-di-cu-tran-vao-ceuta-khong-the-tu-do-den-chau-au-5104098.html",
       "https://vnexpress.net/houthi-phu-nhan-ke-hoach-thu-phi-o-bien-do-5104129.html",
       "https://vnexpress.net/tham-canh-cua-nhung-nguoi-vuot-bien-vao-tay-ban-nha-5103986.html",
       "https://vnexpress.net/tay-ban-nha-lap-rao-chan-tren-bien-chan-nguoi-vuot-bien-5104153.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/loat-oto-troi-giua-duong-pho-ngap-lut-o-trung-quoc-5108297.html",
       "https://vnexpress.net/ukraine-ngung-thong-ke-so-ten-lua-trong-don-tap-kich-cua-nga-5108360.html",
       "https://vnexpress.net/ong-trump-bi-mat-doi-may-bay-trong-vai-phut-the-nao-5108135.html",
-      "https://vnexpress.net/de-che-amazon-cua-nga-dang-bi-ukraine-nham-muc-tieu-5108312.html"
+      "https://vnexpress.net/de-che-amazon-cua-nga-dang-bi-ukraine-nham-muc-tieu-5108312.html",
+      "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-thanh-tri-cuoi-cung-cua-ham-doi-bien-den-nga-5108375.html",
+      "https://vnexpress.net/tieng-keu-yeu-ot-tu-dong-do-nat-cuu-em-be-sau-dong-dat-o-colombia-5108334.html"
     ]
   },
   "phap-luat": {
@@ -1088,7 +1088,8 @@
       "https://vnexpress.net/truong-dai-hoc-cmc-xet-tuyen-bo-sung-300-chi-tieu-nam-2026-5107999.html",
       "https://vnexpress.net/truong-dai-hoc-nguyen-tat-thanh-khong-tang-hoc-phi-5107692.html",
       "https://vnexpress.net/thi-sinh-truot-truong-dai-hoc-ngoai-ngu-dai-hoc-hue-vi-khong-duoc-cong-diem-ielts-5108208.html",
-      "https://vnexpress.net/lich-tuu-truong-2026-cua-tp-hcm-5108303.html"
+      "https://vnexpress.net/lich-tuu-truong-2026-cua-tp-hcm-5108303.html",
+      "https://vnexpress.net/bat-ngo-truot-dai-hoc-vi-khong-duoc-cong-diem-ielts-5108208.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
