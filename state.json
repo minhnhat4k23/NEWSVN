@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ky-vong-ha-noi-som-hoan-thanh-500-km-metro-5105002.html",
       "https://vnexpress.net/chu-tich-ha-noi-cham-dut-bi-dong-trong-chong-ngap-5105073.html",
       "https://vnexpress.net/trinh-quoc-hoi-lap-thanh-pho-quang-ninh-bac-ninh-trong-thang-8-5105157.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tu-do-thi-moi-den-ho-guom-chi-nen-mat-10-15-phut-5105002.html",
@@ -300,7 +299,8 @@
       "https://vnexpress.net/viet-nam-phoi-hop-duc-dieu-tra-su-co-chuyen-bay-vn34-5109814.html",
       "https://vnexpress.net/hang-trieu-m3-bun-nao-vet-thanh-nut-that-cua-cac-du-an-tp-hcm-5109544.html",
       "https://vnexpress.net/bo-quoc-phong-chua-de-xuat-dong-gop-tai-chinh-thay-nhap-ngu-5109649.html",
-      "https://vnexpress.net/hang-trieu-m3-bun-chan-tien-do-du-an-trong-diem-tp-hcm-5109544.html"
+      "https://vnexpress.net/hang-trieu-m3-bun-chan-tien-do-du-an-trong-diem-tp-hcm-5109544.html",
+      "https://vnexpress.net/hang-trieu-m3-bun-ngang-duong-loat-du-an-trong-diem-tp-hcm-5109544.html"
     ]
   },
   "the-gioi": {
@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/oto-dang-the-chap-tai-san-cua-chu-xe-hay-ngan-hang-5102587.html",
-      "https://vnexpress.net/de-xuat-lap-camera-ghi-hinh-hanh-khach-tren-taxi-de-tang-cuong-an-ninh-5102624.html",
       "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
       "https://vnexpress.net/dan-canh-va-quet-oto-khong-che-nguoi-di-duong-de-voi-tien-5102787.html",
       "https://vnexpress.net/tai-xe-taxi-nghi-khach-bi-lua-cho-thang-den-cong-an-5102828.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/andrea-aybar-chi-dan-cung-hon-200-nguoi-ra-toa-trong-dai-an-ma-tuy-5109765.html",
       "https://vnexpress.net/xet-xu-chi-dan-andrea-aybar-va-hon-200-nguoi-trong-trai-tam-giam-chi-hoa-5109765.html",
       "https://vnexpress.net/nu-du-khach-bi-bat-vi-trom-dong-ho-rolex-hang-hieu-tai-resort-5109810.html",
-      "https://vnexpress.net/ca-si-chi-dan-co-tien-tu-thien-xin-dieu-chinh-thong-tin-trong-dai-an-ma-tuy-vn10-5109765.html"
+      "https://vnexpress.net/ca-si-chi-dan-co-tien-tu-thien-xin-dieu-chinh-thong-tin-trong-dai-an-ma-tuy-vn10-5109765.html",
+      "https://vnexpress.net/ke-trom-doi-boi-10-trieu-usd-sau-khi-bi-chu-doanh-nghiep-ban-3-phat-5109886.html",
+      "https://vnexpress.net/mien-giam-phi-42-thu-tuc-hanh-chinh-cho-nguoi-tich-hop-du-giay-to-tren-vneid-5109877.html"
     ]
   },
   "giao-duc": {
