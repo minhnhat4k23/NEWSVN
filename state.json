@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/my-iran-oman-muon-gi-o-eo-bien-hormuz-5105815.html",
-      "https://vnexpress.net/thuy-dien-se-giao-phuong-tien-thuoc-doi-tau-bong-toi-cho-ukraine-5106116.html",
       "https://vnexpress.net/nghi-van-trong-vu-uav-ukraine-lao-xuong-bai-bien-dong-nghit-du-khach-nga-5105586.html",
       "https://vnexpress.net/van-tai-co-ukraine-chua-day-dan-duoc-khi-bi-drone-la-tap-kich-o-duc-5106129.html",
       "https://vnexpress.net/iran-tung-doa-khien-ca-vung-vinh-chim-trong-bong-toi-5106142.html",
@@ -604,12 +602,13 @@
       "https://vnexpress.net/mang-dao-cuoc-di-cuop-trang-suc-o-costco-5110138.html",
       "https://vnexpress.net/noi-that-vong-ngay-cang-tang-cua-dong-minh-vung-vinh-voi-ong-trump-5109767.html",
       "https://vnexpress.net/iran-chi-trich-ong-trump-ao-tuong-ve-dam-phan-bi-mat-5110211.html",
-      "https://vnexpress.net/nga-trieu-dai-su-nhat-vi-vu-quan-dao-tranh-chap-5110223.html"
+      "https://vnexpress.net/nga-trieu-dai-su-nhat-vi-vu-quan-dao-tranh-chap-5110223.html",
+      "https://vnexpress.net/la-chan-thaad-patriot-danh-chan-ten-lua-dan-dao-the-nao-5110033.html",
+      "https://vnexpress.net/mang-luoi-nguoi-trieu-chau-thong-tri-cho-dien-tu-lon-nhat-the-gioi-5108221.html"
     ]
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/hang-nghin-nguoi-cao-tuoi-sap-bay-nhom-mao-danh-su-thay-ban-than-duoc-gia-5103496.html",
       "https://vnexpress.net/kien-doi-844-gram-vang-bi-cong-an-tich-thu-36-nam-truoc-5103481.html",
       "https://vnexpress.net/hanh-trinh-tha-hoa-cua-nguoi-dan-ba-si-me-ga-lua-dao-5103473.html",
       "https://vnexpress.net/chong-dung-ten-rieng-khi-mua-nha-bang-tien-cua-bo-me-toi-co-quyen-doi-hoi-5103229.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/am-muu-be-trom-tre-so-sinh-cua-nu-nhan-vien-y-te-gia-mang-thai-5110149.html",
       "https://vnexpress.net/cuu-thu-truong-nguyen-ba-hoan-ra-toa-trong-vu-voi-doanh-nghiep-31-ty-dong-5110171.html",
       "https://vnexpress.net/hon-2-nam-mon-moi-doi-lai-con-bi-chong-cu-bat-ngo-bat-di-5109998.html",
-      "https://vnexpress.net/toi-co-quyen-yeu-cau-chong-cu-tang-tien-chu-cap-cho-con-5109968.html"
+      "https://vnexpress.net/toi-co-quyen-yeu-cau-chong-cu-tang-tien-chu-cap-cho-con-5109968.html",
+      "https://vnexpress.net/cong-an-ha-noi-thong-tin-ve-vu-tai-nan-giao-thong-o-pho-nguyen-huy-tu-5110178.html"
     ]
   },
   "giao-duc": {
@@ -1766,8 +1766,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/be-7-tuoi-bi-can-thi-gia-5107237.html",
-      "https://vnexpress.net/ba-nhom-thuc-pham-giup-giam-trao-nguoc-da-day-5107204.html",
       "https://vnexpress.net/bac-si-nhat-sang-tao-tuyet-chieu-chong-soc-nhiet-bang-chuoi-rac-muoi-5100972.html",
       "https://vnexpress.net/laser-dieu-tri-nam-tan-nhang-co-gay-mong-da-5107331.html",
       "https://vnexpress.net/giam-doc-benh-vien-cho-ray-phu-quoc-can-nang-nang-luc-cap-cuu-tai-cho-5107224.html",
@@ -2065,7 +2063,9 @@
       "https://vnexpress.net/dieu-gi-khien-cholesterol-van-cao-du-ban-it-an-dau-mo-5109301.html",
       "https://vnexpress.net/vi-sao-dung-do-bac-de-danh-gio-5109617.html",
       "https://vnexpress.net/nhung-nguoi-u50-chon-nam-im-mac-ke-5108145.html",
-      "https://vnexpress.net/y-te-con-dao-bien-hoa-sau-mot-nam-tp-hcm-luan-phien-bac-si-5110011.html"
+      "https://vnexpress.net/y-te-con-dao-bien-hoa-sau-mot-nam-tp-hcm-luan-phien-bac-si-5110011.html",
+      "https://vnexpress.net/robot-ai-phau-thuat-xam-lan-toi-thieu-cuu-nguoi-dot-quy-5110234.html",
+      "https://vnexpress.net/giac-mac-mong-nguoi-dan-ong-khong-the-mo-can-bang-laser-5110193.html"
     ]
   },
   "du-lich": {
@@ -2276,7 +2276,8 @@
       "https://vnexpress.net/hang-nghin-nguoi-do-ve-bien-vo-cuc-hung-yen-tu-3h-5109664.html",
       "https://vnexpress.net/hang-nghin-nguoi-do-ve-bien-vo-cuc-hung-yen-tu-3h-sang-5109664.html",
       "https://vnexpress.net/dong-song-co-5-sac-mau-5110092.html",
-      "https://vnexpress.net/ban-nguoi-mong-khong-rac-thai-giua-nui-rung-tay-bac-5108929.html"
+      "https://vnexpress.net/ban-nguoi-mong-khong-rac-thai-giua-nui-rung-tay-bac-5108929.html",
+      "https://vnexpress.net/song-o-ban-lien-mua-lua-chin-5109883.html"
     ]
   },
   "gia-dinh": {
