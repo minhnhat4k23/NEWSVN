@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/quang-ninh-bac-ninh-du-dieu-kien-len-thanh-pho-5105754.html",
-      "https://vnexpress.net/chay-nha-o-tp-hcm-cha-con-tu-vong-5105739.html",
       "https://vnexpress.net/lo-ngai-khoang-trong-phap-ly-khi-bo-dieu-kien-kinh-doanh-uav-5105654.html",
       "https://vnexpress.net/mai-vom-cho-bien-hoa-do-sap-sau-2-gio-chay-5105706.html",
       "https://vnexpress.net/de-xuat-tang-86-100-ty-dong-lam-duong-sat-lao-cai-hai-phong-5105785.html",
@@ -300,12 +298,13 @@
       "https://vnexpress.net/gia-boi-thuong-khu-ma-lang-cao-nhat-du-kien-hon-484-trieu-dong-moi-m2-5110754.html",
       "https://vnexpress.net/giam-doc-ban-quan-ly-du-an-tp-hue-bi-khai-tru-dang-5110691.html",
       "https://vnexpress.net/chay-xuong-moc-o-ha-noi-4-nguoi-nghi-mac-ket-5110781.html",
-      "https://vnexpress.net/gia-boi-thuong-khu-ma-lang-cao-nhat-du-kien-484-trieu-dong-moi-m2-5110754.html"
+      "https://vnexpress.net/gia-boi-thuong-khu-ma-lang-cao-nhat-du-kien-484-trieu-dong-moi-m2-5110754.html",
+      "https://vnexpress.net/chay-xuong-moc-o-ha-noi-nghi-co-nguoi-mac-ket-5110781.html",
+      "https://vnexpress.net/dung-thue-de-han-che-dau-co-gam-giu-dat-5110642.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/thuong-vien-my-thong-qua-du-luat-trung-phat-nga-5106667.html",
       "https://vnexpress.net/trung-quoc-chuyen-minh-thanh-cong-xuong-cua-cac-cong-xuong-5106477.html",
       "https://vnexpress.net/loat-drone-la-xuat-hien-tren-co-so-sua-chua-la-chan-patriot-cua-duc-5106677.html",
       "https://vnexpress.net/thong-diep-cua-ong-putin-khi-cai-to-dau-nao-chien-dich-ukraine-5105889.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/ong-trump-muon-gap-ong-kim-jong-un-trong-nam-nay-5110666.html",
       "https://vnexpress.net/dieu-gi-xay-ra-khi-thoa-thuan-my-iran-het-hieu-luc-5110237.html",
       "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-keu-goi-bau-cu-thach-thuc-ong-zelensky-5110660.html",
-      "https://vnexpress.net/dai-my-kien-co-quan-cap-phep-cua-chinh-quyen-trump-5110678.html"
+      "https://vnexpress.net/dai-my-kien-co-quan-cap-phep-cua-chinh-quyen-trump-5110678.html",
+      "https://vnexpress.net/tin-do-tesla-bat-dau-quay-lung-voi-elon-musk-5110773.html"
     ]
   },
   "phap-luat": {
@@ -1783,8 +1783,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/sung-viem-vung-kin-sau-khi-nhet-20-vien-bi-tang-khoai-cam-5107755.html",
-      "https://vnexpress.net/6-thoi-quen-giup-ngu-ngon-tang-cuong-tri-nho-5107660.html",
       "https://vnexpress.net/8-thoi-quen-giup-my-nhan-han-quoc-co-voc-dang-chuan-bup-be-5107777.html",
       "https://vnexpress.net/long-chau-mo-rong-tiep-can-thuoc-dieu-tri-benh-hiem-tai-viet-nam-5107918.html",
       "https://vnexpress.net/vi-sao-phu-nu-can-an-du-chat-xo-moi-ngay-5107781.html",
@@ -2082,7 +2080,9 @@
       "https://vnexpress.net/bac-si-chi-cach-ha-mo-mau-bang-nguyen-tac-6-nen-5-khong-5110306.html",
       "https://vnexpress.net/chong-mat-do-benh-tien-dinh-co-giong-dot-quy-5110679.html",
       "https://vnexpress.net/cham-soc-mat-sau-noi-mi-gia-the-nao-5110646.html",
-      "https://vnexpress.net/vi-sao-veo-ngon-chan-cai-5110764.html"
+      "https://vnexpress.net/vi-sao-veo-ngon-chan-cai-5110764.html",
+      "https://vnexpress.net/vi-sao-viem-hong-hat-tai-phat-du-da-dieu-tri-5110771.html",
+      "https://vnexpress.net/an-trung-thay-thit-de-bo-sung-protein-co-giam-can-5110738.html"
     ]
   },
   "du-lich": {
@@ -2304,7 +2304,9 @@
       "https://vnexpress.net/khach-viet-chon-chuyen-di-nuoc-ngoai-vua-tam-dip-2-9-5110383.html",
       "https://vnexpress.net/8-thanh-pho-chau-au-co-do-an-ngon-nhat-5110269.html",
       "https://vnexpress.net/goi-y-loat-diem-den-tu-bac-vao-nam-dip-quoc-khanh-5110148.html",
-      "https://vnexpress.net/nguoi-rung-amazon-trai-nghiem-cuoc-song-hien-dai-5110476.html"
+      "https://vnexpress.net/nguoi-rung-amazon-trai-nghiem-cuoc-song-hien-dai-5110476.html",
+      "https://vnexpress.net/khach-trung-quoc-chi-tien-de-don-bao-lu-5110546.html",
+      "https://vnexpress.net/da-nang-duoc-khach-viet-tim-kiem-nhieu-nhat-dip-2-9-5110725.html"
     ]
   },
   "gia-dinh": {
