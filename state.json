@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ap-thap-nhiet-doi-hinh-thanh-trong-vinh-bac-bo-5106294.html",
-      "https://vnexpress.net/lam-dong-muon-xay-cao-toc-phan-thiet-bao-loc-26-000-ty-dong-5106307.html",
-      "https://vnexpress.net/hoan-thanh-sap-xep-lanh-dao-truong-hoc-truoc-30-9-5106331.html",
       "https://vnexpress.net/dai-bieu-lo-giay-phep-con-doi-ten-sau-cai-cach-thu-tuc-5106286.html",
       "https://vnexpress.net/phat-hien-anh-nghi-cua-liet-si-khi-quy-tap-mo-o-quang-ngai-5106375.html",
       "https://vnexpress.net/tp-hcm-cam-oto-mot-chieu-tren-duong-cach-mang-thang-tam-5106387.html",
@@ -300,12 +297,14 @@
       "https://vnexpress.net/nhung-ngay-pha-loi-mon-nghien-cuu-al-cua-ky-su-quan-doi-5110977.html",
       "https://vnexpress.net/hon-300-000-ha-cay-trong-nguy-co-thieu-nuoc-do-el-nino-5110734.html",
       "https://vnexpress.net/vo-chong-thay-giao-trang-tay-vi-10-ha-lua-chim-trong-lu-5110625.html",
-      "https://vnexpress.net/volvo-car-viet-nam-ho-tro-xay-moi-sua-chua-truong-hoc-5110551.html"
+      "https://vnexpress.net/volvo-car-viet-nam-ho-tro-xay-moi-sua-chua-truong-hoc-5110551.html",
+      "https://vnexpress.net/nhung-ky-su-quan-doi-pha-loi-mon-trong-nghien-cuu-al-5110977.html",
+      "https://vnexpress.net/bac-thay-tu-hanh-himalaya-nhieu-nguoi-tre-ao-tuong-thong-minh-5110621.html",
+      "https://vnexpress.net/chay-xuong-san-xuat-chi-may-va-mang-boc-pe-o-ha-noi-5111038.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/dan-thai-lan-so-huu-hon-10-trieu-khau-sung-nhieu-nhat-dong-nam-a-5106801.html",
       "https://vnexpress.net/thuong-vien-my-thong-qua-luat-ap-thue-500-voi-dau-khi-nga-5106667.html",
       "https://vnexpress.net/chiec-banh-gia-20-usd-thoi-bung-noi-chien-maga-5106814.html",
       "https://vnexpress.net/uae-to-iran-tap-kich-tau-dau-o-hormuz-5106889.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/ukraine-cao-buoc-drone-nga-san-lung-xe-buyt-cho-dan-thuong-5110979.html",
       "https://vnexpress.net/can-cu-my-o-chau-au-co-the-lot-tam-ngam-cua-iran-5110955.html",
       "https://vnexpress.net/tho-lan-bi-bat-voi-cao-buoc-gay-no-duong-ong-nord-stream-5111011.html",
-      "https://vnexpress.net/nu-tro-ly-toc-vang-cua-ong-trump-duoc-nha-trang-doc-long-bao-ve-5110629.html"
+      "https://vnexpress.net/nu-tro-ly-toc-vang-cua-ong-trump-duoc-nha-trang-doc-long-bao-ve-5110629.html",
+      "https://vnexpress.net/nu-tro-ly-toc-vang-trung-thanh-tuyet-doi-voi-ong-trump-5110629.html"
     ]
   },
   "phap-luat": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/nam-sinh-hung-yen-gianh-ve-thu-ba-vao-chung-ket-olympia-5101779.html",
       "https://vnexpress.net/khi-nao-dan-so-viet-nam-ngung-tang-5101799.html",
       "https://vnexpress.net/thu-khoa-kep-gianh-cu-dup-huy-chuong-vang-olympic-hoa-quoc-te-5101077.html",
       "https://vnexpress.net/tu-co-gai-ban-do-cu-den-thu-khoa-diem-tuyet-doi-5100937.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/cap-hoc-bong-toan-phan-cho-1-500-nguoi-hoc-cong-nghe-chien-luoc-o-nuoc-ngoai-5110947.html",
       "https://vnexpress.net/chuyen-gia-diem-thi-lai-o-chuyen-tuyen-quang-hop-ly-5110799.html",
       "https://vnexpress.net/cuu-hoc-sinh-vas-lam-nghien-cuu-sinh-tien-si-vu-tru-tai-my-5109207.html",
-      "https://vnexpress.net/nuoc-dong-nam-a-nao-sap-phat-tien-cho-dan-5110888.html"
+      "https://vnexpress.net/nuoc-dong-nam-a-nao-sap-phat-tien-cho-dan-5110888.html",
+      "https://vnexpress.net/giang-co-giua-tieng-anh-va-thi-hai-mon-vao-lop-10-5110586.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
