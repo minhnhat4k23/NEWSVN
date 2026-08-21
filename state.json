@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ha-noi-du-kien-sap-nhap-so-quy-hoach-kien-truc-voi-so-xay-dung-5106717.html",
-      "https://vnexpress.net/bang-qua-duong-sat-cu-ba-bi-tau-tong-tu-vong-5107040.html",
       "https://vnexpress.net/mien-bac-va-trung-nang-nong-keo-dai-5107046.html",
       "https://vnexpress.net/dia-hinh-hiem-tro-o-mui-nghe-noi-4-du-khach-roi-xuong-bien-5107066.html",
       "https://vnexpress.net/vi-sao-du-khach-thich-ngu-dan-lai-ne-mui-nghe-5107082.html",
@@ -300,12 +298,13 @@
       "https://vnexpress.net/dai-bieu-de-nghi-giu-quy-dinh-cong-chung-dat-dai-trong-luat-5111645.html",
       "https://vnexpress.net/qua-ban-cau-ruc-sang-o-mui-thuyen-song-tra-khuc-5111464.html",
       "https://vnexpress.net/hai-phong-lam-pho-di-bo-o-trung-tam-thanh-pho-5111749.html",
-      "https://vnexpress.net/mua-nha-o-xa-hoi-nen-xet-uu-tien-thay-vi-boc-tham-5111739.html"
+      "https://vnexpress.net/mua-nha-o-xa-hoi-nen-xet-uu-tien-thay-vi-boc-tham-5111739.html",
+      "https://vnexpress.net/duong-bang-so-2-phu-cat-sap-bay-hieu-chuan-5111771.html",
+      "https://vnexpress.net/37-phuong-xa-tp-hcm-bi-cat-nuoc-nuoc-yeu-trong-8-gio-5111825.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ukraine-tap-kich-co-so-loc-dau-nga-13-nguoi-chet-5107556.html",
       "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
       "https://vnexpress.net/xe-dua-lao-vao-dam-dong-khan-gia-8-nguoi-chet-5107571.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-mong-tri-thuc-viet-o-australia-lam-cau-noi-chuyen-giao-cong-nghe-5107582.html",
@@ -604,12 +603,12 @@
       "https://vnexpress.net/don-vi-my-cho-linh-nghi-phep-choi-game-neu-tiep-tuc-tai-ngu-5111600.html",
       "https://vnexpress.net/ong-zelensky-cach-chuc-pho-chanh-van-phong-tong-thong-5111654.html",
       "https://vnexpress.net/vuong-mac-tham-tra-an-ninh-lien-quan-nu-tro-ly-may-in-song-cua-ong-trump-5111523.html",
-      "https://vnexpress.net/soi-day-dien-bi-chap-khien-my-phai-tu-pha-huy-uav-than-chet-5111662.html"
+      "https://vnexpress.net/soi-day-dien-bi-chap-khien-my-phai-tu-pha-huy-uav-than-chet-5111662.html",
+      "https://vnexpress.net/phi-cong-my-ke-giay-phut-thoat-hiem-truoc-khi-tiem-kich-lao-vao-nui-5111670.html"
     ]
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/he-thong-phat-song-trai-phep-luong-son-tv-bi-triet-pha-5105045.html",
       "https://vnexpress.net/nhung-ngay-tu-quat-gay-vao-nguoi-luyen-chiu-don-cua-nu-dac-nhiem-5104919.html",
       "https://vnexpress.net/bi-truy-na-nu-giam-doc-phau-thuat-tham-my-guong-mat-lan-tron-9-nam-5105203.html",
       "https://vnexpress.net/so-xay-dung-can-tho-phai-thi-hanh-an-cho-cu-ba-20-nam-doi-quyen-mua-nha-5105175.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/tai-xe-oto-keo-xe-may-xoet-lua-o-phan-thiet-bi-phat-2-nam-tu-5111692.html",
       "https://vnexpress.net/nhan-vien-giao-hang-dung-xe-huc-nga-ke-cam-dao-tren-pho-5111680.html",
       "https://vnexpress.net/doi-nhan-tinh-lien-tiep-dan-canh-cuop-bia-5111689.html",
-      "https://vnexpress.net/cong-an-hon-30-000-vien-kim-cuong-lau-khong-vao-he-thong-ban-le-pnj-5111611.html"
+      "https://vnexpress.net/cong-an-hon-30-000-vien-kim-cuong-lau-khong-vao-he-thong-ban-le-pnj-5111611.html",
+      "https://vnexpress.net/hai-cong-an-o-can-tho-bi-khoi-to-vi-khong-xu-ly-vu-co-y-gay-thuong-tich-5111798.html"
     ]
   },
   "giao-duc": {
@@ -1500,7 +1500,8 @@
       "https://vnexpress.net/nhiem-vu-giai-cuu-kinh-vien-vong-nasa-that-bai-5111213.html",
       "https://vnexpress.net/canh-dau-buon-ben-ngoai-phien-toa-nghin-ty-usd-xet-xu-meta-5111534.html",
       "https://vnexpress.net/tineco-doat-giai-may-lau-san-hut-bui-cao-cap-duoc-yeu-thich-nhat-5111577.html",
-      "https://vnexpress.net/lam-chu-bien-viet-nam-bang-cong-nghe-va-du-lieu-5111743.html"
+      "https://vnexpress.net/lam-chu-bien-viet-nam-bang-cong-nghe-va-du-lieu-5111743.html",
+      "https://vnexpress.net/viettel-mo-rong-sang-thi-truong-quoc-te-thu-11-5111786.html"
     ]
   },
   "kinh-doanh": {
