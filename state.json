@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/bi-tam-giu-sau-cu-dap-nga-chong-cu-cua-ban-gai-5106144.html",
-      "https://vnexpress.net/man-dung-hien-truong-vo-bi-xam-hai-va-bi-mat-cua-me-con-nguoi-chong-5106126.html",
       "https://vnexpress.net/nguoi-phu-nu-gia-cong-an-lua-chay-an-5106120.html",
       "https://vnexpress.net/bi-khoi-to-vi-di-bo-nguoc-chieu-dan-den-tai-nan-chet-nguoi-5106153.html",
       "https://vnexpress.net/mao-danh-luong-y-ban-40-000-toa-thuoc-chua-yeu-sinh-ly-thu-120-ty-dong-5106239.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/canh-sat-bi-bat-vi-noi-doi-de-dong-ho-so-2-vu-mat-tich-5112440.html",
       "https://vnexpress.net/hang-tram-nguoi-truy-lung-nghi-can-giet-em-ruot-roi-tron-vao-rung-5112531.html",
       "https://vnexpress.net/tham-o-4-trieu-dong-bi-phat-5-nam-tu-5112473.html",
-      "https://vnexpress.net/8-nguoi-trong-chuyen-an-ma-tuy-vn10-bi-de-nghi-muc-an-tu-hinh-5112590.html"
+      "https://vnexpress.net/8-nguoi-trong-chuyen-an-ma-tuy-vn10-bi-de-nghi-muc-an-tu-hinh-5112590.html",
+      "https://vnexpress.net/it-nhat-9-nguoi-trong-chuyen-an-ma-tuy-vn10-bi-de-nghi-an-tu-hinh-5112590.html",
+      "https://vnexpress.net/cuu-hieu-truong-bi-xet-xu-trong-vu-an-chan-tien-a80-cua-gan-1-000-sinh-vien-5112596.html"
     ]
   },
   "giao-duc": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/cuoc-dau-cong-nghe-man-hinh-tren-thi-truong-tv-tai-viet-nam-5102004.html",
       "https://vnexpress.net/trung-quoc-san-xuat-may-quang-khac-duv-5102668.html",
       "https://vnexpress.net/mo-hinh-openai-bi-phat-hien-thuc-hien-cuoc-tan-cong-thu-hai-5102745.html",
       "https://vnexpress.net/nha-khoa-hoc-viet-nghien-cuu-vu-tru-qua-thi-nghiem-lon-nhat-the-gioi-5099903.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-pha-ky-luc-chay-100-m-5112484.html",
       "https://vnexpress.net/trung-quoc-phat-hien-mo-hydro-tu-nhien-do-tinh-khiet-cao-5112034.html",
       "https://vnexpress.net/thach-thuc-cho-unitree-sau-khi-len-san-5111187.html",
-      "https://vnexpress.net/robot-hinh-nguoi-pha-ky-luc-chay-100-m-5112484.html"
+      "https://vnexpress.net/robot-hinh-nguoi-pha-ky-luc-chay-100-m-5112484.html",
+      "https://vnexpress.net/galaxy-s27-ultra-lo-thiet-ke-cum-camera-giong-iphone-17-pro-5112482.html"
     ]
   },
   "kinh-doanh": {
@@ -2651,7 +2651,8 @@
       "https://vnexpress.net/nguoi-viet-dau-tien-vao-doi-cuu-hoa-tinh-nguyen-toyama-5111817.html",
       "https://vnexpress.net/nguoi-ha-noi-ngac-nhien-vi-khong-thay-canh-ngap-sau-mua-5112485.html",
       "https://vnexpress.net/300-hoc-sinh-chat-vat-trong-nha-an-tam-5106850.html",
-      "https://vnexpress.net/nhieu-nguoi-ngac-nhien-vi-khong-thay-ha-noi-ngap-sau-mua-5112485.html"
+      "https://vnexpress.net/nhieu-nguoi-ngac-nhien-vi-khong-thay-ha-noi-ngap-sau-mua-5112485.html",
+      "https://vnexpress.net/nguoi-viet-dau-tien-vao-doi-cuu-hoa-tinh-nguyen-o-nhat-5111817.html"
     ]
   },
   "tam-su": {
