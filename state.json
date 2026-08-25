@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/thach-thuc-xu-ly-nha-sieu-mong-o-tp-hcm-5108013.html",
-      "https://vnexpress.net/cuoc-giang-co-quanh-nha-sieu-mong-o-tp-hcm-5108013.html",
       "https://vnexpress.net/thach-thuc-giai-quyet-nha-sieu-mong-o-tp-hcm-5108013.html",
       "https://vnexpress.net/gia-boi-thuong-dat-cho-ga-gao-cao-nhat-hon-609-trieu-dong-moi-m2-5108567.html",
       "https://vnexpress.net/cuoc-song-moi-cua-nguoi-dan-muong-than-sau-lu-quet-5108499.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/bao-narra-xa-dat-lien-lu-nhieu-song-van-tren-bao-dong-ba-5112968.html",
       "https://vnexpress.net/ne-phat-nguoi-bang-cach-gan-hai-bien-so-5112956.html",
       "https://vnexpress.net/tang-tien-tro-giup-khan-cap-khi-thien-tai-tu-ngay-5-10-5113073.html",
-      "https://vnexpress.net/sa-lan-cho-1-700-tan-sat-cung-4-thuyen-vien-chim-tren-bien-5113105.html"
+      "https://vnexpress.net/sa-lan-cho-1-700-tan-sat-cung-4-thuyen-vien-chim-tren-bien-5113105.html",
+      "https://vnexpress.net/tang-tien-tro-giup-khan-cap-thien-tai-tu-ngay-5-10-5113073.html",
+      "https://vnexpress.net/chim-sa-lan-cho-1-700-tan-sat-4-thuyen-vien-roi-xuong-bien-5113105.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/tu-dau-khau-livestream-den-vong-lao-ly-cua-khanh-sky-vua-quat-5106700.html",
       "https://vnexpress.net/luat-su-de-nghi-cho-dao-dien-le-minh-duoc-tai-ngoai-5106736.html",
       "https://vnexpress.net/huy-dong-14-ty-dong-de-cho-vay-dao-han-ngan-hang-roi-chiem-doat-5106763.html",
       "https://vnexpress.net/nu-tiktoker-bi-bat-vi-thong-tin-sai-su-that-vu-cuop-ngan-hang-o-gia-lai-5106776.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/hai-sapa-tv-khai-tu-gan-ten-thit-trau-tay-bac-de-moi-nguoi-ung-ho-5112906.html",
       "https://vnexpress.net/hai-thi-the-bao-quan-trong-ruou-va-bi-an-vu-an-24-nam-chua-co-loi-giai-5112891.html",
       "https://vnexpress.net/nghi-pham-tan-cong-tinh-duc-nguoi-di-cho-bi-bat-5112886.html",
-      "https://vnexpress.net/dau-truong-kien-doi-chia-dat-thua-ke-cua-bo-me-chong-5112907.html"
+      "https://vnexpress.net/dau-truong-kien-doi-chia-dat-thua-ke-cua-bo-me-chong-5112907.html",
+      "https://vnexpress.net/luat-su-nguoi-mau-an-tay-xa-me-tu-nho-hieu-biet-phap-luat-han-che-5113104.html"
     ]
   },
   "giao-duc": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-den-10-ty-dong-5106390.html",
       "https://vnexpress.net/thue-moi-cua-my-tao-them-suc-ep-len-thuy-san-viet-5106348.html",
       "https://vnexpress.net/co-phieu-doanh-nghiep-nha-nuoc-noi-song-5106459.html",
       "https://vnexpress.net/hung-thinh-land-giam-manh-no-trai-phieu-5106157.html",
@@ -1820,7 +1819,8 @@
       "https://vnexpress.net/mat-an-mat-ngu-vi-giai-the-doanh-nghiep-nhieu-nam-khong-hoat-dong-5112711.html",
       "https://vnexpress.net/doanh-nghiep-nho-xoay-xo-giua-bao-kho-khan-5111772.html",
       "https://vnexpress.net/vietcap-tiep-tuc-tang-8-000-cay-xanh-trong-go-green-go-up-2026-5112873.html",
-      "https://vnexpress.net/100-doanh-nghiep-tu-nhan-nop-gan-391-000-ty-dong-vao-ngan-sach-5113026.html"
+      "https://vnexpress.net/100-doanh-nghiep-tu-nhan-nop-gan-391-000-ty-dong-vao-ngan-sach-5113026.html",
+      "https://vnexpress.net/iran-co-the-dap-tra-suc-ep-kinh-te-tu-my-nhu-the-nao-5112987.html"
     ]
   },
   "suc-khoe": {
