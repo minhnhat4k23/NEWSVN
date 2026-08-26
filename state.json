@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/xu-huong-giup-viec-theo-gio-luong-thang-12-trieu-dong-5108662.html",
       "https://vnexpress.net/12-chuyen-bay-bi-anh-huong-do-tha-dieu-gan-den-chop-gan-tan-son-nhat-5108991.html",
       "https://vnexpress.net/21-chuyen-bay-bi-anh-huong-do-tha-dieu-gan-den-chop-gan-tan-son-nhat-5108991.html",
       "https://vnexpress.net/vi-sao-chu-oto-o-phu-tho-bi-phat-toi-474-trieu-dong-5109029.html",
@@ -300,7 +299,8 @@
       "https://vnexpress.net/lanh-dao-tp-hcm-nhan-trach-nhiem-khi-de-kcn-le-minh-xuan-o-nhiem-keo-dai-5113240.html",
       "https://vnexpress.net/de-xuat-han-che-xe-xang-dau-vao-trung-tam-tp-hcm-giua-nam-2027-5113358.html",
       "https://vnexpress.net/phuong-tien-cong-cong-o-thu-do-thay-doi-the-nao-sau-mot-the-ky-5111267.html",
-      "https://vnexpress.net/34-dia-phuong-dong-loat-to-chuc-di-bo-huong-toi-ky-luc-guinness-5113313.html"
+      "https://vnexpress.net/34-dia-phuong-dong-loat-to-chuc-di-bo-huong-toi-ky-luc-guinness-5113313.html",
+      "https://vnexpress.net/dien-tap-ung-pho-uav-xam-nhap-san-bay-5113361.html"
     ]
   },
   "the-gioi": {
@@ -1825,11 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/phau-thuat-cat-nhan-giap-ac-tinh-bang-robot-5110286.html",
-      "https://vnexpress.net/diem-chung-cua-nhung-nguoi-song-tho-khoe-manh-den-90-tuoi-5109907.html",
-      "https://vnexpress.net/soc-nhiet-sau-nhieu-gio-lam-viec-ngoai-troi-nang-5110285.html",
-      "https://vnexpress.net/nguoi-benh-lao-co-nen-tam-nang-5110347.html",
-      "https://vnexpress.net/dong-mach-canh-hep-khit-nhu-soi-chi-do-viem-mach-mau-5110227.html",
       "https://vnexpress.net/cac-chi-so-can-kiem-soat-de-giam-nguy-co-nhoi-mau-co-tim-5109882.html",
       "https://vnexpress.net/8-thoi-quen-co-the-giup-song-them-hon-20-nam-5110325.html",
       "https://vnexpress.net/nhoi-mau-co-tim-cap-o-tuoi-35-do-loi-song-thieu-lanh-manh-5110321.html",
@@ -2124,7 +2119,12 @@
       "https://vnexpress.net/3-thoi-quen-moi-ngay-de-giam-nguy-co-mac-benh-than-5112782.html",
       "https://vnexpress.net/kien-nghi-ho-tro-50-70-chi-phi-thuoc-cho-nguoi-thu-nhap-thap-mac-benh-nan-y-5113244.html",
       "https://vnexpress.net/bay-kiet-suc-cua-nhung-nguoi-me-muon-hoan-hao-5109918.html",
-      "https://vnexpress.net/5-thoi-quen-tuong-vo-hai-am-tham-day-huyet-ap-tang-cao-5113137.html"
+      "https://vnexpress.net/5-thoi-quen-tuong-vo-hai-am-tham-day-huyet-ap-tang-cao-5113137.html",
+      "https://vnexpress.net/bung-6-mui-sau-180-ngay-cua-nha-si-dai-loan-khien-dan-mang-nghi-anh-ai-5113138.html",
+      "https://vnexpress.net/hai-lan-ung-thu-phoi-trong-ba-nam-5113372.html",
+      "https://vnexpress.net/cu-ba-94-tuoi-ung-thu-dai-trang-5113242.html",
+      "https://vnexpress.net/ap-luc-tri-benh-co-the-bao-mon-tai-chinh-gia-dinh-5113086.html",
+      "https://vnexpress.net/giam-20-kg-sau-15-ngay-chi-uong-nuoc-loc-co-gai-ton-thuong-nao-nang-5113397.html"
     ]
   },
   "du-lich": {
