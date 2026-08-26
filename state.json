@@ -305,7 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tong-thong-phap-hung-chi-trich-vi-anh-lai-moto-nuoc-5109309.html",
       "https://vnexpress.net/nhung-quan-nhan-my-dung-ngoi-khong-yen-vi-nguoi-nha-bi-ice-truc-xuat-5109028.html",
       "https://vnexpress.net/nguoi-linh-hong-quan-mot-minh-mot-phao-chan-doan-xe-tang-duc-nam-1941-5107449.html",
       "https://vnexpress.net/thiet-hai-nha-may-loc-dau-nga-qua-anh-ve-tinh-5108609.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/truc-thang-dac-nhiem-my-nat-canh-sau-cu-ha-canh-khan-giua-rung-5113466.html",
       "https://vnexpress.net/han-quoc-siet-quy-che-thi-vi-thi-sinh-dung-kinh-ai-gian-lan-5113468.html",
       "https://vnexpress.net/bi-bat-vi-cho-may-chem-toi-gan-doi-capitol-5113552.html",
-      "https://vnexpress.net/khoanh-khac-co-gai-trung-quoc-thoat-khoi-xe-nhom-bat-coc-5113594.html"
+      "https://vnexpress.net/khoanh-khac-co-gai-trung-quoc-thoat-khoi-xe-nhom-bat-coc-5113594.html",
+      "https://vnexpress.net/vi-sao-tieng-phap-thanh-tro-ngai-trong-dam-phan-thuong-mai-my-canada-5113197.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/nha-khoa-hoc-my-tim-ra-phan-tu-tieu-diet-te-bao-ung-thu-5102378.html",
       "https://vnexpress.net/mang-di-dong-cua-samsung-lan-dau-lo-5103714.html",
       "https://vnexpress.net/trai-dat-khong-tron-5103618.html",
       "https://vnexpress.net/startup-chuong-tuyen-nguoi-co-tham-nien-luoi-mot-cach-thong-minh-5103460.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/viet-nam-xay-co-so-du-lieu-ve-mua-ban-tai-san-tri-tue-5113407.html",
       "https://vnexpress.net/loat-su-co-hai-huoc-tai-the-van-hoi-cho-robot-hinh-nguoi-5113564.html",
       "https://vnexpress.net/hop-tac-phat-trien-nhan-luc-va-nghien-cuu-chung-ve-vat-ly-hat-nhan-5113548.html",
-      "https://vnexpress.net/loat-su-co-hai-huoc-tai-the-van-hoi-robot-hinh-nguoi-5113564.html"
+      "https://vnexpress.net/loat-su-co-hai-huoc-tai-the-van-hoi-robot-hinh-nguoi-5113564.html",
+      "https://vnexpress.net/tu-lanh-danh-cho-nguoi-o-nhat-ban-5113608.html"
     ]
   },
   "kinh-doanh": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/sai-lam-khi-an-sang-lam-tang-nguy-co-gan-nhiem-mo-ung-thu-5110420.html",
-      "https://vnexpress.net/dieu-gi-xay-ra-voi-nguoi-tieu-duong-khi-an-thit-do-5110305.html",
-      "https://vnexpress.net/chuot-rut-tut-huyet-ap-khi-chay-than-co-nguy-hiem-5110487.html",
       "https://vnexpress.net/bac-si-chi-ra-thuc-pham-tot-cho-nguoi-cao-tuoi-tang-huyet-ap-5110468.html",
       "https://vnexpress.net/4-thoi-quen-an-uong-khong-tot-cho-nao-cua-tre-5110341.html",
       "https://vnexpress.net/gom-trung-thu-tinh-ong-nghiem-5110482.html",
@@ -2124,7 +2121,10 @@
       "https://vnexpress.net/bac-si-chi-cach-nhan-biet-rau-cu-ngam-hoa-chat-gay-ung-thu-5113428.html",
       "https://vnexpress.net/ung-thu-di-can-sau-mot-nam-kieng-thit-bo-doi-khoi-u-5113243.html",
       "https://vnexpress.net/so-nguoi-nghi-ngo-doc-sau-an-banh-mi-o-gia-lai-len-150-5113578.html",
-      "https://vnexpress.net/tang-huyet-ap-tuoi-20-5113167.html"
+      "https://vnexpress.net/tang-huyet-ap-tuoi-20-5113167.html",
+      "https://vnexpress.net/4-loai-ca-tot-cho-nao-nen-an-thuong-xuyen-5113443.html",
+      "https://vnexpress.net/boc-tach-u-bi-buong-trung-5113381.html",
+      "https://vnexpress.net/de-xuat-cam-toan-dien-thuoc-la-moi-va-trung-bay-tai-diem-ban-5113617.html"
     ]
   },
   "du-lich": {
@@ -3163,7 +3163,8 @@
       "https://vnexpress.net/thit-trau-gac-bep-tay-bac-hai-sapa-tv-bi-bat-vo-toi-hai-lan-dinh-qua-lua-vi-mua-keo-kera-thit-trau-gac-bep-cua-idol-5113300.html",
       "https://vnexpress.net/ngo-doc-banh-mi-ai-giup-xe-banh-mi-dam-bao-ve-sinh-an-toan-thuc-pham-5113482.html",
       "https://vnexpress.net/nha-o-xa-hoi-cho-thue-5-trieu-bo-xa-nguoi-luong-8-trieu-5112832.html",
-      "https://vnexpress.net/chuan-bi-gi-de-han-che-xe-xang-dau-vao-trung-tam-tp-hcm-giua-2027-5113509.html"
+      "https://vnexpress.net/chuan-bi-gi-de-han-che-xe-xang-dau-vao-trung-tam-tp-hcm-giua-2027-5113509.html",
+      "https://vnexpress.net/chung-ket-luot-ve-asean-cup-2026-thai-lan-co-chanathip-theerathon-cung-kho-thang-duoc-viet-nam-5113651.html"
     ]
   }
 }
