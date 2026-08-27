@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/noi-an-nghi-cua-vua-trieu-nguyen-thich-lam-tho-5109132.html",
-      "https://vnexpress.net/thuyen-thung-day-ap-ca-trich-ve-bo-bien-long-hai-5108289.html",
       "https://vnexpress.net/may-bay-viet-nam-quay-dau-ha-canh-o-munich-5109601.html",
       "https://vnexpress.net/xe-cho-gia-dinh-di-choi-vung-tau-lat-sau-tai-nan-8-nguoi-bi-thuong-5109627.html",
       "https://vnexpress.net/xe-cho-gia-dinh-di-choi-vung-tau-lat-ngua-8-nguoi-bi-thuong-5109627.html",
@@ -300,12 +298,13 @@
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-chu-tich-fifa-5113891.html",
       "https://vnexpress.net/hang-nghin-xe-do-ve-thu-phu-sau-rieng-quoc-lo-26-qua-tai-5113377.html",
       "https://vnexpress.net/de-xuat-luong-ceo-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-den-850-trieu-dong-5113872.html",
-      "https://vnexpress.net/de-xuat-luong-ceo-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-cao-nhat-850-trieu-dong-5113872.html"
+      "https://vnexpress.net/de-xuat-luong-ceo-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-cao-nhat-850-trieu-dong-5113872.html",
+      "https://vnexpress.net/xe-tai-cho-heo-lat-de-oto-7-cho-hai-me-con-tu-vong-5113822.html",
+      "https://vnexpress.net/hai-khu-dat-vang-duoc-de-xuat-thanh-toan-du-an-chong-ngap-10-000-ty-dong-5113981.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/cach-phat-ngon-vien-gen-z-phan-don-truyen-thong-de-bao-ve-ong-trump-5109064.html",
       "https://vnexpress.net/phut-thao-chay-cua-nguoi-dan-indonesia-giua-dong-dat-7-7-do-5109502.html",
       "https://vnexpress.net/tau-cho-dau-uae-bi-tan-cong-o-eo-bien-hormuz-5109524.html",
       "https://vnexpress.net/iran-yeu-cau-qatar-tha-3-phi-cong-su-24-bi-bat-sau-khi-nhay-du-5109564.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/trum-cia-den-nga-vi-nguy-co-nato-bi-tan-cong-5113901.html",
       "https://vnexpress.net/duong-di-cua-lu-quet-nhu-song-than-o-bien-gioi-nepal-trung-quoc-5113927.html",
       "https://vnexpress.net/nhung-ngoi-lang-chim-trong-bun-dat-sau-lu-quet-nhu-song-than-o-nepal-5113923.html",
-      "https://vnexpress.net/loat-vu-mat-tich-bi-lang-quen-tai-jeju-khien-han-quoc-rung-dong-5113618.html"
+      "https://vnexpress.net/loat-vu-mat-tich-bi-lang-quen-tai-jeju-khien-han-quoc-rung-dong-5113618.html",
+      "https://vnexpress.net/vu-sat-lo-manh-ngang-950-tan-thuoc-no-gay-lu-quet-o-nepal-5113937.html"
     ]
   },
   "phap-luat": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/an-trung-thay-thit-de-bo-sung-protein-co-giam-can-5110738.html",
-      "https://vnexpress.net/5-loi-ich-cua-ca-phe-voi-gan-5110464.html",
-      "https://vnexpress.net/hoang-hau-anh-trai-long-ve-hanh-trinh-chong-choi-ung-thu-cua-vua-charles-iii-5110813.html",
       "https://vnexpress.net/thai-nhi-gian-tinh-mach-ron-5110793.html",
       "https://vnexpress.net/uong-thuoc-dan-gian-co-lam-teo-u-phoi-5110790.html",
       "https://vnexpress.net/cap-can-cuoc-dinh-danh-dien-tu-cho-benh-nhan-dang-dieu-tri-5110418.html",
@@ -2124,7 +2121,10 @@
       "https://vnexpress.net/tiem-thuoc-tieu-soi-huyet-can-thiep-lay-huyet-khoi-gay-dot-quy-5113681.html",
       "https://vnexpress.net/tuong-viem-hong-hoa-nang-giap-luoi-5113673.html",
       "https://vnexpress.net/khi-nao-nguoi-duoi-45-tuoi-can-tam-soat-dot-quy-5113638.html",
-      "https://vnexpress.net/han-quoc-xet-nghiem-hoa-chat-gay-ung-thu-trong-cai-thao-nhap-tu-trung-quoc-5113753.html"
+      "https://vnexpress.net/han-quoc-xet-nghiem-hoa-chat-gay-ung-thu-trong-cai-thao-nhap-tu-trung-quoc-5113753.html",
+      "https://vnexpress.net/uong-ca-phe-den-moi-ngay-giup-on-dinh-duong-huyet-mo-mau-5112870.html",
+      "https://vnexpress.net/hai-bo-con-cung-mac-glocom-5113773.html",
+      "https://vnexpress.net/ruot-thua-hoai-tu-5113671.html"
     ]
   },
   "du-lich": {
