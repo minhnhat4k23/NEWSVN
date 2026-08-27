@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/lap-5-man-hinh-led-o-pho-di-bo-nguyen-hue-co-vu-tuyen-viet-nam-5109656.html",
-      "https://vnexpress.net/oto-khach-tong-duoi-xe-container-tren-cao-toc-20-nguoi-nhap-vien-5109693.html",
-      "https://vnexpress.net/hai-gio-cang-thang-tren-may-bay-phai-quay-dau-tai-munich-5109690.html",
       "https://vnexpress.net/hai-gio-cang-thang-tren-chiec-boeing-787-9-phai-quay-dau-lai-munich-5109690.html",
       "https://vnexpress.net/tp-hcm-thay-dai-phan-cach-betong-bang-coc-tieu-tren-cau-phu-my-5109682.html",
       "https://vnexpress.net/bep-gas-mini-no-khi-15-nguoi-an-lau-5109733.html",
@@ -300,13 +297,14 @@
       "https://vnexpress.net/moi-thiet-bi-do-luong-co-the-duoc-gan-ma-quan-ly-rieng-5113951.html",
       "https://vnexpress.net/tp-hcm-chi-hon-5-100-ty-dong-xu-ly-ron-ngap-thu-duc-5114061.html",
       "https://vnexpress.net/nguoi-dan-do-thi-dac-biet-duoc-huong-them-chinh-sach-gi-5113495.html",
-      "https://vnexpress.net/tp-hcm-du-kien-co-them-29-phuong-5114101.html"
+      "https://vnexpress.net/tp-hcm-du-kien-co-them-29-phuong-5114101.html",
+      "https://vnexpress.net/vo-chong-tu-vong-do-xe-tai-tong-o-tp-hcm-5114111.html",
+      "https://vnexpress.net/ha-noi-thu-nghiem-xe-buyt-tu-hanh-robotaxi-5114096.html",
+      "https://vnexpress.net/xe-bi-chen-vao-khoang-cach-an-toan-khong-bi-coi-la-vi-pham-5114093.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tinh-toan-cua-lanh-tu-toi-cao-iran-khi-cai-to-bo-may-an-ninh-5108964.html",
-      "https://vnexpress.net/so-nguoi-chet-trong-dong-dat-o-colombia-tang-len-294-5109602.html",
       "https://vnexpress.net/cach-phat-ngon-vien-gen-z-cua-ong-trump-bien-hop-bao-nha-trang-thanh-dau-truong-5109064.html",
       "https://vnexpress.net/thu-tuong-thai-lan-tu-lai-may-bay-toi-can-cu-quan-su-5109608.html",
       "https://vnexpress.net/colombia-de-nghi-ong-trump-dung-ap-thue-vi-kho-khan-sau-dong-dat-5109648.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/ukraine-phong-loat-ten-lua-patriot-de-chan-dan-s-400-nga-5113979.html",
       "https://vnexpress.net/noi-bat-luc-truoc-suc-huy-diet-cua-dong-lu-bun-o-nepal-5113970.html",
       "https://vnexpress.net/bat-luc-truoc-suc-huy-diet-cua-dong-lu-bun-o-nepal-5113970.html",
-      "https://vnexpress.net/su-ket-hop-tu-than-trong-tham-hoa-lu-quet-tan-pha-bien-gioi-nepal-5113915.html"
+      "https://vnexpress.net/su-ket-hop-tu-than-trong-tham-hoa-lu-quet-tan-pha-bien-gioi-nepal-5113915.html",
+      "https://vnexpress.net/my-xac-nhan-ngung-phong-van-nguoi-xin-visa-dinh-cu-tren-toan-cau-5114044.html",
+      "https://vnexpress.net/ukraine-phong-ten-lua-storm-shadow-vao-thanh-pho-donetsk-5113953.html"
     ]
   },
   "phap-luat": {
@@ -1825,7 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/vi-sao-nen-an-da-dang-thuc-pham-5110689.html",
       "https://vnexpress.net/be-gai-viem-phoi-do-dong-nhiem-covid-19-va-tu-cau-vang-5110849.html",
       "https://vnexpress.net/vi-sao-huyet-ap-cao-du-khong-an-man-5110736.html",
       "https://vnexpress.net/nguoi-viet-nam-thu-44-mac-giun-rong-5110960.html",
@@ -2124,7 +2123,8 @@
       "https://vnexpress.net/dieu-gi-xay-ra-khi-an-hai-san-song-ngam-tuong-5113984.html",
       "https://vnexpress.net/khoi-chay-than-sau-7-tuan-loc-mau-5114048.html",
       "https://vnexpress.net/an-dui-hay-uc-ga-tot-hon-5113147.html",
-      "https://vnexpress.net/bac-si-benh-vien-bach-mai-chi-5-ngo-nhan-pho-bien-ve-tien-man-kinh-5113500.html"
+      "https://vnexpress.net/bac-si-benh-vien-bach-mai-chi-5-ngo-nhan-pho-bien-ve-tien-man-kinh-5113500.html",
+      "https://vnexpress.net/ba-bai-tap-ho-tro-giam-mo-noi-tang-tang-co-5113965.html"
     ]
   },
   "du-lich": {
@@ -2419,7 +2419,8 @@
       "https://vnexpress.net/ba-diem-den-binh-yen-gan-ha-noi-dip-le-2-9-5113559.html",
       "https://vnexpress.net/nha-hang-dua-nep-com-nha-vao-thuc-don-5112914.html",
       "https://vnexpress.net/truot-mang-trong-hang-dong-3-trieu-nam-o-trung-quoc-5113879.html",
-      "https://vnexpress.net/ha-noi-mien-phi-loat-diem-tham-quan-ngay-2-9-5113647.html"
+      "https://vnexpress.net/ha-noi-mien-phi-loat-diem-tham-quan-ngay-2-9-5113647.html",
+      "https://vnexpress.net/khach-viet-uu-tien-ha-long-phu-quoc-dip-2-9-5113173.html"
     ]
   },
   "gia-dinh": {
