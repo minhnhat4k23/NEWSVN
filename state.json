@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/no-bon-chua-o-xuong-co-khi-nam-cong-nhan-tu-vong-5110559.html",
-      "https://vnexpress.net/tp-hcm-tinh-gia-thu-gom-rac-tu-1-9-the-nao-5110548.html",
       "https://vnexpress.net/ca-mau-lam-duong-ven-bien-gan-56-km-noi-tuyen-nam-song-hau-5110489.html",
       "https://vnexpress.net/di-tich-thuong-thanh-truoc-va-sau-khi-thao-do-lo-cot-5110192.html",
       "https://vnexpress.net/hang-tram-trau-bo-tha-rong-giua-khu-kinh-te-nhon-hoi-5109345.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/ca-mau-lam-cong-vien-ba-hat-lua-hon-21-ty-dong-5114797.html",
       "https://vnexpress.net/nha-tho-xay-bang-da-va-go-quy-mo-nhat-mien-bac-5114403.html",
       "https://vnexpress.net/duong-sat-viet-nam-nhan-lo-dau-may-the-he-moi-5114929.html",
-      "https://vnexpress.net/vanh-dai-1-ha-noi-truoc-ngay-thong-xe-ky-thuat-5114163.html"
+      "https://vnexpress.net/vanh-dai-1-ha-noi-truoc-ngay-thong-xe-ky-thuat-5114163.html",
+      "https://vnexpress.net/phap-van-cau-gie-thong-suot-ngay-dau-nghi-le-5114949.html",
+      "https://vnexpress.net/may-bay-di-da-lat-phai-quay-dau-khi-chuan-bi-cat-canh-5114952.html"
     ]
   },
   "the-gioi": {
@@ -1825,7 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/thieu-nien-gian-dai-trang-sau-tro-dua-xit-voi-ap-luc-vao-hau-mon-5111727.html",
       "https://vnexpress.net/nhung-benh-xuong-khop-thuong-gap-o-nguoi-cao-tuoi-5111737.html",
       "https://vnexpress.net/suy-than-nang-hon-sau-uong-thuoc-giam-dau-5111729.html",
       "https://vnexpress.net/cap-cuu-dot-quy-moi-bo-nao-co-mot-thoi-diem-vang-rieng-5111478.html",
@@ -2124,7 +2123,8 @@
       "https://vnexpress.net/cam-hay-tao-tot-cho-duong-huyet-hon-5114370.html",
       "https://vnexpress.net/dieu-tri-dau-khuyu-tay-o-nguoi-choi-the-thao-5114889.html",
       "https://vnexpress.net/cach-phuc-hoi-da-giam-sac-to-sau-viem-5114881.html",
-      "https://vnexpress.net/nguoi-benh-loc-mau-can-chuan-bi-gi-khi-di-du-lich-5114874.html"
+      "https://vnexpress.net/nguoi-benh-loc-mau-can-chuan-bi-gi-khi-di-du-lich-5114874.html",
+      "https://vnexpress.net/viem-co-tim-cap-sau-hai-ngay-sot-nhe-5114564.html"
     ]
   },
   "du-lich": {
