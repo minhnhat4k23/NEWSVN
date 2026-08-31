@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nhung-ngay-pha-loi-mon-nghien-cuu-al-cua-ky-su-quan-doi-5110977.html",
-      "https://vnexpress.net/hon-300-000-ha-cay-trong-nguy-co-thieu-nuoc-do-el-nino-5110734.html",
       "https://vnexpress.net/vo-chong-thay-giao-trang-tay-vi-10-ha-lua-chim-trong-lu-5110625.html",
       "https://vnexpress.net/volvo-car-viet-nam-ho-tro-xay-moi-sua-chua-truong-hoc-5110551.html",
       "https://vnexpress.net/nhung-ky-su-quan-doi-pha-loi-mon-trong-nghien-cuu-al-5110977.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/cao-toc-xuyen-rung-cao-su-noi-tp-hcm-da-lat-sau-mot-nam-khoi-cong-5115046.html",
       "https://vnexpress.net/lat-xe-khach-o-gia-lai-4-nguoi-chet-5115303.html",
       "https://vnexpress.net/xe-khach-cho-31-nguoi-bi-lat-3-nguoi-chet-5115303.html",
-      "https://vnexpress.net/lat-xe-khach-o-gia-lai-mot-nguoi-tu-vong-5115303.html"
+      "https://vnexpress.net/lat-xe-khach-o-gia-lai-mot-nguoi-tu-vong-5115303.html",
+      "https://vnexpress.net/oto-giuong-nam-cho-33-khach-bi-lat-3-nguoi-chet-5115303.html",
+      "https://vnexpress.net/tan-du-bao-saudel-manh-len-thanh-ap-thap-nhiet-doi-tren-bien-dong-5115315.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/ke-dung-dao-truy-sat-ca-nha-ban-gai-linh-an-tu-hinh-5109269.html",
       "https://vnexpress.net/co-quan-dieu-tra-thong-tin-ban-dau-ve-nguyen-nhan-lat-vu-lat-cano-tai-phu-quoc-5109051.html",
       "https://vnexpress.net/danh-cap-hang-nghin-du-lieu-bhxh-tiem-chung-ban-cho-dan-doi-no-thue-5109246.html",
       "https://vnexpress.net/38-gio-truy-vet-tai-xe-bo-tron-700-km-sau-khi-tong-nguoi-di-duong-5109059.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/180-000-tom-hum-giong-trong-hanh-ly-tren-chuyen-bay-ve-viet-nam-5115242.html",
       "https://vnexpress.net/nghich-tu-dau-thu-sau-khi-sat-hai-me-5115040.html",
       "https://vnexpress.net/45-5-ty-dong-boi-tron-cua-dai-gia-bat-dong-san-da-chay-vao-tui-nhung-ai-5115164.html",
-      "https://vnexpress.net/goi-dien-nhan-tin-quang-cao-sai-gio-co-the-bi-phat-100-trieu-dong-5115021.html"
+      "https://vnexpress.net/goi-dien-nhan-tin-quang-cao-sai-gio-co-the-bi-phat-100-trieu-dong-5115021.html",
+      "https://vnexpress.net/luu-thong-tin-lao-dong-da-nghi-viec-cong-ty-se-bi-phat-den-70-trieu-dong-5114449.html"
     ]
   },
   "giao-duc": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/doanh-nghiep-viet-tang-toc-mo-rong-ra-quoc-te-5106777.html",
       "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
       "https://vnexpress.net/nguoi-tieu-dung-chun-tay-chot-don-online-5108290.html",
       "https://vnexpress.net/nhung-doanh-nghiep-lai-nhat-tren-san-nua-dau-nam-5108003.html",
@@ -1820,7 +1819,8 @@
       "https://vnexpress.net/flc-tang-von-len-gan-13-000-ty-dong-5115107.html",
       "https://vnexpress.net/cac-hang-bao-hiem-ghi-nhan-lai-tang-manh-nho-hoat-dong-tai-chinh-5115223.html",
       "https://vnexpress.net/cac-hang-bao-hiem-lai-tang-manh-nho-hoat-dong-tai-chinh-5115223.html",
-      "https://vnexpress.net/cuoc-dua-gianh-thi-phan-cua-cac-hang-do-tap-cao-cap-tai-trung-quoc-5115158.html"
+      "https://vnexpress.net/cuoc-dua-gianh-thi-phan-cua-cac-hang-do-tap-cao-cap-tai-trung-quoc-5115158.html",
+      "https://vnexpress.net/saigon-co-op-ky-vong-suc-mua-tang-hai-con-so-dip-quoc-khanh-5114934.html"
     ]
   },
   "suc-khoe": {
