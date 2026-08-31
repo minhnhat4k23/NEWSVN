@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/chay-xuong-san-xuat-chi-may-va-mang-boc-pe-o-ha-noi-5111038.html",
-      "https://vnexpress.net/chi-em-tu-vong-do-uong-nham-thuoc-diet-chuot-5111043.html",
       "https://vnexpress.net/can-tho-muon-lam-80-km-duong-sat-noi-cang-tran-de-5110890.html",
       "https://vnexpress.net/nhiep-chinh-vuong-thuksey-rinpoche-noi-ve-gioi-tre-hay-thau-cam-va-chia-se-noi-dau-5110621.html",
       "https://vnexpress.net/nhung-ky-su-quan-doi-pha-loi-mon-trong-nghien-cuu-ai-5110977.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/oto-giuong-nam-cho-33-khach-bi-lat-mot-nguoi-chet-5115303.html",
       "https://vnexpress.net/quang-ngai-xay-ra-6-tran-dong-dat-5115347.html",
       "https://vnexpress.net/cuc-csgt-chi-xu-phat-xe-co-tinh-vi-pham-khoang-cach-5115359.html",
-      "https://vnexpress.net/thu-tuong-chuyen-manh-tu-coi-trong-bang-cap-sang-nang-luc-thuc-hanh-5115351.html"
+      "https://vnexpress.net/thu-tuong-chuyen-manh-tu-coi-trong-bang-cap-sang-nang-luc-thuc-hanh-5115351.html",
+      "https://vnexpress.net/dao-tao-se-coi-trong-nang-luc-thay-vi-bang-cap-5115351.html",
+      "https://vnexpress.net/tp-hcm-bo-tri-8-noi-chua-26-trieu-m3-bun-nao-vet-5115364.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/nuoc-dong-nam-a-nao-co-dong-song-dao-chieu-moi-nam-5106590.html",
       "https://vnexpress.net/du-kien-diem-chuan-cac-nganh-dai-hoc-cong-nghe-thong-tin-2026-5106599.html",
       "https://vnexpress.net/nhung-dai-hoc-dau-tien-du-kien-lich-cong-bo-diem-chuan-5106442.html",
       "https://vnexpress.net/tan-khoa-dai-hoc-luat-tp-hcm-lan-dau-tuyen-thuc-5106690.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/nuoc-dong-nam-a-nao-la-chu-no-lon-cua-my-5115081.html",
       "https://vnexpress.net/nhieu-giao-su-harvard-mit-dut-ao-sang-canada-5115262.html",
       "https://vnexpress.net/4-nu-sinh-do-hoc-vien-quan-y-voi-30-30-diem-5114676.html",
-      "https://vnexpress.net/4-truong-quan-doi-tuyen-bo-sung-he-dan-su-5115333.html"
+      "https://vnexpress.net/4-truong-quan-doi-tuyen-bo-sung-he-dan-su-5115333.html",
+      "https://vnexpress.net/dao-tao-se-coi-trong-nang-luc-thay-vi-bang-cap-5115351.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -3259,7 +3259,8 @@
       "https://vnexpress.net/tai-xe-cang-thang-giu-khoang-cach-an-toan-tren-cao-toc-100-km-h-5115123.html",
       "https://vnexpress.net/phat-the-nao-de-tai-xe-bot-cang-thang-khi-giu-khoang-cach-an-toan-tren-cao-toc-5115123.html",
       "https://vnexpress.net/di-du-lich-mot-minh-co-nen-bao-lich-trinh-cho-nguoi-than-5115196.html",
-      "https://vnexpress.net/nguyen-tac-4-giay-giup-toi-tranh-dinh-loi-khoang-cach-an-toan-tren-cao-toc-5115324.html"
+      "https://vnexpress.net/nguyen-tac-4-giay-giup-toi-tranh-dinh-loi-khoang-cach-an-toan-tren-cao-toc-5115324.html",
+      "https://vnexpress.net/nghi-le-5-ngay-toi-o-nha-cho-khoe-5115329.html"
     ]
   }
 }
