@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/chau-a-doi-mat-nguy-co-dai-dich-lua-dao-vi-bang-nhom-loi-dung-ai-5111777.html",
-      "https://vnexpress.net/chu-tich-toa-an-hinh-su-quoc-te-lan-dau-len-tieng-sau-khi-bi-my-trung-phat-5111873.html",
       "https://vnexpress.net/tho-nhi-ky-de-nghi-interpol-phat-lenh-truy-na-thu-tuong-israel-5111882.html",
       "https://vnexpress.net/my-mien-thue-voi-300-000-tan-thit-bo-xay-nhap-khau-de-ghim-bao-gia-5111891.html",
       "https://vnexpress.net/be-tac-co-the-thuc-day-iran-chuyen-tu-phong-thu-sang-tien-cong-5111249.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/thu-tuong-canada-my-nen-bot-ra-ve-cung-ran-5115702.html",
       "https://vnexpress.net/cac-nuoc-chuc-mung-quoc-khanh-viet-nam-5115714.html",
       "https://vnexpress.net/peru-cat-quan-he-voi-iran-5115727.html",
-      "https://vnexpress.net/tong-thong-trump-de-cu-ong-hung-cao-lam-bo-truong-hai-quan-my-5115760.html"
+      "https://vnexpress.net/tong-thong-trump-de-cu-ong-hung-cao-lam-bo-truong-hai-quan-my-5115760.html",
+      "https://vnexpress.net/cuu-ho-nepal-lien-tiep-gap-duong-cut-khi-tim-cong-nhan-thuy-dien-ket-trong-ham-5115795.html",
+      "https://vnexpress.net/ong-putin-len-tieng-ve-chuyen-tham-nga-cua-trum-cia-5115804.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/my-phat-hien-mo-kim-loai-quy-khong-lo-5106055.html",
       "https://vnexpress.net/samsung-viewfinity-doat-giai-man-hinh-may-tinh-duoc-yeu-thich-5106272.html",
       "https://vnexpress.net/pgs-ts-ha-dinh-duc-qua-doi-5106443.html",
       "https://vnexpress.net/chatgpt-cho-phep-tro-chuyen-van-ban-mien-phi-khong-gioi-han-5106571.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/internet-viet-nam-lan-dau-vao-top-10-the-gioi-ca-di-dong-va-co-dinh-5115655.html",
       "https://vnexpress.net/dong-ho-e-kids-giup-ket-noi-phu-huynh-voi-con-cai-5114684.html",
       "https://vnexpress.net/mang-2g-se-duoc-tat-hoan-toan-trong-thang-9-5115657.html",
-      "https://vnexpress.net/may-loc-khong-khi-co-radar-theo-doi-nguoi-dung-5115684.html"
+      "https://vnexpress.net/may-loc-khong-khi-co-radar-theo-doi-nguoi-dung-5115684.html",
+      "https://vnexpress.net/ceo-moi-cua-apple-nhan-luong-3-trieu-usd-moi-nam-5115791.html"
     ]
   },
   "kinh-doanh": {
@@ -2433,8 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/chang-trai-phap-lam-vo-ke-hoach-doi-doc-than-cua-co-gai-viet-5099813.html",
-      "https://vnexpress.net/vnexpress-marathon-nha-trang-qua-cac-nam-5103224.html",
       "https://vnexpress.net/cuoc-chien-gianh-lai-tre-em-tu-man-hinh-5102713.html",
       "https://vnexpress.net/khoi-nghiep-tu-quan-ha-cao-sau-khi-truot-dai-hoc-5103276.html",
       "https://vnexpress.net/nghi-om-17-nam-van-huong-nguyen-luong-5103730.html",
@@ -2732,7 +2730,9 @@
       "https://vnexpress.net/ky-uc-nguoi-linh-trong-nu-cuoi-chien-thang-5111808.html",
       "https://vnexpress.net/nguoi-chi-huy-xe-tang-va-khoanh-khac-tro-thanh-bieu-tuong-lich-su-5111808.html",
       "https://vnexpress.net/nu-quan-y-diu-con-theo-nhung-cuoc-hanh-quan-5115202.html",
-      "https://vnexpress.net/nguoi-dan-ba-mien-lam-gio-chu-tich-ho-chi-minh-5115757.html"
+      "https://vnexpress.net/nguoi-dan-ba-mien-lam-gio-chu-tich-ho-chi-minh-5115757.html",
+      "https://vnexpress.net/nhung-hanh-vi-tuong-chung-vo-hai-bi-coi-la-ngoai-tinh-5115649.html",
+      "https://vnexpress.net/thuc-pham-de-duoc-bao-lau-trong-tu-dong-5115643.html"
     ]
   },
   "tam-su": {
@@ -3282,7 +3282,8 @@
       "https://vnexpress.net/thu-tu-tieu-tien-tu-chuyen-ban-tre-lay-tiet-kiem-7-thang-mua-iphone-moi-5115521.html",
       "https://vnexpress.net/robot-trung-quoc-nhay-mua-gioi-nhung-co-lay-mat-viec-cua-ban-5115599.html",
       "https://vnexpress.net/da-10-nam-co-oto-nhung-vo-chong-toi-van-chua-di-da-lat-vung-tau-5115610.html",
-      "https://vnexpress.net/xung-ho-voi-nguoi-lon-tuoi-toi-kho-chiu-voi-cau-thanh-nien-mua-hang-khong-noi-noi-hai-tieng-co-oi-5115737.html"
+      "https://vnexpress.net/xung-ho-voi-nguoi-lon-tuoi-toi-kho-chiu-voi-cau-thanh-nien-mua-hang-khong-noi-noi-hai-tieng-co-oi-5115737.html",
+      "https://vnexpress.net/me-man-phim-ngan-ai-vo-ly-den-nuc-cuoi-5115753.html"
     ]
   }
 }
