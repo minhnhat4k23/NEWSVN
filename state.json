@@ -305,7 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/khoanh-khac-f-35-ho-tong-khong-luc-mot-bay-qua-nha-quoc-hoi-my-5112570.html",
       "https://vnexpress.net/thu-tuong-nhat-neu-ly-do-gan-nhu-khong-roi-khoi-nha-cong-vu-5112566.html",
       "https://vnexpress.net/dan-may-bay-tang-hinh-my-pho-dien-suc-manh-tren-bau-troi-thu-do-5112570.html",
       "https://vnexpress.net/thuong-truc-ban-bi-thu-tran-cam-tu-len-duong-tham-singapore-5112669.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/ly-do-ngoi-nha-xanh-ky-dieu-tru-vung-giua-lu-quet-nepal-5116349.html",
       "https://vnexpress.net/giai-cuu-hai-cong-nhan-ket-9-ngay-trong-duong-ham-thuy-dien-nepal-5116471.html",
       "https://vnexpress.net/nguon-con-khien-dac-nhiem-ukraine-dau-sung-giua-thu-do-kiev-5116237.html",
-      "https://vnexpress.net/israel-chiem-thanh-tri-hezbollah-bat-chap-canh-bao-tu-iran-5116401.html"
+      "https://vnexpress.net/israel-chiem-thanh-tri-hezbollah-bat-chap-canh-bao-tu-iran-5116401.html",
+      "https://vnexpress.net/nga-xay-loat-can-cu-xuong-khong-nguoi-lai-o-crimea-5116534.html"
     ]
   },
   "phap-luat": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/diem-chuan-dai-hoc-thuy-loi-tu-19-den-24-64-5106971.html",
       "https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-tu-22-51-den-27-43-5107074.html",
       "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-da-nang-2026-chi-tiet-nhat-5106992.html",
       "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-nam-2026-chi-tiet-nhat-5106979.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/cap-tap-chuan-bi-nam-hoc-moi-sau-sap-nhap-truong-lop-5115275.html",
       "https://vnexpress.net/thay-co-cap-tap-chuan-bi-khai-giang-sau-sap-nhap-truong-5115275.html",
       "https://vnexpress.net/truong-hoc-hoi-ha-chuan-bi-khai-giang-sau-sap-nhap-5115275.html",
-      "https://vnexpress.net/thu-khoa-dau-vao-dai-hoc-voi-ky-luc-108-33-100-diem-5116484.html"
+      "https://vnexpress.net/thu-khoa-dau-vao-dai-hoc-voi-ky-luc-108-33-100-diem-5116484.html",
+      "https://vnexpress.net/thu-khoa-dai-hoc-co-diem-chuan-cao-nhat-nuoc-5116484.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -2129,8 +2129,6 @@
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/10-thanh-pho-co-do-an-duong-pho-tot-nhat-the-gioi-5104464.html",
-      "https://vnexpress.net/7-sai-lam-co-the-khien-khach-bi-phat-ngoi-tu-o-nhat-ban-5105140.html",
       "https://vnexpress.net/48-gio-an-choi-o-noi-co-le-hoi-khoa-than-noi-tieng-nhat-ban-5105108.html",
       "https://vnexpress.net/ca-phe-vuon-thu-o-tp-hcm-gay-tranh-cai-vi-nuoi-nhot-dong-vat-5102666.html",
       "https://vnexpress.net/viet-nam-vuot-thai-lan-thanh-thi-truong-hang-khong-lon-thu-hai-dong-nam-a-5105467.html",
@@ -2428,12 +2426,13 @@
       "https://vnexpress.net/nhung-du-khach-thich-den-noi-nguy-hiem-5116104.html",
       "https://vnexpress.net/khach-tang-tau-noi-them-toa-dip-le-2-9-5116301.html",
       "https://vnexpress.net/an-do-canh-bao-khong-an-ca-la-dat-tu-nepal-sau-lu-5116419.html",
-      "https://vnexpress.net/6-000-lit-nuoc-tieu-moi-ngay-cua-nguoi-leo-everest-gop-phan-lam-tan-bang-5116495.html"
+      "https://vnexpress.net/6-000-lit-nuoc-tieu-moi-ngay-cua-nguoi-leo-everest-gop-phan-lam-tan-bang-5116495.html",
+      "https://vnexpress.net/nuoc-tieu-cua-nguoi-leo-nui-everest-co-the-lam-tan-154-tan-bang-moi-mua-5116495.html",
+      "https://vnexpress.net/hang-nghin-du-khach-do-ve-sun-world-ha-long-dip-quoc-khanh-5116132.html"
     ]
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/con-gai-tim-thay-cha-sau-34-nam-mat-lien-lac-5104113.html",
       "https://vnexpress.net/am-nhac-phao-hoa-khuay-dong-dem-khai-mac-sports-festival-2026-5104125.html",
       "https://vnexpress.net/chuyen-gia-dau-tu-chi-ra-sai-lam-lon-nhat-cua-doi-nguoi-5104212.html",
       "https://vnexpress.net/cha-de-ung-dung-locket-doi-doi-tu-mon-qua-tang-ban-gai-5104201.html",
@@ -2732,7 +2731,8 @@
       "https://vnexpress.net/phu-huynh-tim-hieu-gi-khi-chon-dinh-duong-cho-tre-5113658.html",
       "https://vnexpress.net/cach-trung-nien-loi-nguoc-dong-khi-mat-viec-o-tuoi-50-5116091.html",
       "https://vnexpress.net/doi-thuc-bet-bat-cua-tac-gia-cha-giau-cha-ngheo-5116463.html",
-      "https://vnexpress.net/loat-cai-tien-tren-may-loc-nuoc-nong-lanh-karofi-platinum-s6-5114666.html"
+      "https://vnexpress.net/loat-cai-tien-tren-may-loc-nuoc-nong-lanh-karofi-platinum-s6-5114666.html",
+      "https://vnexpress.net/bo-41-tuoi-gay-soc-vi-nhin-tre-hon-con-gai-5115995.html"
     ]
   },
   "tam-su": {
