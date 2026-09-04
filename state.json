@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nut-giao-2-tang-o-nha-trang-cat-duong-sat-bac-nam-gan-10-nam-chua-xong-5111383.html",
       "https://vnexpress.net/nut-giao-2-tang-cat-duong-sat-o-nha-trang-gan-10-nam-chua-xong-5111383.html",
       "https://vnexpress.net/tan-son-nhat-noi-bai-tang-tan-suat-khai-thac-dip-tet-nguyen-dan-2027-5112090.html",
       "https://vnexpress.net/hoc-sinh-vung-cao-lang-son-co-thu-vien-moi-5112069.html",
@@ -300,7 +299,8 @@
       "https://vnexpress.net/vat-the-bay-gan-san-bay-cat-bi-khien-3-chuyen-bay-bi-anh-huong-5116257.html",
       "https://vnexpress.net/hai-nan-nhan-vu-chay-nha-4-tang-o-nha-trang-da-tu-vong-5116275.html",
       "https://vnexpress.net/nguoi-phu-nu-bo-pho-ve-rung-u-minh-lam-du-lich-5114756.html",
-      "https://vnexpress.net/chay-cua-hang-xe-dien-o-dak-lak-5116307.html"
+      "https://vnexpress.net/chay-cua-hang-xe-dien-o-dak-lak-5116307.html",
+      "https://vnexpress.net/cam-duong-o-hai-phong-de-xu-ly-bom-5116325.html"
     ]
   },
   "the-gioi": {
@@ -1825,10 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/5-thoi-quen-tuong-vo-hai-am-tham-day-huyet-ap-tang-cao-5113137.html",
-      "https://vnexpress.net/bung-6-mui-sau-180-ngay-cua-nha-si-dai-loan-khien-dan-mang-nghi-anh-ai-5113138.html",
-      "https://vnexpress.net/hai-lan-ung-thu-phoi-trong-ba-nam-5113372.html",
-      "https://vnexpress.net/cu-ba-94-tuoi-ung-thu-dai-trang-5113242.html",
       "https://vnexpress.net/ap-luc-tri-benh-co-the-bao-mon-tai-chinh-gia-dinh-5113086.html",
       "https://vnexpress.net/giam-20-kg-sau-15-ngay-chi-uong-nuoc-loc-co-gai-ton-thuong-nao-nang-5113397.html",
       "https://vnexpress.net/mat-phan-ung-truoc-thay-doi-anh-sang-the-nao-5113369.html",
@@ -2124,7 +2120,11 @@
       "https://vnexpress.net/vo-nguoi-hien-tang-anh-luon-giup-nguoi-em-thay-anh-lam-dieu-cuoi-cung-5116202.html",
       "https://vnexpress.net/khung-hoang-tinh-than-cua-nhung-quan-ly-banh-mi-kep-5113444.html",
       "https://vnexpress.net/nhung-sai-lam-khien-viec-an-rau-co-the-ruoc-hoa-5116037.html",
-      "https://vnexpress.net/khung-gio-an-sang-vang-giup-giam-nguy-co-dot-quy-va-tu-vong-som-5116096.html"
+      "https://vnexpress.net/khung-gio-an-sang-vang-giup-giam-nguy-co-dot-quy-va-tu-vong-som-5116096.html",
+      "https://vnexpress.net/pin-do-choi-gay-bong-mang-nhi-be-trai-5116337.html",
+      "https://vnexpress.net/u-tuyen-giap-ac-tinh-nam-khuat-ben-u-lanh-tinh-5116333.html",
+      "https://vnexpress.net/tuong-cam-cum-hoa-tieu-duong-type-1-5116330.html",
+      "https://vnexpress.net/dau-hieu-dong-nhiem-cum-va-covid-19-5116246.html"
     ]
   },
   "du-lich": {
@@ -3307,7 +3307,8 @@
       "https://vnexpress.net/gia-nha-tp-hcm-gia-nha-ha-noi-doi-nha-5-ty-quan-3-lay-chung-cu-3-ty-thu-duc-va-dat-duong-gia-5116193.html",
       "https://vnexpress.net/doi-nha-5-ty-quan-3-lay-chung-cu-o-thu-duc-va-dat-duong-gia-5116193.html",
       "https://vnexpress.net/ly-champagne-va-con-tom-trong-ruong-lua-5116135.html",
-      "https://vnexpress.net/con-tom-trong-ruong-lua-mien-tay-nhin-tu-ly-champagne-phap-5116135.html"
+      "https://vnexpress.net/con-tom-trong-ruong-lua-mien-tay-nhin-tu-ly-champagne-phap-5116135.html",
+      "https://vnexpress.net/con-tom-trong-ruong-lua-mien-tay-nhin-tu-ly-ruou-champagne-phap-5116135.html"
     ]
   }
 }
