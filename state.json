@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ban-thao-ve-lanh-tu-phai-tham-dinh-truoc-khi-dang-ky-xuat-ban-5112619.html",
       "https://vnexpress.net/uu-tien-dua-lao-dong-trinh-do-cao-di-lam-viec-o-nuoc-ngoai-5112569.html",
       "https://vnexpress.net/cat-giam-loat-thu-tuc-de-thuc-day-phat-trien-khoa-hoc-cong-nghe-5112633.html",
       "https://vnexpress.net/quoc-hoi-chot-288-000-ty-dong-xay-vanh-dai-5-vung-thu-do-5112658.html",
@@ -300,7 +299,8 @@
       "https://vnexpress.net/nghe-lam-com-o-lang-du-lich-tot-nhat-the-gioi-5116932.html",
       "https://vnexpress.net/nhan-vien-van-phong-lam-them-giup-viec-theo-gio-5116976.html",
       "https://vnexpress.net/duong-hon-1-000-ty-o-can-tho-i-ach-sau-4-nam-5116683.html",
-      "https://vnexpress.net/tuong-phat-cao-81-m-tac-vao-nui-o-mien-tay-5115142.html"
+      "https://vnexpress.net/tuong-phat-cao-81-m-tac-vao-nui-o-mien-tay-5115142.html",
+      "https://vnexpress.net/chay-can-ho-tang-9-ba-me-con-kip-chay-ra-ngoai-5117043.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/diem-chuan-hoc-vien-tai-chinh-aof-2026-chi-tiet-tat-ca-nganh-5107042.html",
       "https://vnexpress.net/diem-chuan-hoc-vien-hang-khong-viet-nam-vaa-nam-2026-kem-hoc-phi-chi-tiet-nhat-5107104.html",
       "https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi-2026-chinh-xac-nhat-5106882.html",
       "https://vnexpress.net/diem-chuan-2026-cua-tat-ca-truong-dai-hoc-thuoc-dai-hoc-da-nang-chi-tiet-5107001.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/fpt-telecom-cung-bo-cong-an-trao-12-phong-stem-cho-diem-truong-kho-khan-5116930.html",
       "https://vnexpress.net/ngoai-viet-nam-nuoc-dong-nam-a-nao-khai-giang-vao-thang-9-5116974.html",
       "https://vnexpress.net/ngay-khai-giang-o-truong-hoc-thuoc-dien-dong-nhat-ca-nuoc-5116866.html",
-      "https://vnexpress.net/chi-phi-du-hoc-my-vuot-100-000-usd-nam-o-15-truong-5114638.html"
+      "https://vnexpress.net/chi-phi-du-hoc-my-vuot-100-000-usd-nam-o-15-truong-5114638.html",
+      "https://vnexpress.net/thu-khoa-bach-khoa-tp-hcm-gianh-cu-dup-diem-toan-tuyet-doi-5117000.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/quyet-giam-can-sau-dot-quy-5114280.html",
-      "https://vnexpress.net/dat-stent-tai-thong-duong-mat-cho-nguoi-ung-thu-tuy-5114277.html",
-      "https://vnexpress.net/thuoc-trung-dich-tieu-diet-ung-thu-nhu-the-nao-5114276.html",
       "https://vnexpress.net/cac-benh-mui-hong-co-the-gay-ngung-tho-khi-ngu-5114274.html",
       "https://vnexpress.net/phan-biet-thieu-mau-nao-thoang-qua-voi-ha-duong-huyet-5114273.html",
       "https://vnexpress.net/lay-mau-cuong-ron-thai-nhi-giup-phat-hien-som-thalassemia-5114337.html",
@@ -2124,12 +2121,14 @@
       "https://vnexpress.net/5-mon-an-nhe-co-the-giam-mo-bung-5116916.html",
       "https://vnexpress.net/trao-nguoc-lau-ngay-co-nguy-co-ung-thu-5116892.html",
       "https://vnexpress.net/khi-nao-nen-phau-thuat-noi-soi-cat-u-gan-5116890.html",
-      "https://vnexpress.net/phoi-tru-dong-co-sang-loc-di-truyen-duoc-khong-5116888.html"
+      "https://vnexpress.net/phoi-tru-dong-co-sang-loc-di-truyen-duoc-khong-5116888.html",
+      "https://vnexpress.net/bac-si-my-chi-ra-5-dau-hieu-o-chan-canh-bao-than-suy-5116503.html",
+      "https://vnexpress.net/so-lay-benh-khi-o-ghep-5116953.html",
+      "https://vnexpress.net/4-thoi-quen-sau-khi-thuc-day-khong-tot-cho-phoi-5116935.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/cong-an-phu-quoc-tim-lai-dong-ho-rolex-cho-khach-trung-quoc-5106012.html",
       "https://vnexpress.net/sap-co-trien-lam-hon-400-tuong-gom-tren-nui-ba-den-5105979.html",
       "https://vnexpress.net/vi-sao-goi-banh-bo-du-khong-dung-thit-bo-5105636.html",
       "https://vnexpress.net/phoi-nang-lam-muoi-cung-diem-dan-ninh-binh-5105578.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-bay-0-dong-dip-9-9-5116882.html",
       "https://vnexpress.net/6-tham-kich-hang-khong-bi-an-bac-nhat-the-gioi-5116230.html",
       "https://vnexpress.net/thuy-dien-moi-khach-di-nhe-noi-khe-den-o-mien-phi-5116931.html",
-      "https://vnexpress.net/khu-nghi-duong-chi-nhan-dat-phong-bang-thu-tay-5116757.html"
+      "https://vnexpress.net/khu-nghi-duong-chi-nhan-dat-phong-bang-thu-tay-5116757.html",
+      "https://vnexpress.net/nhieu-khach-bi-lua-khi-dat-khach-san-o-mang-den-5116902.html"
     ]
   },
   "gia-dinh": {
