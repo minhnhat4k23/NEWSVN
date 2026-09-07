@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/sa-lan-cho-1-700-tan-sat-cung-4-thuyen-vien-chim-tren-bien-5113105.html",
       "https://vnexpress.net/tang-tien-tro-giup-khan-cap-thien-tai-tu-ngay-5-10-5113073.html",
       "https://vnexpress.net/chim-sa-lan-cho-1-700-tan-sat-4-thuyen-vien-roi-xuong-bien-5113105.html",
       "https://vnexpress.net/da-nang-xay-6-cau-qua-song-truong-giang-5113136.html",
@@ -300,13 +299,12 @@
       "https://vnexpress.net/khu-vuc-ho-guom-thay-doi-the-nao-sau-150-nam-5117293.html",
       "https://vnexpress.net/de-xuat-thu-tien-luy-tien-de-ngan-gam-giu-dat-du-an-5117303.html",
       "https://vnexpress.net/chinh-phu-yeu-cau-tang-nha-o-xa-hoi-cho-thue-5117337.html",
-      "https://vnexpress.net/gan-10-tan-ca-long-chet-sau-su-co-o-nha-may-thuy-dien-5117299.html"
+      "https://vnexpress.net/gan-10-tan-ca-long-chet-sau-su-co-o-nha-may-thuy-dien-5117299.html",
+      "https://vnexpress.net/phoi-canh-ho-guom-va-khu-vuc-phu-can-tam-nhin-100-nam-5117374.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/my-tam-ngung-lich-hen-phong-van-visa-toan-cau-5113446.html",
-      "https://vnexpress.net/trum-cia-den-nga-5113396.html",
       "https://vnexpress.net/truc-thang-dac-nhiem-my-nat-canh-sau-cu-ha-canh-khan-giua-rung-5113466.html",
       "https://vnexpress.net/han-quoc-siet-quy-che-thi-vi-thi-sinh-dung-kinh-ai-gian-lan-5113468.html",
       "https://vnexpress.net/bi-bat-vi-cho-may-chem-toi-gan-doi-capitol-5113552.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/nghi-pham-giet-ban-gai-bi-danh-gay-trong-luc-dung-lai-hien-truong-5117242.html",
       "https://vnexpress.net/dang-cuc-huu-duc-cam-on-elon-musk-trong-cuoc-bau-cu-lich-su-5117300.html",
       "https://vnexpress.net/ong-trump-goi-y-doi-ten-bang-new-mexico-thanh-new-america-5117291.html",
-      "https://vnexpress.net/nha-trang-dang-video-ong-trump-lam-sieu-anh-hung-5117358.html"
+      "https://vnexpress.net/nha-trang-dang-video-ong-trump-lam-sieu-anh-hung-5117358.html",
+      "https://vnexpress.net/cua-khau-trung-quoc-thanh-vung-dat-chet-sau-lu-quet-5117247.html",
+      "https://vnexpress.net/thi-truong-new-york-doi-dau-amazon-5117356.html"
     ]
   },
   "phap-luat": {
@@ -1825,10 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/5-sat-thu-co-the-am-tham-gay-ung-thu-neu-lam-dung-5113623.html",
-      "https://vnexpress.net/thuoc-virus-chua-ung-thu-thuc-quan-gia-1-5-ty-dong-ba-lieu-tiem-5114789.html",
-      "https://vnexpress.net/dung-noi-chien-khong-dau-the-nao-an-toan-cho-suc-khoe-5112847.html",
-      "https://vnexpress.net/ung-thu-phoi-sau-10-nam-bo-thuoc-la-5114750.html",
       "https://vnexpress.net/dau-hieu-tre-nen-kiem-tra-mat-truoc-nam-hoc-moi-5114725.html",
       "https://vnexpress.net/bac-si-chi-ra-dau-hieu-ngung-tho-khi-ngu-o-tre-5114627.html",
       "https://vnexpress.net/an-gi-giam-sam-da-sau-sinh-5114586.html",
@@ -2124,7 +2120,11 @@
       "https://vnexpress.net/soi-mat-khong-gay-dau-co-can-dieu-tri-5117357.html",
       "https://vnexpress.net/phoi-tac-nghen-man-tinh-sau-hai-lan-lao-phoi-5117280.html",
       "https://vnexpress.net/phat-hien-benh-than-du-khong-trieu-chung-5117259.html",
-      "https://vnexpress.net/trung-quoc-tieu-huy-gan-12-tan-ngong-xa-lach-nhuom-pham-mau-5117314.html"
+      "https://vnexpress.net/trung-quoc-tieu-huy-gan-12-tan-ngong-xa-lach-nhuom-pham-mau-5117314.html",
+      "https://vnexpress.net/sai-lam-khi-bao-quan-trong-tu-lanh-khien-trung-nhanh-hong-5117160.html",
+      "https://vnexpress.net/nhin-hinh-anh-meo-mo-canh-bao-dieu-gi-5117349.html",
+      "https://vnexpress.net/be-gai-6-tuoi-bi-lac-mat-kho-nhan-biet-5117326.html",
+      "https://vnexpress.net/cay-dien-cuc-oc-tai-cho-be-trai-diec-sau-bam-sinh-5117288.html"
     ]
   },
   "du-lich": {
@@ -2433,7 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/ly-do-nguoi-my-chuong-nha-go-thay-vi-betong-5105021.html",
       "https://vnexpress.net/vi-sao-nhieu-nguoi-tre-tu-choi-cong-hien-sau-tan-ca-5101820.html",
       "https://vnexpress.net/me-trung-ve-viet-anh-khoc-khi-thay-con-do-mau-tren-san-5105060.html",
       "https://vnexpress.net/thoi-quen-nha-mat-dat-co-the-gay-hoa-hoan-o-chung-cu-5103663.html",
@@ -2732,7 +2731,8 @@
       "https://vnexpress.net/co-gai-mang-thai-nhung-tuong-beo-bung-5117105.html",
       "https://vnexpress.net/ong-bo-bac-ninh-che-tao-30-sieu-xe-bang-go-tang-con-trai-5116034.html",
       "https://vnexpress.net/giau-cv-trong-hop-banh-de-xin-viec-5116876.html",
-      "https://vnexpress.net/nhung-do-vat-hoc-sinh-khong-nen-dung-chung-5117322.html"
+      "https://vnexpress.net/nhung-do-vat-hoc-sinh-khong-nen-dung-chung-5117322.html",
+      "https://vnexpress.net/lang-thang-chocopie-va-nguon-cam-hung-tu-trai-nghiem-tuoi-tre-5113339.html"
     ]
   },
   "tam-su": {
