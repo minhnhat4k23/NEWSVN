@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ba-quan-chuc-mat-vu-my-bi-dinh-chi-cong-tac-5113646.html",
-      "https://vnexpress.net/ly-do-trung-quoc-kho-dut-nguon-huyet-tuong-tu-my-5112745.html",
       "https://vnexpress.net/tuyet-ky-than-den-giup-nguoi-nhat-dich-chuyen-lau-dai-360-tan-5113072.html",
       "https://vnexpress.net/ly-do-nguoi-dan-ong-goc-viet-dua-may-chem-toi-washington-5113688.html",
       "https://vnexpress.net/vu-bat-coc-phu-bong-giac-mo-hut-khach-trung-quoc-cua-thai-lan-5113745.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/nga-trieu-tien-khanh-thanh-cau-duong-bo-dau-tien-5117489.html",
       "https://vnexpress.net/anh-ve-tinh-doanh-trai-linh-my-tai-kuwait-bi-iran-danh-sap-5117466.html",
       "https://vnexpress.net/nhung-rao-can-co-the-ngang-duong-ong-hung-cao-lam-bo-truong-hai-quan-my-5117506.html",
-      "https://vnexpress.net/truong-dai-hoc-day-tan-sinh-vien-di-xe-dien-trong-khoa-tap-quan-su-5117446.html"
+      "https://vnexpress.net/truong-dai-hoc-day-tan-sinh-vien-di-xe-dien-trong-khoa-tap-quan-su-5117446.html",
+      "https://vnexpress.net/tin-hieu-canh-bao-voi-chau-au-tu-su-troi-day-cua-phe-cuc-huu-duc-5117281.html",
+      "https://vnexpress.net/nga-co-the-noi-lai-dam-phan-ba-ben-voi-ukraine-my-5117580.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/viet-nam-australia-se-tang-cuong-hop-tac-ve-ai-cong-nghe-so-5107868.html",
       "https://vnexpress.net/luong-dat-hang-galaxy-z-fold8-tang-52-tai-viet-nam-5107892.html",
       "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-de-xuat-australia-lap-quy-nghien-cuu-chung-5107928.html",
       "https://vnexpress.net/thu-lao-den-300-trieu-dong-thang-cho-nha-khoa-hoc-phat-trien-cong-nghe-chien-luoc-5107966.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/cong-bo-quoc-te-khong-phai-tieu-chi-duy-nhat-de-danh-gia-khoa-hoc-xa-hoi-nhan-van-5117253.html",
       "https://vnexpress.net/lien-hop-quoc-thong-qua-ban-do-the-gioi-moi-5117365.html",
       "https://vnexpress.net/x60-ultra-extreme-robot-lau-nha-dau-tien-co-canh-tay-khop-kep-5117001.html",
-      "https://vnexpress.net/tai-sao-con-nguoi-thich-xem-robot-nga-5117414.html"
+      "https://vnexpress.net/tai-sao-con-nguoi-thich-xem-robot-nga-5117414.html",
+      "https://vnexpress.net/tham-khao-kinh-nghiem-han-quoc-ve-phat-trien-lam-chu-cong-nghe-5117546.html"
     ]
   },
   "kinh-doanh": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/gia-vang-hom-nay-vang-sjc-gia-bao-nhieu-5101071.html",
       "https://vnexpress.net/gia-chu-co-nen-moi-tho-xay-nha-nhau-ca-phe-thuoc-la-5100892.html",
       "https://vnexpress.net/sep-khong-vua-mat-vi-toi-dung-17h-dung-day-di-ve-5101139.html",
       "https://vnexpress.net/kinh-nghiem-nuoi-con-nuoi-day-con-the-nao-vuot-qua-ky-vong-bo-me-5101116.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/con-trai-28-tuoi-sang-nao-cung-duoc-bo-me-phat-200-nghin-dong-an-sang-ca-phe-5116895.html",
       "https://vnexpress.net/dang-tua-sach-dang-doc-len-mang-xa-hoi-co-vu-nguoi-khac-doc-hay-flex-5116900.html",
       "https://vnexpress.net/kem-trang-tien-dong-cua-25-nam-khong-an-kem-trang-tien-bong-doi-den-check-in-truoc-ngay-dong-cua-5117484.html",
-      "https://vnexpress.net/erik-tre-gio-sao-nhap-ngu-rat-giong-nhung-nguoi-ban-xai-gio-day-thun-cua-toi-5117507.html"
+      "https://vnexpress.net/erik-tre-gio-sao-nhap-ngu-rat-giong-nhung-nguoi-ban-xai-gio-day-thun-cua-toi-5117507.html",
+      "https://vnexpress.net/toi-di-cho-5h-sang-nau-an-cho-ca-gia-dinh-trong-chuyen-du-lich-bien-5117520.html"
     ]
   }
 }
