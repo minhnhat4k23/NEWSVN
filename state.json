@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nhung-ngoi-truong-hoc-sinh-phai-uot-mua-xep-hang-di-ve-sinh-5106998.html",
-      "https://vnexpress.net/gia-dinh-cau-thu-toi-ha-noi-tiep-suc-tuyen-viet-nam-5113273.html",
-      "https://vnexpress.net/tong-kiem-soat-xu-ly-xe-kinh-doanh-van-tai-tren-toan-quoc-5113322.html",
       "https://vnexpress.net/oto-tong-chet-nguoi-di-xe-may-roi-lao-vao-nha-dan-o-tp-hcm-5113335.html",
       "https://vnexpress.net/bao-so-narra-suy-yeu-thanh-ap-thap-nhiet-doi-5113330.html",
       "https://vnexpress.net/phat-loi-khong-giu-khoang-cach-tren-cao-toc-phap-van-nghi-son-5113350.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/de-nghi-ky-luat-thu-truong-y-te-tran-van-thuan-5117575.html",
       "https://vnexpress.net/chu-tich-tong-cong-ty-xay-dung-ha-noi-bi-khai-tru-dang-5117577.html",
       "https://vnexpress.net/thu-truong-y-te-tran-van-thuan-vi-pham-gay-hau-qua-rat-nghiem-trong-5117575.html",
-      "https://vnexpress.net/van-cuoc-vi-nhung-dua-tre-mo-coi-5117162.html"
+      "https://vnexpress.net/van-cuoc-vi-nhung-dua-tre-mo-coi-5117162.html",
+      "https://vnexpress.net/de-xuat-3-vi-tri-xay-san-bay-moi-o-can-tho-5117561.html",
+      "https://vnexpress.net/nhung-cong-trinh-hon-tram-tuoi-quanh-ho-guom-5117393.html",
+      "https://vnexpress.net/khanh-thanh-bep-an-cho-hoc-sinh-vung-cao-son-la-5117616.html"
     ]
   },
   "the-gioi": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-de-xuat-australia-lap-quy-nghien-cuu-chung-5107928.html",
       "https://vnexpress.net/thu-lao-den-300-trieu-dong-thang-cho-nha-khoa-hoc-phat-trien-cong-nghe-chien-luoc-5107966.html",
       "https://vnexpress.net/nhieu-chinh-sach-moi-tao-duong-chay-cho-cong-nghe-chien-luoc-5108021.html",
       "https://vnexpress.net/viet-nam-chia-se-voi-australia-cach-thuc-day-nguoi-dan-tiep-nhan-ai-5108057.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/x60-ultra-extreme-robot-lau-nha-dau-tien-co-canh-tay-khop-kep-5117001.html",
       "https://vnexpress.net/tai-sao-con-nguoi-thich-xem-robot-nga-5117414.html",
       "https://vnexpress.net/tham-khao-kinh-nghiem-han-quoc-ve-phat-trien-lam-chu-cong-nghe-5117546.html",
-      "https://vnexpress.net/ai-manh-nhat-cua-openai-gay-phan-ung-trai-chieu-5117258.html"
+      "https://vnexpress.net/ai-manh-nhat-cua-openai-gay-phan-ung-trai-chieu-5117258.html",
+      "https://vnexpress.net/con-duong-to-lua-tren-bang-5117142.html"
     ]
   },
   "kinh-doanh": {
@@ -2433,7 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/me-trung-ve-viet-anh-khoc-khi-thay-con-do-mau-tren-san-5105060.html",
       "https://vnexpress.net/thoi-quen-nha-mat-dat-co-the-gay-hoa-hoan-o-chung-cu-5103663.html",
       "https://vnexpress.net/ky-thuat-om-nhiet-giup-luoc-ga-vang-ong-khong-nut-5104766.html",
       "https://vnexpress.net/nguy-co-mat-viec-sau-nu-hon-ngoai-tinh-5104931.html",
@@ -2732,7 +2731,8 @@
       "https://vnexpress.net/giau-cv-trong-hop-banh-de-xin-viec-5116876.html",
       "https://vnexpress.net/nhung-do-vat-hoc-sinh-khong-nen-dung-chung-5117322.html",
       "https://vnexpress.net/lang-thang-chocopie-va-nguon-cam-hung-tu-trai-nghiem-tuoi-tre-5113339.html",
-      "https://vnexpress.net/buc-xuc-vi-bi-hang-xom-du-do-meo-bo-chu-5117361.html"
+      "https://vnexpress.net/buc-xuc-vi-bi-hang-xom-du-do-meo-bo-chu-5117361.html",
+      "https://vnexpress.net/khanh-thanh-bep-an-cho-hoc-sinh-vung-cao-son-la-5117616.html"
     ]
   },
   "tam-su": {
