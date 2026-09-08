@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/34-dia-phuong-dong-loat-to-chuc-di-bo-huong-toi-ky-luc-guinness-5113313.html",
-      "https://vnexpress.net/dien-tap-ung-pho-uav-xam-nhap-san-bay-5113361.html",
       "https://vnexpress.net/lat-thuyen-ba-nguoi-mat-tich-o-thai-nguyen-5113484.html",
       "https://vnexpress.net/cuc-csgt-quy-dinh-giu-khoang-cach-an-toan-khong-nham-lam-kho-tai-xe-5113492.html",
       "https://vnexpress.net/de-xuat-han-che-xe-xang-dau-khong-dat-chuan-vao-trung-tam-tp-hcm-giua-nam-2027-5113358.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/ha-noi-muon-bien-song-hong-thanh-truc-dong-luc-phat-trien-the-nao-5117555.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-nghien-cuu-xay-dung-truong-hoc-xa-hoi-chu-nghia-5117750.html",
       "https://vnexpress.net/nguoi-phu-nu-cung-hai-tre-tu-vong-tren-duong-den-truong-5117780.html",
-      "https://vnexpress.net/oto-sup-ho-tren-cao-toc-bien-hoa-vung-tau-5117640.html"
+      "https://vnexpress.net/oto-sup-ho-tren-cao-toc-bien-hoa-vung-tau-5117640.html",
+      "https://vnexpress.net/ba-me-con-tu-vong-tren-duong-den-truong-5117780.html",
+      "https://vnexpress.net/sat-lo-tao-ho-sau-40-m-cuon-phang-vuon-ca-phe-o-gia-lai-5117840.html"
     ]
   },
   "the-gioi": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/bat-on-khi-ban-can-ho-tp-hcm-3-3-ty-de-ve-ba-ria-xay-nha-vuon-5101285.html",
       "https://vnexpress.net/cong-ty-toi-10-nam-tuyen-ky-su-lam-nhan-vien-ky-thuat-5101247.html",
       "https://vnexpress.net/tai-sao-kim-cuong-bi-xuoc-nen-phai-ban-re-du-do-cung-10-10-5101469.html",
       "https://vnexpress.net/canh-ngo-vo-chong-o-tro-du-me-chong-co-hai-can-ho-cho-thue-5101578.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/toi-phan-doi-khi-con-dau-muon-nghi-viec-de-o-nha-chong-nuoi-5117372.html",
       "https://vnexpress.net/tu-ru-nhau-xem-tai-nan-den-hong-giang-ho-mang-5117479.html",
       "https://vnexpress.net/nguoi-rang-tao-noi-dung-5117479.html",
-      "https://vnexpress.net/bun-nuoc-tuong-ban-tai-chung-cu-am-anh-mui-chien-dau-hu-hang-xom-mo-cua-can-ho-chien-dau-hu-5117735.html"
+      "https://vnexpress.net/bun-nuoc-tuong-ban-tai-chung-cu-am-anh-mui-chien-dau-hu-hang-xom-mo-cua-can-ho-chien-dau-hu-5117735.html",
+      "https://vnexpress.net/toi-30-tuoi-bo-pho-ve-que-40-tuoi-nghi-huu-som-5117757.html"
     ]
   }
 }
