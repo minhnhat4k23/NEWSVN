@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/thanh-nien-cuong-buc-co-gai-nguoi-my-o-khu-nghi-duong-bi-khoi-to-5110972.html",
-      "https://vnexpress.net/khong-tich-hop-tai-khoan-huong-an-sinh-tren-vneid-toi-co-duoc-nhan-luong-huu-5111423.html",
       "https://vnexpress.net/den-han-tra-300-trieu-dong-nhung-chua-co-tien-toi-xu-ly-the-nao-cho-dung-5110147.html",
       "https://vnexpress.net/ca-si-chi-dan-thua-nhan-khoi-xuong-su-dung-ma-tuy-5111431.html",
       "https://vnexpress.net/chien-dich-truy-quet-mafia-dan-den-an-oan-cua-mc-quoc-dan-italy-5111449.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/hai-cuu-vien-truong-va-40-nguoi-ra-toa-trong-vu-ban-benh-an-tam-than-5118053.html",
       "https://vnexpress.net/gia-danh-shipper-goi-dien-doa-khach-mat-4-trieu-mot-thang-de-lua-dao-5118087.html",
       "https://vnexpress.net/be-boi-tinh-ai-quanh-cai-chet-bi-an-cua-nu-thuc-tap-sinh-5118065.html",
-      "https://vnexpress.net/mat-100-trieu-dong-khi-bi-ke-gian-dieu-khien-tu-xa-cuoc-goi-voi-ban-than-5118107.html"
+      "https://vnexpress.net/mat-100-trieu-dong-khi-bi-ke-gian-dieu-khien-tu-xa-cuoc-goi-voi-ban-than-5118107.html",
+      "https://vnexpress.net/mat-100-trieu-dong-khi-bi-ke-lua-dao-qua-mang-dao-dien-cuoc-goi-voi-ban-than-5118107.html",
+      "https://vnexpress.net/vu-tranh-chap-9-000-m2-dat-chua-nga-ngu-giua-con-dau-truong-va-cac-em-chong-5118155.html"
     ]
   },
   "giao-duc": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/toi-san-sang-nhuong-duong-du-di-toc-do-toi-da-o-lan-trai-cao-toc-5101301.html",
       "https://vnexpress.net/toi-la-giang-vien-xung-ho-anh-em-voi-sinh-vien-5101702.html",
       "https://vnexpress.net/quy-phu-huynh-bien-toi-thanh-nha-tai-tro-cua-nha-truong-5101777.html",
       "https://vnexpress.net/toi-mat-10-nam-de-hieu-dam-me-khong-tra-duoc-tien-thue-nha-5101798.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/tram-nguoi-phat-dien-truoc-cong-truong-vi-ong-bo-lai-oto-cho-quy-tu-di-hoc-5117784.html",
       "https://vnexpress.net/vo-toi-la-tien-si-nhung-thu-nhap-chua-den-15-trieu-dong-5118005.html",
       "https://vnexpress.net/toi-nghi-con-trai-lay-trom-tien-vi-bong-dung-co-hon-10-trieu-dong-5117963.html",
-      "https://vnexpress.net/toi-cach-mat-quan-an-bat-khach-phai-tu-viet-order-5118009.html"
+      "https://vnexpress.net/toi-cach-mat-quan-an-bat-khach-phai-tu-viet-order-5118009.html",
+      "https://vnexpress.net/toi-tu-bo-quan-an-bat-khach-tu-viet-order-5118009.html"
     ]
   }
 }
