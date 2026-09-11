@@ -305,7 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/thu-hien-canada-dap-tra-sac-lenh-doi-ten-ho-bien-gioi-cua-ong-trump-5115106.html",
       "https://vnexpress.net/nha-thuc-vat-hoc-chong-sa-mac-hoa-bang-50-000-con-ga-5095952.html",
       "https://vnexpress.net/venezuela-se-cung-khai-thac-dau-mo-voi-my-trong-25-nam-5115144.html",
       "https://vnexpress.net/chuyen-xe-vuot-vung-chet-de-giai-cuu-dong-doi-cua-anh-hung-ukraine-5114161.html",
@@ -604,13 +603,12 @@
       "https://vnexpress.net/cu-ep-tay-bien-hai-nguoi-la-thanh-anh-em-giua-khoi-lua-vu-khung-bo-11-9-5119006.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-nhan-huan-chuong-bac-dau-boi-tinh-cua-phap-5119126.html",
       "https://vnexpress.net/nhung-dau-vet-hu-hai-o-can-cu-my-sau-don-tan-cong-cua-iran-5119097.html",
-      "https://vnexpress.net/anh-ve-tinh-hu-hai-o-can-cu-my-sau-don-tan-cong-tu-iran-5119097.html"
+      "https://vnexpress.net/anh-ve-tinh-hu-hai-o-can-cu-my-sau-don-tan-cong-tu-iran-5119097.html",
+      "https://vnexpress.net/ong-hung-cao-iran-da-tan-pha-nang-ne-can-cu-trong-yeu-cua-my-5119155.html"
     ]
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/nhom-giang-ho-bi-bat-sau-vu-cong-tay-ep-nan-nhan-viet-giay-no-5112416.html",
-      "https://vnexpress.net/canh-sat-han-quoc-bi-bat-vi-noi-doi-de-dong-ho-so-2-vu-mat-tich-5112440.html",
       "https://vnexpress.net/tai-xe-khong-co-loi-trong-vu-xe-khach-lao-doc-vuc-lam-4-nguoi-chet-5112433.html",
       "https://vnexpress.net/mat-xich-quan-trong-cua-duong-day-lua-qua-quet-ma-qr-bi-bat-5112467.html",
       "https://vnexpress.net/cu-ong-doi-boi-thuong-khi-va-vao-be-2-tuoi-trong-khu-vui-choi-tre-em-5112493.html",
@@ -908,12 +906,13 @@
       "https://vnexpress.net/cong-an-tim-nguoi-phu-nu-bi-an-chung-kien-vu-giet-nguoi-4-nam-truoc-5119138.html",
       "https://vnexpress.net/luat-su-khong-ai-nhan-la-bi-hai-vu-hieu-truong-thu-sai-tien-day-them-5119125.html",
       "https://vnexpress.net/nguoi-phu-nu-bi-cao-buoc-dang-48-video-sai-su-that-5119193.html",
-      "https://vnexpress.net/cong-an-lam-viec-voi-ba-nguoi-dang-ban-sach-giao-khoa-photocopy-5119139.html"
+      "https://vnexpress.net/cong-an-lam-viec-voi-ba-nguoi-dang-ban-sach-giao-khoa-photocopy-5119139.html",
+      "https://vnexpress.net/pho-chu-tich-tinh-phu-tho-nguyen-huy-ngoc-bi-bat-5116796.html",
+      "https://vnexpress.net/vks-thu-tien-day-them-dung-nhung-chi-tien-sai-van-la-vi-pham-5119200.html"
     ]
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/rmit-duoc-cap-phep-thanh-lap-phan-hieu-dai-hoc-nuoc-ngoai-dau-tien-o-viet-nam-5107814.html",
       "https://vnexpress.net/bo-giao-duc-de-xuat-tang-muc-phat-voi-gian-lan-thi-cu-5107773.html",
       "https://vnexpress.net/gian-lan-thi-cu-co-the-bi-phat-toi-75-trieu-dong-5107773.html",
       "https://vnexpress.net/diem-chuan-dai-hoc-sai-gon-sgu-2026-day-du-nhat-kem-chi-tiet-hoc-phi-5107398.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/duc-tim-mach-va-hanh-trinh-vao-top-4-noi-tru-y-ha-noi-5118838.html",
       "https://vnexpress.net/lop-co-8-hoc-sinh-do-thanh-hoa-bac-dai-5119068.html",
       "https://vnexpress.net/nam-sinh-10-nam-cong-ban-do-bac-si-noi-tru-y-ha-noi-5119173.html",
-      "https://vnexpress.net/nxb-giao-duc-neu-ba-ly-do-khien-sach-giao-khoa-khan-hiem-chua-tung-co-5119153.html"
+      "https://vnexpress.net/nxb-giao-duc-neu-ba-ly-do-khien-sach-giao-khoa-khan-hiem-chua-tung-co-5119153.html",
+      "https://vnexpress.net/tp-hcm-du-kien-mo-rong-truong-chuyen-5119174.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1521,8 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/lap-dien-mat-troi-ho-gia-dinh-bao-lau-hoan-von-5111789.html",
-      "https://vnexpress.net/canada-se-ap-thue-tra-dua-my-tu-thang-9-5112301.html",
       "https://vnexpress.net/ra-mat-the-vietcombank-haha-collection-5112337.html",
       "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-se-phai-lam-thu-tuc-hai-quan-5112332.html",
       "https://vnexpress.net/hang-hoa-qua-thuong-mai-dien-tu-phai-lam-thu-tuc-hai-quan-5112332.html",
@@ -1820,12 +1818,13 @@
       "https://vnexpress.net/vietravel-airlines-mua-50-may-bay-airbus-5119057.html",
       "https://vnexpress.net/cong-ty-ba-nguyen-thanh-phuong-lam-chu-tich-muon-thoai-het-von-tai-vietcap-5119111.html",
       "https://vnexpress.net/vietravel-airlines-se-mua-50-may-bay-airbus-5119057.html",
-      "https://vnexpress.net/vinamilk-thay-doi-ra-sao-sau-nua-the-ky-5119119.html"
+      "https://vnexpress.net/vinamilk-thay-doi-ra-sao-sau-nua-the-ky-5119119.html",
+      "https://vnexpress.net/ong-doan-van-hieu-em-chung-toi-se-co-mot-phien-ban-dien-may-xanh-o-nuoc-ngoai-5119116.html",
+      "https://vnexpress.net/uy-ban-canh-tranh-ra-soat-chinh-sach-gia-chiet-khau-cua-grab-5119261.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/xuat-huyet-do-uong-thuoc-khang-dong-ket-hop-thuc-pham-bo-sung-5115802.html",
       "https://vnexpress.net/thoi-quen-khi-xao-nau-toi-hanh-khien-mon-an-mat-sach-duong-chat-quy-5115890.html",
       "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-huyet-khi-uong-nuoc-ep-5115974.html",
       "https://vnexpress.net/dau-hieu-som-canh-bao-benh-alzheimer-khong-nen-bo-qua-5116007.html",
@@ -2124,12 +2123,12 @@
       "https://vnexpress.net/thu-tinh-trong-ong-nghiem-sinh-con-thu-9-5119204.html",
       "https://vnexpress.net/ung-thu-amidan-di-can-hach-ma-khong-biet-5119151.html",
       "https://vnexpress.net/4-dau-hieu-canh-bao-benh-glocom-5119087.html",
-      "https://vnexpress.net/ung-thu-di-can-nhu-the-nao-5119070.html"
+      "https://vnexpress.net/ung-thu-di-can-nhu-the-nao-5119070.html",
+      "https://vnexpress.net/unicef-canh-bao-nguy-co-tre-em-viet-bi-xam-hai-tren-moi-truong-mang-5119236.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/xep-hang-thuong-thuc-banh-canh-ruong-15-000-dong-o-da-nang-5107329.html",
       "https://vnexpress.net/quan-hu-tieu-biet-thu-tai-tp-hcm-dong-cua-vi-dong-khach-5107778.html",
       "https://vnexpress.net/dinh-doc-lap-gay-tranh-luan-vi-thu-phi-chup-anh-len-den-10-trieu-dong-5107793.html",
       "https://vnexpress.net/khach-nuoc-ngoai-bi-tau-va-khi-ngoi-sat-pho-duong-tau-o-ha-noi-5107958.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/bua-trua-1-8-trieu-dong-trong-dinh-doc-lap-5117959.html",
       "https://vnexpress.net/5-diem-chup-anh-o-seoul-vao-mua-thu-5118681.html",
       "https://vnexpress.net/tphcm-vao-diem-mua-sam-hap-dan-bac-nhat-hanh-tinh-5119053.html",
-      "https://vnexpress.net/tphcm-vao-diem-mua-sam-hap-dan-nhat-the-gioi-5119053.html"
+      "https://vnexpress.net/tphcm-vao-diem-mua-sam-hap-dan-nhat-the-gioi-5119053.html",
+      "https://vnexpress.net/tim-thay-cuoc-song-tron-ven-sau-khi-ban-nha-di-khap-the-gioi-5119118.html"
     ]
   },
   "gia-dinh": {
