@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/ba-ly-do-khien-diem-chuan-dai-hoc-thuong-mai-giam-manh-5107413.html",
       "https://vnexpress.net/diem-chuan-tat-ca-truong-y-nam-2026-chi-tiet-nhat-5107526.html",
       "https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-thai-binh-2026-cap-nhat-nhat-5107093.html",
       "https://vnexpress.net/truong-dai-hoc-cmc-xet-tuyen-bo-sung-300-chi-tieu-nam-2026-5107999.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/nuoc-nao-la-noi-dau-tien-trao-quyen-bau-cu-cho-phu-nu-5119534.html",
       "https://vnexpress.net/nam-sinh-dung-ai-doc-chu-bac-si-so-hoa-hang-nghin-ho-so-benh-an-5110896.html",
       "https://vnexpress.net/15-nganh-hoc-co-luong-cao-nhat-cho-cu-nhan-bang-california-5119224.html",
-      "https://vnexpress.net/thuong-giao-vien-co-hoc-sinh-dat-giai-quoc-te-toi-500-trieu-dong-5119535.html"
+      "https://vnexpress.net/thuong-giao-vien-co-hoc-sinh-dat-giai-quoc-te-toi-500-trieu-dong-5119535.html",
+      "https://vnexpress.net/10-truong-co-nhieu-hoc-sinh-do-dai-hoc-kinh-te-quoc-dan-nhat-5119391.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1825,13 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/bac-si-chi-ra-3-loi-dung-lo-vi-song-co-the-gay-hai-suc-khoe-5116293.html",
-      "https://vnexpress.net/dieu-gi-xay-ra-neu-phai-dep-khong-ngu-du-giac-5116442.html",
-      "https://vnexpress.net/4-viec-nen-lam-sau-khi-an-nhieu-duong-5116454.html",
-      "https://vnexpress.net/thu-hoi-lo-thuoc-tri-gout-do-khong-dat-chat-luong-5116533.html",
-      "https://vnexpress.net/le-khai-giang-o-noi-khong-co-san-truong-5116493.html",
-      "https://vnexpress.net/thu-hoi-lo-thuoc-tri-gout-khong-dat-chat-luong-5116533.html",
-      "https://vnexpress.net/5-thuc-pham-mau-do-nguoi-cao-huyet-ap-nen-dung-5116565.html",
       "https://vnexpress.net/nguy-co-yeu-liet-do-thoai-hoa-dot-song-co-5116578.html",
       "https://vnexpress.net/an-gi-giam-quang-tham-mat-5116539.html",
       "https://vnexpress.net/men-gan-cao-gap-30-lan-sau-khi-tu-uong-thuoc-bac-5116579.html",
@@ -2124,12 +2117,18 @@
       "https://vnexpress.net/meo-giup-ban-ngu-xuyen-dem-5119251.html",
       "https://vnexpress.net/5-cach-an-sang-giup-duong-ruot-khoe-5118813.html",
       "https://vnexpress.net/bac-si-trung-quoc-canh-bao-nguy-co-loc-mau-tu-5-nhom-thuc-pham-qua-dem-5119120.html",
-      "https://vnexpress.net/4-thoi-quen-buoi-sang-giup-duy-tri-nang-luong-5119611.html"
+      "https://vnexpress.net/4-thoi-quen-buoi-sang-giup-duy-tri-nang-luong-5119611.html",
+      "https://vnexpress.net/an-man-anh-huong-den-co-the-the-nao-5119569.html",
+      "https://vnexpress.net/khi-nao-nen-bom-keo-sinh-hoc-chua-suy-gian-tinh-mach-5119567.html",
+      "https://vnexpress.net/vi-sao-roi-loan-mo-mau-du-khong-trieu-chung-5119566.html",
+      "https://vnexpress.net/vi-sao-tre-it-hoat-dong-ngoai-troi-khien-xuong-yeu-5119560.html",
+      "https://vnexpress.net/5-loai-hai-san-tot-cho-trai-tim-nen-an-thuong-xuyen-5119374.html",
+      "https://vnexpress.net/bo-y-te-de-xuat-bhyt-chi-tra-them-129-thuoc-y-hoc-co-truyen-5119675.html",
+      "https://vnexpress.net/ky-tich-xuat-vien-cua-em-be-sinh-non-nang-330-gram-5119649.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/lap-camera-ai-canh-bao-nguoi-boi-vao-vung-nguy-hiem-o-bien-cua-lo-5108283.html",
       "https://vnexpress.net/du-khach-do-den-xem-nhat-thuc-gia-phong-chau-au-tang-gap-doi-5108277.html",
       "https://vnexpress.net/thi-tran-nho-noi-ronaldo-bi-mat-ket-hon-5108336.html",
       "https://vnexpress.net/khach-quoc-te-den-phong-nha-ke-bang-duoc-bo-xin-phep-vao-vung-bien-5108437.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/loai-banh-bao-khien-nguoi-nhat-xep-hang-4-tieng-de-thuong-thuc-5119508.html",
       "https://vnexpress.net/dung-tham-quan-hang-250-trieu-nam-tuoi-o-thanh-hoa-vi-da-roi-5119494.html",
       "https://vnexpress.net/cam-nang-du-lich-o-tran-5118475.html",
-      "https://vnexpress.net/tiem-banh-bi-doi-lai-mat-bang-vi-qua-thanh-cong-5119525.html"
+      "https://vnexpress.net/tiem-banh-bi-doi-lai-mat-bang-vi-qua-thanh-cong-5119525.html",
+      "https://vnexpress.net/o-tran-bao-tang-song-cua-nhung-co-tran-trung-hoa-5118475.html"
     ]
   },
   "gia-dinh": {
