@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ganh-nang-quy-dinh-khien-gia-nha-moi-tai-my-doi-them-132-000-usd-5096867.html",
-      "https://vnexpress.net/loat-sai-lam-khien-tau-chien-2-3-ty-usd-cua-my-chay-suot-10-tieng-5116486.html",
       "https://vnexpress.net/uav-danh-trung-van-phong-trum-tinh-bao-ukraine-5116790.html",
       "https://vnexpress.net/duc-truy-lung-nha-hoat-dong-moi-truong-pha-hoai-luoi-dien-5116799.html",
       "https://vnexpress.net/sieu-tau-san-bay-my-duoc-tay-ri-set-tao-bien-o-thai-lan-5116777.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/si-quan-tinh-bao-tai-nang-nhat-cua-anh-thiet-mang-o-ukraine-5121386.html",
       "https://vnexpress.net/nhung-khoanh-khac-can-ke-cua-tu-cua-linh-my-duoi-don-ten-lua-iran-5121296.html",
       "https://vnexpress.net/giai-cuu-10-ngu-dan-viet-nam-lam-viec-tai-malaysia-5121516.html",
-      "https://vnexpress.net/houthi-tuyen-bo-ha-f-15-xua-duoi-tiem-kich-typhoon-cua-arab-saudi-5120948.html"
+      "https://vnexpress.net/houthi-tuyen-bo-ha-f-15-xua-duoi-tiem-kich-typhoon-cua-arab-saudi-5120948.html",
+      "https://vnexpress.net/cuoc-giang-co-trong-nha-trang-ve-cach-quan-ly-ai-5121178.html",
+      "https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-tau-hang-dan-su-gay-chet-nguoi-5121465.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/nguoi-viet-chi-2-400-ty-dong-mua-robot-hut-bui-trong-mot-nam-5111598.html",
       "https://vnexpress.net/aeg-audi-cua-nganh-gia-dung-gia-nhap-thi-truong-viet-5111854.html",
       "https://vnexpress.net/nha-khoa-hoc-viet-bien-phe-lieu-may-bay-thanh-vat-lieu-hut-dau-5111746.html",
       "https://vnexpress.net/ai-trong-chung-khoan-de-mua-cong-nghe-kho-dat-niem-tin-5111879.html",
@@ -1516,12 +1515,12 @@
       "https://vnexpress.net/chip-nho-chiem-60-gia-linh-kien-smartphone-tam-trung-5121109.html",
       "https://vnexpress.net/may-dao-ham-dang-khien-lon-nhat-trung-quoc-xuat-xuong-5121007.html",
       "https://vnexpress.net/hom-nay-dong-cong-binh-chon-may-loc-khong-khi-thong-minh-5121140.html",
-      "https://vnexpress.net/phat-hien-moi-ve-ket-noi-khi-hau-tu-xa-giup-du-bao-thoi-tiet-cuc-doan-5121066.html"
+      "https://vnexpress.net/phat-hien-moi-ve-ket-noi-khi-hau-tu-xa-giup-du-bao-thoi-tiet-cuc-doan-5121066.html",
+      "https://vnexpress.net/ct-group-bay-thu-nghiem-uav-ngua-tho-tren-khong-5121527.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/vi-sao-doanh-nghiep-bi-chuyen-ma-so-thue-sang-trang-thai-khong-hoat-dong-tai-dia-chi-5114067.html",
       "https://vnexpress.net/von-hoa-nvidia-tang-hon-400-ty-usd-mot-phien-5114401.html",
       "https://vnexpress.net/de-xuat-ho-kinh-doanh-chuyen-len-cong-ty-khong-can-co-ke-toan-truong-5114426.html",
       "https://vnexpress.net/chua-den-10-doanh-nghiep-sieu-nho-co-the-vay-von-5113325.html",
@@ -1820,13 +1819,12 @@
       "https://vnexpress.net/gia-xang-dau-cung-tang-5121365.html",
       "https://vnexpress.net/ca-linh-tu-250-000-dong-xuong-con-vai-chuc-nghin-mot-kg-5121291.html",
       "https://vnexpress.net/lpbank-duoc-vinh-danh-trong-nhom-dong-gop-ngan-sach-lon-nhat-5121414.html",
-      "https://vnexpress.net/chung-khoan-tang-13-diem-5121440.html"
+      "https://vnexpress.net/chung-khoan-tang-13-diem-5121440.html",
+      "https://vnexpress.net/cao-toc-bao-loc-lien-khuong-them-gan-3-000-ty-dong-von-tin-dung-5121435.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/san-phu-sinh-xong-be-gai-moi-phat-hien-con-thai-thu-hai-5118206.html",
-      "https://vnexpress.net/vi-sao-can-chu-y-chieu-cao-cua-tre-o-tuoi-day-thi-5118262.html",
       "https://vnexpress.net/pho-bi-thu-tp-hcm-khong-de-tre-em-ngheo-mat-co-hoi-chua-benh-vi-hoan-canh-5118510.html",
       "https://vnexpress.net/nga-quy-khi-an-com-thoat-chet-nho-15-phut-ep-tim-cua-nguoi-nha-5118513.html",
       "https://vnexpress.net/who-canh-bao-het-tien-thieu-nhan-vien-y-te-de-ung-pho-dich-ebola-tai-congo-5118334.html",
@@ -2124,7 +2122,9 @@
       "https://vnexpress.net/vi-sao-phu-nu-de-thieu-canxi-vitamin-d-5121240.html",
       "https://vnexpress.net/bien-y-hoc-co-truyen-thanh-dac-san-hut-khach-du-lich-tp-hcm-5121400.html",
       "https://vnexpress.net/suy-than-cap-vi-uong-tra-dac-thay-nuoc-loc-suot-hang-chuc-nam-5120894.html",
-      "https://vnexpress.net/khoang-trong-mien-dich-khien-thanh-thieu-nien-de-mac-nao-mo-cau-5121533.html"
+      "https://vnexpress.net/khoang-trong-mien-dich-khien-thanh-thieu-nien-de-mac-nao-mo-cau-5121533.html",
+      "https://vnexpress.net/vi-sao-nguoi-chay-than-de-thieu-mau-5121433.html",
+      "https://vnexpress.net/lam-gi-sau-khi-quan-he-voi-nguoi-mac-viem-gan-b-5121267.html"
     ]
   },
   "du-lich": {
