@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nha-cho-thong-minh-mai-che-hang-tram-met-noi-ben-xe-buyt-voi-metro-5116505.html",
-      "https://vnexpress.net/lap-mai-che-nha-cho-noi-tram-xe-buyt-voi-ga-metro-5116505.html",
-      "https://vnexpress.net/gan-8-5-ty-dong-ho-tro-nguoi-dan-hoc-sinh-ca-mau-5116540.html",
       "https://vnexpress.net/10-dia-phuong-4-co-quan-trung-uong-sai-sot-khi-thuc-hien-chinh-sach-178-5116467.html",
       "https://vnexpress.net/lo-gio-nong-cua-formosa-bi-chay-5116612.html",
       "https://vnexpress.net/pho-chu-tich-lam-dong-lam-thu-truong-nong-nghiep-va-moi-truong-5116666.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/nguoi-dan-ngoai-thanh-ha-noi-chay-lu-5121337.html",
       "https://vnexpress.net/dan-lang-lam-cau-tre-vuot-lu-dua-tang-nguoi-qua-co-5121313.html",
       "https://vnexpress.net/ga-duong-sat-dau-moi-ha-noi-duoc-de-xuat-tai-ngoc-hoi-gia-lam-5121257.html",
-      "https://vnexpress.net/nguoi-ha-noi-tat-nuoc-boi-xuong-ngay-mua-ngap-5121340.html"
+      "https://vnexpress.net/nguoi-ha-noi-tat-nuoc-boi-xuong-ngay-mua-ngap-5121340.html",
+      "https://vnexpress.net/nguoi-tap-lai-oto-gay-tai-nan-khien-thay-giao-tu-vong-5121366.html",
+      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tam-nhin-100-nam-phai-vuot-gioi-han-mot-nhiem-ky-5121384.html",
+      "https://vnexpress.net/vi-sao-mien-bac-va-trung-mua-keo-dai-5121403.html"
     ]
   },
   "the-gioi": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/my-co-thuc-su-khong-can-canada-nhu-loi-ong-trump-5114157.html",
       "https://vnexpress.net/quyen-luc-cua-opec-ngay-cang-suy-giam-5114304.html",
       "https://vnexpress.net/vi-sao-doanh-nghiep-bi-chuyen-ma-so-thue-sang-trang-thai-khong-hoat-dong-tai-dia-chi-5114067.html",
       "https://vnexpress.net/von-hoa-nvidia-tang-hon-400-ty-usd-mot-phien-5114401.html",
@@ -1820,12 +1819,12 @@
       "https://vnexpress.net/petrolimex-ban-sach-co-phieu-quy-5121361.html",
       "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-17-9-5121365.html",
       "https://vnexpress.net/gia-xang-dau-cung-tang-5121365.html",
-      "https://vnexpress.net/ca-linh-tu-250-000-dong-xuong-con-vai-chuc-nghin-mot-kg-5121291.html"
+      "https://vnexpress.net/ca-linh-tu-250-000-dong-xuong-con-vai-chuc-nghin-mot-kg-5121291.html",
+      "https://vnexpress.net/lpbank-duoc-vinh-danh-trong-nhom-dong-gop-ngan-sach-lon-nhat-5121414.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/tiem-vaccine-hpv-co-can-xet-nghiem-khong-5118202.html",
       "https://vnexpress.net/an-gi-giup-tre-tang-suc-de-khang-dip-tuu-truong-5118164.html",
       "https://vnexpress.net/nhung-mon-an-vat-giau-magie-phu-nu-nen-an-thuong-xuyen-5118240.html",
       "https://vnexpress.net/ton-gan-ty-dong-gianh-giat-su-song-sau-con-sot-xuat-huyet-5118358.html",
@@ -2124,12 +2123,12 @@
       "https://vnexpress.net/be-so-sinh-mon-me-thung-duong-tho-vi-nguoi-nha-nho-nham-axit-vao-mieng-5121404.html",
       "https://vnexpress.net/trung-tam-y-te-vua-di-tan-benh-nhan-chay-lut-vua-kham-benh-binh-thuong-5121358.html",
       "https://vnexpress.net/be-so-sinh-hon-me-vi-nguoi-nha-nho-nham-axit-vao-mieng-5121404.html",
-      "https://vnexpress.net/trung-tam-y-te-vua-chay-lut-vua-kham-benh-5121358.html"
+      "https://vnexpress.net/trung-tam-y-te-vua-chay-lut-vua-kham-benh-5121358.html",
+      "https://vnexpress.net/be-so-sinh-bong-duong-tho-vi-nguoi-nha-nho-nham-axit-vao-mieng-5121404.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/khach-viet-hoc-nguoi-thuy-si-tam-song-bang-tan-giua-he-5109837.html",
       "https://vnexpress.net/ba-kieu-du-lich-tuong-tiet-kiem-lai-khien-ton-kem-hon-5109859.html",
       "https://vnexpress.net/ba-kieu-du-lich-tuong-tiet-kiem-lai-gay-ton-kem-hon-5109859.html",
       "https://vnexpress.net/canh-bao-tham-gia-tour-tu-phat-do-kol-koc-quang-ba-dip-2-9-5109852.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/noi-luu-giu-hai-bo-xuong-ca-voi-lon-nhat-viet-nam-5118468.html",
       "https://vnexpress.net/ninh-binh-dung-nhieu-diem-tham-quan-vi-mua-lon-5121297.html",
       "https://vnexpress.net/nha-hang-o-ha-noi-vao-top-3-tot-nhat-the-gioi-5121336.html",
-      "https://vnexpress.net/sam-tuyen-lam-vao-top-san-golf-nghi-duong-tot-nhat-5121183.html"
+      "https://vnexpress.net/sam-tuyen-lam-vao-top-san-golf-nghi-duong-tot-nhat-5121183.html",
+      "https://vnexpress.net/de-xuat-dau-tu-800-ty-dong-lam-du-lich-mice-tai-thac-pa-sy-5121072.html"
     ]
   },
   "gia-dinh": {
