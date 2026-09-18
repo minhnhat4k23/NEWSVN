@@ -305,9 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/pho-tong-thong-philippines-nop-tien-bao-lanh-tai-ngoai-5116908.html",
-      "https://vnexpress.net/tau-dau-iran-trung-loat-ten-lua-gan-dao-kharg-5116948.html",
-      "https://vnexpress.net/ly-do-ha-lan-rut-86-tan-vang-khoi-my-canada-5116387.html",
       "https://vnexpress.net/phu-nhan-tong-bi-thu-chu-tich-nuoc-va-phu-nhan-tong-thong-myanmar-tham-lang-lua-van-phuc-5116971.html",
       "https://vnexpress.net/ong-putin-ra-lenh-ngung-tap-kich-kiev-3-ngay-5116977.html",
       "https://vnexpress.net/thuy-thu-tau-san-bay-my-tan-huong-ky-nghi-nhu-mo-tai-thai-lan-5116841.html",
@@ -604,7 +601,10 @@
       "https://vnexpress.net/ba-lan-cao-buoc-nga-dinh-tan-cong-dong-minh-cua-ukraine-5121594.html",
       "https://vnexpress.net/f-16-my-lao-xuong-dat-cu-dan-duoc-yeu-cau-o-trong-nha-5121599.html",
       "https://vnexpress.net/loat-ten-lua-hanh-trinh-nga-lien-tiep-lao-xuong-muc-tieu-ukraine-5121191.html",
-      "https://vnexpress.net/tho-nhi-ky-de-nghi-nga-ukraine-ngung-tan-cong-tau-dan-su-o-bien-den-5121603.html"
+      "https://vnexpress.net/tho-nhi-ky-de-nghi-nga-ukraine-ngung-tan-cong-tau-dan-su-o-bien-den-5121603.html",
+      "https://vnexpress.net/dan-cam-bien-khong-cuu-duoc-tiem-kich-f-15-khoi-ten-lua-houthi-5121519.html",
+      "https://vnexpress.net/tiem-kich-f-16-roi-chay-rui-o-my-5121599.html",
+      "https://vnexpress.net/my-duyet-ban-lo-f-35-tri-gia-hon-24-ty-usd-cho-arab-saudi-5121602.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/spacex-se-thu-hoi-tang-tren-cua-ten-lua-starship-bang-dua-gap-5111820.html",
       "https://vnexpress.net/mark-zuckerberg-mua-lau-dai-5111872.html",
       "https://vnexpress.net/may-loc-khong-khi-danh-cho-nha-nuoi-thu-cung-5111471.html",
       "https://vnexpress.net/nha-khoa-hoc-khong-nhat-thiet-lam-giam-doc-doanh-nghiep-5111863.html",
@@ -1516,12 +1515,12 @@
       "https://vnexpress.net/iphone-18-pro-max-duoc-rao-chenh-9-trieu-dong-so-voi-gia-niem-yet-5121515.html",
       "https://vnexpress.net/nha-may-luu-tru-dien-khi-nen-trong-hang-muoi-duoi-long-dat-5120920.html",
       "https://vnexpress.net/viet-nam-co-them-trung-tam-nghien-cuu-phat-trien-cong-nghe-khong-gian-5121558.html",
-      "https://vnexpress.net/iphone-18-pro-va-18-pro-max-mo-ban-toan-cau-5121605.html"
+      "https://vnexpress.net/iphone-18-pro-va-18-pro-max-mo-ban-toan-cau-5121605.html",
+      "https://vnexpress.net/khong-con-canh-xep-hang-dem-mua-iphone-moi-tai-viet-nam-5121637.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/chung-khoan-co-chuoi-tang-dai-nhat-nam-5114608.html",
       "https://vnexpress.net/hon-40-000-ty-dong-dau-tu-vao-tinh-ca-mau-5114471.html",
       "https://vnexpress.net/chu-so-huu-saigon-marina-ifc-lo-hon-200-ty-dong-5114652.html",
       "https://vnexpress.net/nhieu-du-an-dien-trong-diem-nguy-co-cham-tien-do-5114616.html",
@@ -1820,7 +1819,8 @@
       "https://vnexpress.net/cac-nuoc-buoc-nen-tang-goi-xe-chi-tra-an-sinh-cho-tai-xe-ra-sao-5120745.html",
       "https://vnexpress.net/kien-dinh-voi-xe-dien-gm-lo-nhip-khi-nguoi-my-o-at-mua-hybrid-5121530.html",
       "https://vnexpress.net/ong-lon-ban-le-thai-lan-du-kien-rot-them-1-5-ty-usd-vao-viet-nam-5121378.html",
-      "https://vnexpress.net/gia-vang-the-gioi-tang-manh-tro-lai-5121633.html"
+      "https://vnexpress.net/gia-vang-the-gioi-tang-manh-tro-lai-5121633.html",
+      "https://vnexpress.net/chung-khoan-viet-nam-se-the-nao-sau-khi-fed-tang-lai-suat-5121635.html"
     ]
   },
   "suc-khoe": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/toi-dai-dot-khi-vay-300-trieu-mua-oto-nhung-nam-ve-que-ba-lan-5105181.html",
       "https://vnexpress.net/hen-ho-dan-ong-co-nen-share-bill-chuyen-hen-ho-5105135.html",
       "https://vnexpress.net/gia-chung-cu-ha-noi-con-toi-27-tuoi-luong-cao-nhung-chan-nan-vi-kho-mua-nha-5105356.html",
       "https://vnexpress.net/day-boi-cho-tre-em-cap-700-000-dong-moi-hoc-sinh-de-hoc-boi-sao-khong-dua-vao-mon-chinh-khoa-5105398.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/ru-nhau-san-banh-trung-thu-handmade-300-000-dong-5121387.html",
       "https://vnexpress.net/lam-o-sai-gon-bao-lau-thi-du-800-trieu-dong-5121408.html",
       "https://vnexpress.net/bo-pho-ve-que-toi-muon-vo-bo-thu-nhap-40-trieu-o-thanh-pho-ve-que-cham-bo-me-gia-5121444.html",
-      "https://vnexpress.net/nuoc-dung-pho-an-man-co-nen-hup-sach-nuoc-dung-pho-5121457.html"
+      "https://vnexpress.net/nuoc-dung-pho-an-man-co-nen-hup-sach-nuoc-dung-pho-5121457.html",
+      "https://vnexpress.net/vi-sao-chuc-nghin-nguoi-chen-chuc-cho-kham-tu-4h30-sang-o-cho-ray-5120984.html"
     ]
   }
 }
