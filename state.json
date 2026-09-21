@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/dong-thap-co-tan-chu-tich-tinh-5118380.html",
-      "https://vnexpress.net/pho-thu-tuong-xay-dung-nhieu-phuong-an-cai-cach-tien-luong-5118440.html",
       "https://vnexpress.net/vo-chien-si-hy-sinh-khi-cuu-nguoi-duoc-tuyen-lam-quan-nhan-5118482.html",
       "https://vnexpress.net/vo-chien-si-tu-vong-khi-cuu-nguoi-duoc-tuyen-lam-quan-nhan-5118482.html",
       "https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-huy-hieu-dung-si-diet-my-5118469.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/tiem-sua-xe-qua-tai-sau-mua-ky-luc-o-vinh-5122565.html",
       "https://vnexpress.net/pho-hang-ma-dong-nghit-nguoi-truoc-trung-thu-5122572.html",
       "https://vnexpress.net/do-nha-thi-cong-cau-duong-binh-tien-sau-10-nam-cham-trien-khai-5121888.html",
-      "https://vnexpress.net/sat-lo-deo-dai-ninh-tren-tuyen-mui-ne-da-lat-5122600.html"
+      "https://vnexpress.net/sat-lo-deo-dai-ninh-tren-tuyen-mui-ne-da-lat-5122600.html",
+      "https://vnexpress.net/do-nha-lam-cau-duong-rut-ngan-7-km-tu-khu-nam-vao-trung-tam-tp-hcm-5121888.html",
+      "https://vnexpress.net/gioi-thieu-ong-truong-minh-huy-vu-de-bau-pho-chu-tich-ubnd-tp-hcm-5122642.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/lam-gia-309-anh-chuyen-khoan-chiem-doat-13-ty-dong-5115552.html",
       "https://vnexpress.net/do-xe-chan-cong-co-quan-tai-xe-bi-phat-900-000-dong-5115558.html",
       "https://vnexpress.net/bi-tan-cong-co-duoc-danh-lai-de-tu-ve-5115564.html",
       "https://vnexpress.net/tai-xe-bi-tam-giu-trong-vu-lat-oto-4-nguoi-chet-5115431.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/tai-xe-container-vuot-au-bi-xu-ly-tu-phan-anh-tren-vnetraffic-5122535.html",
       "https://vnexpress.net/tai-xe-tong-oto-vao-nhom-nguoi-truoc-quan-an-o-tp-hcm-bi-bat-5122561.html",
       "https://vnexpress.net/loi-khai-truoc-toa-cua-ke-no-sung-gay-tham-an-vi-gian-vo-5119186.html",
-      "https://vnexpress.net/ky-an-11-nam-theo-duoi-vu-kien-con-chet-do-roi-xuong-ho-ga-khong-nap-5122567.html"
+      "https://vnexpress.net/ky-an-11-nam-theo-duoi-vu-kien-con-chet-do-roi-xuong-ho-ga-khong-nap-5122567.html",
+      "https://vnexpress.net/ky-an-11-nam-theo-duoi-vu-kien-vo-chet-do-roi-xuong-ho-ga-khong-nap-5122567.html"
     ]
   },
   "giao-duc": {
