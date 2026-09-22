@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nhieu-dam-oc-huong-chet-hang-loat-nguoi-nuoi-trang-tay-5118937.html",
-      "https://vnexpress.net/dong-ham-chui-lon-nhat-tp-hcm-vi-ngap-giao-thong-roi-loan-5119083.html",
       "https://vnexpress.net/bo-giang-duong-dai-hoc-dua-banh-dua-sang-20-quoc-gia-5118948.html",
       "https://vnexpress.net/dong-ham-chui-lon-nhat-tp-hcm-vi-ngap-giao-thong-an-phu-roi-loan-5119083.html",
       "https://vnexpress.net/ham-chui-an-phu-ngap-nua-met-do-may-bom-qua-tai-5119109.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/tp-hcm-se-giai-toa-hon-5-800-nha-ven-kenh-doi-5123084.html",
       "https://vnexpress.net/ho-tri-an-xa-lu-sau-nhieu-ngay-mua-lon-5123270.html",
       "https://vnexpress.net/di-doi-5-800-nha-ven-kenh-doi-mo-duong-pham-the-hien-len-30-m-5123084.html",
-      "https://vnexpress.net/de-xuat-lap-khu-vuc-kiem-soat-khi-thai-xe-co-voi-5-nguyen-tac-5123252.html"
+      "https://vnexpress.net/de-xuat-lap-khu-vuc-kiem-soat-khi-thai-xe-co-voi-5-nguyen-tac-5123252.html",
+      "https://vnexpress.net/de-xuat-lap-khu-vuc-kiem-soat-khi-thai-xe-voi-5-nguyen-tac-5123252.html",
+      "https://vnexpress.net/hon-50-tan-ca-mu-chet-sau-mua-lu-5123302.html"
     ]
   },
   "the-gioi": {
@@ -1825,8 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/nguoi-dan-ong-bi-thuyen-tac-dong-mach-phoi-cap-5119949.html",
-      "https://vnexpress.net/bi-kien-ba-khoang-can-co-nen-tiem-vaccine-5119900.html",
       "https://vnexpress.net/4-thoi-quen-don-gian-buoi-sang-giup-giam-can-5119881.html",
       "https://vnexpress.net/dot-song-cao-tan-giam-dau-do-thoat-vi-dia-dem-5119961.html",
       "https://vnexpress.net/tokyo-dung-ai-va-sieu-tro-cap-chan-da-giam-sinh-5119860.html",
@@ -2124,12 +2122,13 @@
       "https://vnexpress.net/thay-doi-o-mat-canh-bao-benh-tim-mach-5123220.html",
       "https://vnexpress.net/hep-dong-mach-canh-gay-thieu-mau-nao-5123170.html",
       "https://vnexpress.net/dau-vai-gay-do-mac-cung-luc-hai-benh-it-gap-5123077.html",
-      "https://vnexpress.net/chay-than-o-tuoi-24-5123262.html"
+      "https://vnexpress.net/chay-than-o-tuoi-24-5123262.html",
+      "https://vnexpress.net/nguoi-phu-nu-de-nep-vit-4-nam-trong-chan-bac-si-phai-khoan-pha-de-thao-5123190.html",
+      "https://vnexpress.net/bac-si-nhat-canh-bao-3-kieu-mau-co-the-kich-hoat-dot-quy-5122653.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/san-binh-minh-tren-bien-vo-cuc-5110580.html",
       "https://vnexpress.net/huong-dan-nhap-canh-hai-nam-mien-visa-30-ngay-cho-khach-viet-5111693.html",
       "https://vnexpress.net/khach-viet-nhap-canh-dao-hai-nam-khong-can-visa-nhu-the-nao-5111693.html",
       "https://vnexpress.net/chuoi-su-kien-ngoai-troi-am-thuc-quoc-te-tai-jw-marriott-hotel-hanoi-dip-2-9-5111742.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/cau-truong-tien-trong-mau-nhu-bac-sau-hon-30-nam-5116720.html",
       "https://vnexpress.net/5-quoc-gia-mien-visa-dang-den-nhat-voi-khach-viet-5122942.html",
       "https://vnexpress.net/dan-sao-hao-hung-kham-pha-am-thuc-cung-sao-chon-5120994.html",
-      "https://vnexpress.net/khach-trung-quoc-bi-tan-cong-tinh-duc-trong-resort-o-malaysia-5123269.html"
+      "https://vnexpress.net/khach-trung-quoc-bi-tan-cong-tinh-duc-trong-resort-o-malaysia-5123269.html",
+      "https://vnexpress.net/cac-buc-tuong-tac-vao-nui-noi-tieng-the-gioi-5123212.html"
     ]
   },
   "gia-dinh": {
