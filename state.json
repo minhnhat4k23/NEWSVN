@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ha-noi-du-kien-them-5-cau-vuot-song-hong-den-nam-2038-5118741.html",
-      "https://vnexpress.net/xe-tai-lat-chan-cao-toc-vinh-hao-phan-thiet-un-tac-keo-dai-5119674.html",
       "https://vnexpress.net/ap-thap-nhiet-doi-gay-mua-lon-tu-ha-tinh-den-hue-5119689.html",
       "https://vnexpress.net/trang-dem-giu-lua-nghe-ham-muoi-150-nam-tuoi-5116182.html",
       "https://vnexpress.net/10-diem-thuong-xuat-hien-uav-dieu-gan-duong-bay-tan-son-nhat-5119737.html",
@@ -300,12 +298,13 @@
       "https://vnexpress.net/nguoi-di-lam-dung-ai-6-gio-mat-them-6-4-gio-de-hau-ai-5123917.html",
       "https://vnexpress.net/ong-nguyen-tri-thuc-thoi-chuc-thu-truong-y-te-5119295.html",
       "https://vnexpress.net/deo-gia-bac-lai-sat-lo-duong-noi-phan-thiet-da-lat-bi-chia-cat-5123929.html",
-      "https://vnexpress.net/bao-hiem-yeu-cau-buu-dien-khong-ky-thay-nhan-ho-luong-huu-5123933.html"
+      "https://vnexpress.net/bao-hiem-yeu-cau-buu-dien-khong-ky-thay-nhan-ho-luong-huu-5123933.html",
+      "https://vnexpress.net/de-nghi-han-che-muc-phat-hanh-chinh-qua-cao-5123941.html",
+      "https://vnexpress.net/viet-my-ky-hai-thoa-thuan-khac-phuc-hau-qua-chien-tranh-5123946.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/vo-cua-tong-thong-maduro-xin-tai-ngoai-5119020.html",
       "https://vnexpress.net/phap-mong-muon-tro-thanh-doi-tac-hang-dau-cua-viet-nam-trong-tri-tue-nhan-tao-5119035.html",
       "https://vnexpress.net/phap-mong-muon-tro-thanh-doi-tac-hang-dau-cua-viet-nam-trong-ai-5119035.html",
       "https://vnexpress.net/quy-dinh-ha-nhiet-can-buoc-ong-hung-cao-lam-bo-truong-hai-quan-my-5118329.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/my-iran-dam-phan-ve-cham-dut-chien-su-mo-lai-hormuz-5123793.html",
       "https://vnexpress.net/my-huy-dong-tiem-kich-f-22-oanh-tac-co-tang-hinh-cho-le-don-ong-tap-5123808.html",
       "https://vnexpress.net/ly-do-arab-saudi-hung-chiu-thiet-hai-nang-trong-xung-dot-voi-houthi-5123203.html",
-      "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-trung-phat-hai-tuong-bat-trung-5123840.html"
+      "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-trung-phat-hai-tuong-bat-trung-5123840.html",
+      "https://vnexpress.net/thoa-thuan-an-ninh-giup-my-tang-anh-huong-voi-greenland-5123575.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/moi-thiet-bi-do-luong-co-the-duoc-gan-ma-quan-ly-rieng-5113951.html",
       "https://vnexpress.net/viet-nam-sap-co-them-dau-so-di-dong-moi-5114021.html",
       "https://vnexpress.net/spacex-xay-cang-vu-tru-100-ty-usd-de-phong-ten-lua-starship-5113585.html",
       "https://vnexpress.net/nen-tang-hugging-face-bi-700-tac-nhan-openai-tan-cong-5114062.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/thu-hat-nhan-trieu-tien-co-the-kich-hoat-dut-gay-dia-chan-5122962.html",
       "https://vnexpress.net/tong-giam-doc-google-viet-nam-video-cua-nha-sang-tao-viet-dang-vuon-ra-the-gioi-5122913.html",
       "https://vnexpress.net/he-thong-chiet-tach-kim-loai-hiem-tu-chat-thai-lithium-5123417.html",
-      "https://vnexpress.net/jbl-tune-730bt-tai-nghe-pho-thong-pin-76-tieng-5123529.html"
+      "https://vnexpress.net/jbl-tune-730bt-tai-nghe-pho-thong-pin-76-tieng-5123529.html",
+      "https://vnexpress.net/phat-hien-sinh-vat-song-va-phat-trien-o-nhiet-do-63-do-c-5123757.html"
     ]
   },
   "kinh-doanh": {
