@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/de-xuat-cong-nhan-du-lieu-so-ve-thua-dat-5120000.html",
-      "https://vnexpress.net/moi-thua-dat-du-kien-co-mot-ma-dinh-danh-5120000.html",
-      "https://vnexpress.net/du-lieu-dat-dai-so-duoc-dung-thay-ban-giay-5120000.html",
       "https://vnexpress.net/du-kien-lich-nghi-tet-quoc-khanh-2027-cua-lao-dong-doanh-nghiep-5120110.html",
       "https://vnexpress.net/thieu-ta-hy-sinh-khi-cuu-nguoi-duoc-truy-thang-trung-ta-5120022.html",
       "https://vnexpress.net/du-lieu-dat-dai-so-se-duoc-dung-thay-ban-giay-5120000.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5124053.html",
       "https://vnexpress.net/tim-thay-thi-the-nu-tai-xe-bi-lu-cuon-o-dong-nai-5124099.html",
       "https://vnexpress.net/ha-noi-chiem-mot-nua-so-gau-nuoi-nhot-ca-nuoc-5123959.html",
-      "https://vnexpress.net/chat-loat-thong-nguy-co-do-xuong-deo-prenn-o-cua-ngo-da-lat-5124207.html"
+      "https://vnexpress.net/chat-loat-thong-nguy-co-do-xuong-deo-prenn-o-cua-ngo-da-lat-5124207.html",
+      "https://vnexpress.net/thu-truong-nong-nghiep-va-moi-truong-lam-tro-ly-bi-thu-ha-noi-5124185.html",
+      "https://vnexpress.net/khong-de-nguoi-dan-gop-y-xong-ma-khong-biet-y-kien-di-dau-5124201.html",
+      "https://vnexpress.net/thu-tuong-tap-the-khong-dat-yeu-cau-ca-nhan-khong-the-xuat-sac-5124199.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/12-dai-hoc-duoc-chon-dan-dat-giao-duc-ha-noi-5111470.html",
       "https://vnexpress.net/can-tho-giam-gan-1-100-hieu-truong-hieu-pho-5111432.html",
       "https://vnexpress.net/chuyen-gia-australia-ban-ve-man-hinh-ai-thay-doi-cach-tre-lon-len-5111544.html",
       "https://vnexpress.net/sinh-vien-bat-binh-vi-khoan-phat-10-20-trieu-neu-tot-nghiep-muon-5111409.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/dac-quyen-cua-nhan-tai-khi-dau-quan-cho-dai-hoc-trung-quoc-5097679.html",
       "https://vnexpress.net/7-truong-quan-doi-tuyen-bo-sung-he-quan-su-5124091.html",
       "https://vnexpress.net/70-000-hoc-sinh-giao-vien-dang-ky-s-race-school-online-2026-ngay-dau-5124158.html",
-      "https://vnexpress.net/ket-noi-325-trieu-usd-von-quoc-te-cho-giao-duc-5124014.html"
+      "https://vnexpress.net/ket-noi-325-trieu-usd-von-quoc-te-cho-giao-duc-5124014.html",
+      "https://vnexpress.net/nam-sinh-dat-diem-sat-1600-ngay-lan-thi-dau-5122305.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
