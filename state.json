@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/khu-dan-cu-ngap-do-cong-qua-cao-toc-bien-hoa-vung-tau-lech-dong-chay-5120209.html",
-      "https://vnexpress.net/cong-qua-cao-toc-bien-hoa-vung-tau-dat-lech-khien-khu-dan-cu-ngap-nang-5120209.html",
       "https://vnexpress.net/nang-doan-tan-van-nhon-trach-thanh-cao-toc-5120162.html",
       "https://vnexpress.net/hai-phu-nu-ban-hai-san-tu-vong-o-bien-hon-rom-5120212.html",
       "https://vnexpress.net/pho-thu-tuong-phat-khong-giu-khoang-cach-can-co-lo-trinh-5120222.html",
@@ -300,12 +298,13 @@
       "https://vnexpress.net/nhieu-vung-ha-du-binh-thuan-ngap-nguoi-dan-so-tan-5124372.html",
       "https://vnexpress.net/giao-do-an-truc-tuyen-se-phai-dap-ung-dieu-kien-an-toan-5124387.html",
       "https://vnexpress.net/van-hanh-tuyen-tau-container-truc-tiep-tu-trung-quoc-den-can-tho-5124394.html",
-      "https://vnexpress.net/vao-rung-hai-ot-moi-5124415.html"
+      "https://vnexpress.net/vao-rung-hai-ot-moi-5124415.html",
+      "https://vnexpress.net/de-xuat-hon-4-660-ty-dong-mo-rong-cao-toc-my-an-cao-lanh-5124447.html",
+      "https://vnexpress.net/hang-tram-nguoi-dan-quy-nhon-song-thap-thom-vi-sat-lo-5124293.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/bo-truong-my-khoan-5-000-usd-cho-moi-nguoi-dan-se-khong-lay-tu-tien-thue-5119536.html",
       "https://vnexpress.net/dang-cong-hoa-chia-re-truoc-loi-hua-phat-5-000-usd-cua-ong-trump-5119043.html",
       "https://vnexpress.net/ong-zelensky-san-sang-gap-ong-putin-o-hoi-nghi-g20-5119600.html",
       "https://vnexpress.net/thu-tuong-de-nghi-som-hinh-thanh-chien-luoc-ket-noi-cong-nghe-viet-an-5119616.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/tham-phan-my-ngan-nha-trang-cam-cua-ba-hang-tin-5124446.html",
       "https://vnexpress.net/nha-trang-don-ong-tap-voi-man-bay-cua-oanh-tac-co-b-2-5124458.html",
       "https://vnexpress.net/toan-quyen-canada-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-5124466.html",
-      "https://vnexpress.net/ly-do-ten-lua-trieu-tien-co-the-khien-doi-thu-dau-dau-kinh-nien-5124237.html"
+      "https://vnexpress.net/ly-do-ten-lua-trieu-tien-co-the-khien-doi-thu-dau-dau-kinh-nien-5124237.html",
+      "https://vnexpress.net/cuoc-dua-chi-trieu-usd-gianh-suat-qua-yet-hau-panama-5124034.html"
     ]
   },
   "phap-luat": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/co-nen-lap-dien-mat-troi-gia-re-5117042.html",
       "https://vnexpress.net/dieu-gi-giup-trai-phieu-chinh-phu-viet-nam-khong-bi-ban-thao-5117170.html",
       "https://vnexpress.net/nha-dau-tu-vang-nin-tho-cho-quyet-dinh-lai-suat-cua-fed-5117195.html",
       "https://vnexpress.net/kinh-doanh-quan-nhau-o-nhat-gap-kho-5117177.html",
@@ -1820,12 +1819,12 @@
       "https://vnexpress.net/doanh-nghiep-can-tranh-bay-chieu-long-nha-dau-tu-luot-song-5124346.html",
       "https://vnexpress.net/thuy-si-giu-nguyen-lai-suat-0-5124437.html",
       "https://vnexpress.net/gelex-thoai-toan-bo-von-khoi-ong-lon-nganh-tau-bien-5124392.html",
-      "https://vnexpress.net/co-nen-gom-them-co-phieu-khi-dang-lai-gap-doi-5122395.html"
+      "https://vnexpress.net/co-nen-gom-them-co-phieu-khi-dang-lai-gap-doi-5122395.html",
+      "https://vnexpress.net/lai-suat-khi-nao-co-the-ha-nhiet-5124449.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/uong-ruou-bia-bao-lau-thi-het-nong-do-con-5119983.html",
       "https://vnexpress.net/an-trai-cay-the-nao-ho-tro-kiem-soat-acid-uric-5119660.html",
       "https://vnexpress.net/suc-khoe/cam-nang/benh-dong-mach-ngoai-bien-452",
       "https://vnexpress.net/thoi-quen-thoi-tre-giup-xuong-chac-khoe-khi-ban-ve-gia-5120590.html",
@@ -2124,7 +2123,8 @@
       "https://vnexpress.net/long-chau-bat-tay-abbott-nang-cao-suc-khoe-tieu-hoa-cho-cong-dong-5124388.html",
       "https://vnexpress.net/mon-the-thao-nao-giup-dot-mo-nhanh-5123593.html",
       "https://vnexpress.net/vi-sao-duong-huyet-tang-khi-doi-5124261.html",
-      "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-thuong-xuyen-uong-ruou-5122207.html"
+      "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-thuong-xuyen-uong-ruou-5122207.html",
+      "https://vnexpress.net/an-hai-san-uong-tra-co-gay-doc-5124063.html"
     ]
   },
   "du-lich": {
