@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/khu-dan-cu-ngap-nuoc-suot-3-ngay-o-thu-do-5121127.html",
-      "https://vnexpress.net/thi-cong-thoat-nuoc-vanh-dai-2-5-duong-nguyen-trai-bi-thu-hep-5121123.html",
       "https://vnexpress.net/san-bay-can-tho-con-vang-khach-vi-sao-van-tinh-xay-them-5120933.html",
       "https://vnexpress.net/cuu-binh-ve-ban-do-ky-uc-giup-tim-165-hai-cot-liet-si-5121063.html",
       "https://vnexpress.net/ha-noi-nhieu-noi-mua-vuot-150-mm-5121155.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/cong-chao-sap-de-dut-tay-nam-sinh-5125802.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-uu-tien-go-vuong-phap-luat-can-tro-dau-tu-van-hanh-bo-may-5125761.html",
       "https://vnexpress.net/cau-can-tho-2-duoc-de-xuat-xay-hai-tang-5125832.html",
-      "https://vnexpress.net/thu-truong-cong-an-luc-luong-san-bat-cuop-noi-tieng-o-tp-hcm-da-that-nghiep-5125825.html"
+      "https://vnexpress.net/thu-truong-cong-an-luc-luong-san-bat-cuop-noi-tieng-o-tp-hcm-da-that-nghiep-5125825.html",
+      "https://vnexpress.net/uu-tien-go-vuong-phap-luat-can-tro-dau-tu-van-hanh-bo-may-5125761.html",
+      "https://vnexpress.net/cao-toc-qua-lang-son-cao-bang-co-the-khai-thac-tam-trong-dip-tet-5125740.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/cuu-giam-doc-trung-tam-phap-y-khai-chuyen-nhan-tien-chay-benh-an-tam-than-5118797.html",
       "https://vnexpress.net/cuu-hieu-truong-vu-thu-tien-day-them-sai-mong-phien-toa-cong-tam-cong-khai-5118795.html",
       "https://vnexpress.net/cuu-hieu-truong-vu-thu-tien-day-them-sai-mong-nguoi-dan-dam-sat-phien-toa-cong-khai-5118795.html",
       "https://vnexpress.net/cuu-hieu-truong-vu-thu-sai-tien-day-them-mong-nguoi-dan-giam-sat-phien-toa-cong-khai-5118795.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/cuu-pho-bi-thu-tinh-doan-yen-bai-bi-de-nghi-hon-17-nam-tu-sau-khi-duoc-tuyen-vo-toi-5125803.html",
       "https://vnexpress.net/cuu-cong-an-bi-tuyen-12-nam-tu-trong-vu-lua-3-5-ty-dong-chay-an-sua-gia-5125775.html",
       "https://vnexpress.net/vu-cao-xuoc-oto-mercedes-do-truoc-nha-bi-cao-an-treo-boi-thuong-bi-hai-700-000-dong-5125850.html",
-      "https://vnexpress.net/den-nha-vo-danh-ghen-nguoi-dan-ong-bi-dam-tu-vong-5125843.html"
+      "https://vnexpress.net/den-nha-vo-danh-ghen-nguoi-dan-ong-bi-dam-tu-vong-5125843.html",
+      "https://vnexpress.net/vu-cao-xuoc-oto-mercedes-bi-cao-an-treo-boi-thuong-gan-700-000-dong-cho-chu-xe-5125850.html"
     ]
   },
   "giao-duc": {
