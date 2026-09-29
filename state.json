@@ -1,10 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/dem-bi-kich-cua-gia-dinh-4-the-he-trong-nha-chay-o-tp-hcm-5121547.html",
-      "https://vnexpress.net/tim-kiem-nam-sinh-nghi-bi-cuon-xuong-cong-o-ha-noi-5121584.html",
-      "https://vnexpress.net/dien-mao-song-hong-du-kien-thay-doi-the-nao-vao-2038-5120741.html",
-      "https://vnexpress.net/canh-bao-mua-giong-o-ngoai-thanh-ha-noi-5121596.html",
       "https://vnexpress.net/rac-bua-vay-bai-bien-mui-ne-5121593.html",
       "https://vnexpress.net/chay-lon-tai-cho-kim-son-5121666.html",
       "https://vnexpress.net/quy-hoach-song-hong-du-kien-thay-doi-the-nao-5120741.html",
@@ -300,7 +296,11 @@
       "https://vnexpress.net/chuyen-gia-phu-my-hung-it-ngap-nho-giu-cho-cho-nuoc-5126209.html",
       "https://vnexpress.net/cao-toc-bien-hoa-vung-tau-bi-nut-5126355.html",
       "https://vnexpress.net/cdv-pho-nguyen-hue-tiec-nuoi-khi-ban-thang-cua-tai-loc-khong-duoc-cong-nhan-5126360.html",
-      "https://vnexpress.net/chay-can-ho-tang-11-chung-cu-o-tp-hcm-5126372.html"
+      "https://vnexpress.net/chay-can-ho-tang-11-chung-cu-o-tp-hcm-5126372.html",
+      "https://vnexpress.net/khach-bay-quoc-te-tu-long-thanh-se-tra-phi-phuc-vu-25-usd-moi-nguoi-5126390.html",
+      "https://vnexpress.net/cao-toc-ben-luc-long-thanh-va-bien-hoa-vung-tau-chua-the-noi-thong-5126370.html",
+      "https://vnexpress.net/phoi-canh-dien-kinh-thien-o-hoang-thanh-thang-long-5126317.html",
+      "https://vnexpress.net/noi-an-nghi-cua-hoang-thai-hau-cuoi-cung-trieu-nguyen-5126192.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/fpt-khoi-cong-to-hop-giao-duc-tai-dien-bien-5113308.html",
       "https://vnexpress.net/nuoc-nao-chiem-toi-70-chieu-dai-duong-sat-toc-do-cao-tren-the-gioi-5113253.html",
       "https://vnexpress.net/chi-tien-cho-con-di-dao-khoai-chat-cui-de-nem-mui-gian-kho-5112213.html",
       "https://vnexpress.net/bi-quyet-hoc-tap-cua-thu-khoa-bac-si-noi-tru-dai-hoc-y-ha-noi-nam-2026-5113193.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/32-hoc-vien-duoc-dao-tao-thanh-nha-thien-van-hoc-5125719.html",
       "https://vnexpress.net/nganh-giao-duc-chiu-ap-luc-lon-vi-ai-5125912.html",
       "https://vnexpress.net/hoc-vien-ky-thuat-quan-su-sap-mo-he-dao-tao-tinh-hoa-5126106.html",
-      "https://vnexpress.net/nguoi-dan-nuoc-nao-ganh-no-nhieu-nhat-chau-a-5126310.html"
+      "https://vnexpress.net/nguoi-dan-nuoc-nao-ganh-no-nhieu-nhat-chau-a-5126310.html",
+      "https://vnexpress.net/hieu-pho-dai-hoc-danh-tieng-bi-to-dung-ai-viet-bai-tu-a-den-z-5126377.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1825,8 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/nguoi-phu-nu-tinh-lai-sau-mot-ngay-nam-quan-tai-lanh-5123120.html",
-      "https://vnexpress.net/bac-si-binh-dan-xuong-ba-ria-mo-cuu-nguoi-bi-be-tong-de-5123046.html",
       "https://vnexpress.net/dau-hieu-o-da-canh-bao-roi-loan-noi-tiet-5123144.html",
       "https://vnexpress.net/polyp-mui-co-tai-phat-sau-phau-thuat-5123133.html",
       "https://vnexpress.net/dau-ngon-tay-hoai-tu-do-viem-tac-mach-huyet-khoi-5123129.html",
@@ -2124,12 +2122,13 @@
       "https://vnexpress.net/nguoi-phu-nu-65-tuoi-tu-vong-sau-phau-thuat-tham-my-tai-tp-hcm-5126346.html",
       "https://vnexpress.net/chi-an-chao-trang-va-ca-de-giu-dang-mo-mau-co-gai-tang-bao-dong-5126320.html",
       "https://vnexpress.net/sinh-con-khoe-manh-tu-phoi-duy-nhat-5126268.html",
-      "https://vnexpress.net/bac-si-canh-bao-khong-xem-nhe-kho-mat-com-xon-5126300.html"
+      "https://vnexpress.net/bac-si-canh-bao-khong-xem-nhe-kho-mat-com-xon-5126300.html",
+      "https://vnexpress.net/an-uong-gi-buoi-sang-giup-giam-acid-uric-phong-gout-5125792.html",
+      "https://vnexpress.net/7-dau-hieu-tren-khuon-mat-canh-bao-som-benh-tieu-duong-5126338.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/lua-chuyen-mau-tren-ruong-bac-thang-ta-van-nam-cang-5112718.html",
       "https://vnexpress.net/nghi-duong-ngat-ket-noi-tai-bac-dao-phu-quoc-5110105.html",
       "https://vnexpress.net/nu-du-khach-mat-tich-do-lu-quet-nepal-bat-ngo-goi-dien-ve-nha-5115128.html",
       "https://vnexpress.net/chat-luong-du-lich-duoc-tao-nen-boi-con-nguoi-5115120.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/nang-luc-phat-trien-du-lich-viet-nam-cao-nhat-tu-nam-2019-5126089.html",
       "https://vnexpress.net/dat-trum-bat-luon-giua-rung-u-minh-ha-5125813.html",
       "https://vnexpress.net/du-lich-viet-duoc-xep-hang-cao-nhat-tu-2019-5126089.html",
-      "https://vnexpress.net/cai-gia-cua-cuoc-song-du-muc-suot-10-nam-5124678.html"
+      "https://vnexpress.net/cai-gia-cua-cuoc-song-du-muc-suot-10-nam-5124678.html",
+      "https://vnexpress.net/ru-nhau-check-in-vuon-hoa-canh-buom-o-ta-xua-5126387.html"
     ]
   },
   "gia-dinh": {
@@ -2737,7 +2737,6 @@
   },
   "tam-su": {
     "seen": [
-      "https://vnexpress.net/toi-nen-di-nhat-lao-dong-hay-o-nha-cham-soc-ba-va-lam-vuon-5108984.html",
       "https://vnexpress.net/tinh-cu-bong-nhan-tin-hoi-tham-khien-toi-ao-tuong-5109262.html",
       "https://vnexpress.net/em-gai-khong-lam-cong-viec-khong-xung-dang-nen-31-tuoi-van-an-bam-5109299.html",
       "https://vnexpress.net/con-do-nganh-y-top-dau-nhung-nhat-quyet-khong-nhap-hoc-5108896.html",
@@ -3036,7 +3035,8 @@
       "https://vnexpress.net/chong-hay-len-nhin-nguoi-phu-nu-don-than-lam-cung-5126136.html",
       "https://vnexpress.net/cha-toi-goi-dien-de-hen-gap-nhung-cha-vo-khong-bat-may-khong-goi-lai-5126076.html",
       "https://vnexpress.net/me-che-ban-trai-toi-ngheo-gan-30-tuoi-chua-co-gi-trong-tay-5126257.html",
-      "https://vnexpress.net/toi-da-chia-tay-nguoi-dan-ong-hai-doi-vo-5126305.html"
+      "https://vnexpress.net/toi-da-chia-tay-nguoi-dan-ong-hai-doi-vo-5126305.html",
+      "https://vnexpress.net/toi-bi-ban-gai-chia-tay-sau-lan-ngu-chung-dau-tien-5126392.html"
     ]
   },
   "tam-su-2": {
