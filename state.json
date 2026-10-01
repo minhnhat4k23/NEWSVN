@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/bo-cong-an-de-xuat-nhieu-co-che-moi-chong-tin-nhan-cuoc-goi-rac-5120449.html",
       "https://vnexpress.net/nguoi-phat-tan-6-video-rieng-tu-cua-ban-gai-bi-bat-5120539.html",
       "https://vnexpress.net/nu-nhan-vien-du-lich-bi-khoi-to-trong-vu-lat-cano-o-phu-quoc-5120601.html",
       "https://vnexpress.net/me-chong-bi-con-dau-sat-hai-do-mau-thuan-song-chung-5120629.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/lien-quan-dj-ngan-98-3-nguoi-bi-bat-5127165.html",
       "https://vnexpress.net/cuu-bo-truong-nguyen-thi-kim-tien-duoc-de-nghi-giam-them-2-nam-tu-5127112.html",
       "https://vnexpress.net/vu-an-thai-thien-phuong-tu-tranh-chap-can-ho-den-am-muu-cua-bo-chong-cu-5127181.html",
-      "https://vnexpress.net/cuu-bo-truong-kim-tien-khong-duoc-de-nghi-an-treo-du-nop-them-1-1-ty-dong-5127112.html"
+      "https://vnexpress.net/cuu-bo-truong-kim-tien-khong-duoc-de-nghi-an-treo-du-nop-them-1-1-ty-dong-5127112.html",
+      "https://vnexpress.net/lap-fanpage-gia-giao-xu-lua-tien-hang-nghin-nguoi-5127152.html"
     ]
   },
   "giao-duc": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-nga-phap-5117256.html",
       "https://vnexpress.net/cong-bo-quoc-te-khong-phai-tieu-chi-duy-nhat-de-danh-gia-khoa-hoc-xa-hoi-nhan-van-5117253.html",
       "https://vnexpress.net/lien-hop-quoc-thong-qua-ban-do-the-gioi-moi-5117365.html",
       "https://vnexpress.net/x60-ultra-extreme-robot-lau-nha-dau-tien-co-canh-tay-khop-kep-5117001.html",
@@ -1516,12 +1515,12 @@
       "https://vnexpress.net/vo-lang-gaming-2-trieu-dong-thu-hut-nguoi-mua-tap-lai-5126116.html",
       "https://vnexpress.net/thuc-day-he-sinh-thai-nghien-cuu-chung-viet-nam-han-quoc-5126990.html",
       "https://vnexpress.net/viet-nam-thuoc-nhom-thang-hang-chi-so-gii-nhanh-nhat-5126785.html",
-      "https://vnexpress.net/google-ra-gemini-4-argon-manh-nhat-cua-cong-ty-5126995.html"
+      "https://vnexpress.net/google-ra-gemini-4-argon-manh-nhat-cua-cong-ty-5126995.html",
+      "https://vnexpress.net/my-dieu-tra-anthropic-va-openai-5127061.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/trong-rau-tren-mai-sieu-thi-giup-khi-thai-khau-logistics-bang-0-5119973.html",
       "https://vnexpress.net/scic-muon-ban-het-von-doanh-nghiep-nam-dat-vang-dong-khoi-5119985.html",
       "https://vnexpress.net/tu-hieu-nguoi-dung-den-thuong-hieu-banh-trung-thu-duoc-mua-nhieu-nhat-5120042.html",
       "https://vnexpress.net/tesla-lap-cong-ty-o-viet-nam-5120101.html",
@@ -1820,7 +1819,8 @@
       "https://vnexpress.net/lai-suat-huy-dong-trai-phieu-ngan-hang-len-10-5-mot-nam-5126998.html",
       "https://vnexpress.net/vinfast-viet-nam-tang-von-len-hon-1-3-ty-usd-5127136.html",
       "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-1-10-5127119.html",
-      "https://vnexpress.net/hon-90-hoa-chat-trong-bao-bi-do-choi-tiem-an-nguy-co-toi-suc-khoe-5127026.html"
+      "https://vnexpress.net/hon-90-hoa-chat-trong-bao-bi-do-choi-tiem-an-nguy-co-toi-suc-khoe-5127026.html",
+      "https://vnexpress.net/von-hoa-pnj-giam-hon-4-200-ty-dong-5127211.html"
     ]
   },
   "suc-khoe": {
@@ -2433,12 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/vuihoc-giup-hoc-sinh-vung-kho-tiep-can-thu-vien-so-4-nam-lien-tiep-5113989.html",
-      "https://vnexpress.net/7-thoi-quen-dung-dien-de-gay-chay-no-5114147.html",
-      "https://vnexpress.net/bi-quyet-lam-trung-ngam-5113266.html",
-      "https://vnexpress.net/diem-tua-trong-nhung-gia-dinh-ba-the-he-5114236.html",
-      "https://vnexpress.net/nu-chu-quan-mac-va-sau-khi-cuu-nguoi-5114302.html",
-      "https://vnexpress.net/khong-dam-tan-lam-dung-gio-5107733.html",
       "https://vnexpress.net/cach-thuc-day-khong-can-chuong-bao-thuc-5114302.html",
       "https://vnexpress.net/thanh-pho-han-quoc-dong-cua-khoa-san-cuoi-cung-5114281.html",
       "https://vnexpress.net/linh-an-tu-vi-dung-robot-hut-bui-quay-canh-vo-ngoai-tinh-5114461.html",
@@ -2732,7 +2726,13 @@
       "https://vnexpress.net/vo-mong-sau-nhung-cuoc-tinh-cong-so-vung-trom-5126249.html",
       "https://vnexpress.net/gan-30-cau-hy-vong-noi-nhip-nhung-bo-song-5126570.html",
       "https://vnexpress.net/giu-chuoi-tuoi-suot-16-ngay-nho-mot-chiec-lo-kin-5126193.html",
-      "https://vnexpress.net/nguoi-ban-quen-qua-mang-hoa-ra-la-con-trai-that-lac-5126627.html"
+      "https://vnexpress.net/nguoi-ban-quen-qua-mang-hoa-ra-la-con-trai-that-lac-5126627.html",
+      "https://vnexpress.net/e-ngai-bat-cong-sau-de-xuat-ho-tro-gia-dinh-co-hai-con-gai-5098794.html",
+      "https://vnexpress.net/buc-thu-cua-me-nha-vo-dich-olympic-thoi-bung-tranh-cai-day-con-5126860.html",
+      "https://vnexpress.net/hanh-trinh-doi-danh-du-cua-nguoi-phu-nu-bi-boi-nho-bang-video-ai-5126874.html",
+      "https://vnexpress.net/ly-do-nguoi-anh-my-it-dung-voi-xit-ve-sinh-5126836.html",
+      "https://vnexpress.net/co-gai-lap-don-tuyen-chong-ba-trang-hut-hon-1-000-nguoi-5127039.html",
+      "https://vnexpress.net/khi-nao-nguoi-ngoai-tinh-bat-buoc-phai-thu-toi-5126293.html"
     ]
   },
   "tam-su": {
