@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nam-trung-bo-va-nam-bo-du-bao-mua-lon-den-400-mm-5122509.html",
-      "https://vnexpress.net/rac-thai-phu-kin-bai-bien-sam-son-trong-lu-5122177.html",
-      "https://vnexpress.net/lam-dong-cong-bo-tinh-huong-khan-cap-do-qua-doi-gan-khu-dan-cu-nut-toac-5122551.html",
       "https://vnexpress.net/bai-bien-mui-ne-ngap-rac-da-duoc-don-sach-5122546.html",
       "https://vnexpress.net/tp-hcm-tang-81-bac-trong-bang-xep-hang-thanh-pho-toan-cau-5122557.html",
       "https://vnexpress.net/tiem-sua-xe-qua-tai-sau-mua-ky-luc-o-vinh-5122565.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/tuong-hoang-thanh-hue-chuc-cho-do-sap-5127372.html",
       "https://vnexpress.net/nam-cong-nhan-o-tp-hcm-bi-xe-lu-can-chet-5127586.html",
       "https://vnexpress.net/can-bo-thanh-tich-dac-biet-xuat-sac-duoc-uu-tien-quy-hoach-cap-chien-luoc-5127590.html",
-      "https://vnexpress.net/de-xuat-xe-di-lan-1-cao-toc-phai-tren-toc-do-toi-thieu-5127579.html"
+      "https://vnexpress.net/de-xuat-xe-di-lan-1-cao-toc-phai-tren-toc-do-toi-thieu-5127579.html",
+      "https://vnexpress.net/thu-truong-tran-trung-tinh-cong-nghe-la-chia-khoa-de-viet-nam-vuon-ra-bien-lon-5127424.html",
+      "https://vnexpress.net/canh-sat-giao-thong-cuu-nguoi-phu-nu-duoi-nuoc-tren-song-huong-5127630.html",
+      "https://vnexpress.net/giua-thu-ha-noi-van-nong-38-do-c-5127517.html"
     ]
   },
   "the-gioi": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/laptop-ai-mong-nhe-gia-gan-60-trieu-dong-5116280.html",
       "https://vnexpress.net/sam-altman-toi-la-fan-cuong-cua-apple-5117592.html",
       "https://vnexpress.net/robot-cho-chinh-phuc-dia-hinh-sa-mac-khac-nghiet-5118003.html",
       "https://vnexpress.net/robot-bieu-tinh-doi-ban-hanh-quy-dinh-ve-ai-5118079.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/vinh-danh-42-nha-khoa-hoc-cua-nha-nong-5127563.html",
       "https://vnexpress.net/tau-spacex-lap-ky-luc-bay-nhanh-nhat-den-tram-iss-5127535.html",
       "https://vnexpress.net/spacex-lap-ky-luc-tau-vu-tru-my-bay-nhanh-nhat-den-tram-iss-5127535.html",
-      "https://vnexpress.net/mot-so-iphone-18-pro-gap-loi-am-thanh-5127432.html"
+      "https://vnexpress.net/mot-so-iphone-18-pro-gap-loi-am-thanh-5127432.html",
+      "https://vnexpress.net/thu-truong-tran-trung-tinh-cong-nghe-la-chia-khoa-de-viet-nam-vuon-ra-bien-lon-5127424.html"
     ]
   },
   "kinh-doanh": {
@@ -2737,7 +2737,6 @@
   },
   "tam-su": {
     "seen": [
-      "https://vnexpress.net/het-long-vi-chong-con-ma-anh-van-theo-nguoi-phu-nu-khac-5109686.html",
       "https://vnexpress.net/chong-cu-co-gia-dinh-moi-nhung-toi-chua-buong-bo-duoc-qua-khu-5109632.html",
       "https://vnexpress.net/tinh-cu-giau-co-cua-chong-mia-mai-khinh-thuong-chung-toi-5110251.html",
       "https://vnexpress.net/chong-lap-lai-sai-lam-khi-toi-tung-tha-thu-qua-de-dang-5110257.html",
@@ -3036,7 +3035,8 @@
       "https://vnexpress.net/anh-doi-hoi-qua-nhieu-o-ban-doi-du-ban-than-khong-xung-dang-5127363.html",
       "https://vnexpress.net/la-tru-cot-tai-chinh-nhung-lien-tuc-bi-vo-duoi-khoi-nha-5127360.html",
       "https://vnexpress.net/chong-bao-viec-nha-cua-phu-nu-anh-khong-co-nghia-vu-phai-lam-5127242.html",
-      "https://vnexpress.net/chong-noi-anh-khong-co-nghia-vu-phai-lam-viec-nha-5127242.html"
+      "https://vnexpress.net/chong-noi-anh-khong-co-nghia-vu-phai-lam-viec-nha-5127242.html",
+      "https://vnexpress.net/muon-sinh-con-nhung-khong-con-niem-tin-vao-viec-lay-chong-5126265.html"
     ]
   },
   "tam-su-2": {
