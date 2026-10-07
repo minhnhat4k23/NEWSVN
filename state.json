@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tong-thong-my-de-nghi-ong-zelensky-toi-nga-hoa-dam-5124930.html",
-      "https://vnexpress.net/ong-putin-nga-khong-chuan-bi-cho-xung-dot-voi-chau-au-5124936.html",
       "https://vnexpress.net/iran-ngo-y-khoi-phuc-thoa-thuan-hoa-binh-voi-my-5124933.html",
       "https://vnexpress.net/ong-trump-dua-ong-tap-di-xem-tuyen-ngon-doc-lap-cua-my-5124958.html",
       "https://vnexpress.net/thu-do-an-do-lai-rung-chuyen-vi-an-hiep-dam-5124775.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/panama-san-sang-lam-cua-ngo-ket-noi-viet-nam-voi-my-latin-5129217.html",
       "https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-panama-tim-hieu-van-hoa-dan-toc-thieu-so-5129215.html",
       "https://vnexpress.net/han-quoc-chua-hai-long-ve-loi-xin-loi-cua-ukraine-5129210.html",
-      "https://vnexpress.net/moi-de-doa-voi-sieu-can-cu-my-o-chau-au-5128868.html"
+      "https://vnexpress.net/moi-de-doa-voi-sieu-can-cu-my-o-chau-au-5128868.html",
+      "https://vnexpress.net/ong-trump-se-dien-dam-voi-ong-putin-ve-ca-tu-vong-tai-vien-nghien-cuu-dich-hach-5129248.html",
+      "https://vnexpress.net/tu-tu-my-da-tinh-lai-va-dang-hoi-phuc-sau-2-lan-tiem-thuoc-doc-5129252.html"
     ]
   },
   "phap-luat": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/dong-cua-mo-sat-thach-khe-de-thuc-hien-du-an-moi-5122164.html",
       "https://vnexpress.net/chinh-phu-yeu-cau-ngan-hang-cham-dut-cho-vay-tap-trung-vao-doanh-nghiep-san-sau-5122228.html",
       "https://vnexpress.net/ai-se-gin-giu-di-san-cua-warren-buffett-5122178.html",
       "https://vnexpress.net/bo-tai-chinh-yeu-cau-xu-ly-xong-nha-dat-doi-du-trong-nam-nay-5122252.html",
@@ -1820,13 +1819,12 @@
       "https://vnexpress.net/iea-canh-bao-an-ninh-nang-luong-dong-nam-a-5129185.html",
       "https://vnexpress.net/nghien-cuu-giao-dich-chung-khoan-xuyen-trua-noi-bien-do-gia-5129231.html",
       "https://vnexpress.net/cac-cong-ty-100-tuoi-cua-nhat-ban-bien-mat-voi-toc-do-ky-luc-5129115.html",
-      "https://vnexpress.net/vi-sao-doanh-nghiep-dung-ai-nhieu-nhung-hieu-qua-thap-5127385.html"
+      "https://vnexpress.net/vi-sao-doanh-nghiep-dung-ai-nhieu-nhung-hieu-qua-thap-5127385.html",
+      "https://vnexpress.net/chung-khoan-my-lap-ky-luc-moi-5129255.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/an-cang-nhieu-thit-ca-cang-bo-cho-suc-khoe-5125757.html",
-      "https://vnexpress.net/bi-quyet-giu-muc-63-kg-suot-40-nam-cua-thien-vuong-quach-phu-thanh-5125280.html",
       "https://vnexpress.net/an-com-the-nao-ho-tro-kiem-soat-duong-huyet-giam-can-5126046.html",
       "https://vnexpress.net/roi-loan-van-dong-sau-7-nam-dung-thuoc-ngu-5126004.html",
       "https://vnexpress.net/vi-sao-thieu-magie-co-the-gay-cang-thang-5126083.html",
@@ -2124,7 +2122,9 @@
       "https://vnexpress.net/vi-sao-khong-an-do-ngot-van-mac-tieu-duong-thai-ky-5128562.html",
       "https://vnexpress.net/5-thuc-pham-nguoi-tu-tuoi-40-nen-dung-thuong-xuyen-5129089.html",
       "https://vnexpress.net/hang-nghin-nguoi-xep-hang-tu-rang-sang-cho-xa-tri-o-benh-vien-ung-buou-5129118.html",
-      "https://vnexpress.net/chuyen-gia-harvard-goi-y-cach-an-giup-ha-mo-mau-nhanh-chong-5128984.html"
+      "https://vnexpress.net/chuyen-gia-harvard-goi-y-cach-an-giup-ha-mo-mau-nhanh-chong-5128984.html",
+      "https://vnexpress.net/hang-tram-nguoi-xep-hang-tu-rang-sang-cho-xa-tri-o-benh-vien-ung-buou-5129118.html",
+      "https://vnexpress.net/chuyen-gia-trung-quoc-goi-y-cach-an-uong-giup-bao-ve-than-5128933.html"
     ]
   },
   "du-lich": {
