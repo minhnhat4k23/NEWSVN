@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/thanh-nien-xong-vao-nha-cuop-tien-cua-cu-ba-85-tuoi-5123685.html",
-      "https://vnexpress.net/con-nga-tu-vong-khi-nem-tra-goi-hang-tu-tang-5-bo-me-kien-doi-boi-thuong-5123695.html",
       "https://vnexpress.net/cuu-pho-phong-hinh-su-lua-chay-an-lay-3-5-ty-dong-cua-hai-nguoi-san-xuat-sua-gia-5123663.html",
       "https://vnexpress.net/cuu-pho-phong-hinh-su-lua-chay-an-lay-hon-3-ty-dong-cua-nguoi-san-xuat-sua-gia-5123663.html",
       "https://vnexpress.net/chu-tich-cong-ty-cp-thanh-nien-bi-cao-buoc-chiem-doat-gan-500-ty-cua-pvcombank-5123755.html",
@@ -908,12 +906,13 @@
       "https://vnexpress.net/dai-gia-bat-dong-san-my-thue-9-nguoi-am-sat-vo-5130295.html",
       "https://vnexpress.net/suyt-mat-quyen-lam-cha-me-vi-yeu-cau-nguoi-mang-thai-ho-chi-de-con-trai-5130317.html",
       "https://vnexpress.net/a05-canh-bao-hoi-nhom-truc-tuyen-keo-tre-em-vao-cam-xuc-tieu-cuc-5130422.html",
-      "https://vnexpress.net/chieu-sua-mot-ky-tu-trong-so-tai-khoan-677-lan-lua-chuyen-tien-thanh-cong-5130439.html"
+      "https://vnexpress.net/chieu-sua-mot-ky-tu-trong-so-tai-khoan-677-lan-lua-chuyen-tien-thanh-cong-5130439.html",
+      "https://vnexpress.net/trung-tuong-nguyen-thanh-tung-la-cong-dan-thu-do-uu-tu-5130519.html",
+      "https://vnexpress.net/3-000-nguoi-lien-quan-duong-day-danh-bac-rua-tien-750-ty-dong-5130520.html"
     ]
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/fpt-telecom-cung-bo-cong-an-trao-12-phong-stem-cho-diem-truong-kho-khan-5116930.html",
       "https://vnexpress.net/ngoai-viet-nam-nuoc-dong-nam-a-nao-khai-giang-vao-thang-9-5116974.html",
       "https://vnexpress.net/ngay-khai-giang-o-truong-hoc-thuoc-dien-dong-nhat-ca-nuoc-5116866.html",
       "https://vnexpress.net/chi-phi-du-hoc-my-vuot-100-000-usd-nam-o-15-truong-5114638.html",
@@ -1212,12 +1211,12 @@
       "https://vnexpress.net/sinh-vien-canh-tranh-the-nao-neu-khong-hoc-truong-top-5129934.html",
       "https://vnexpress.net/161-hoc-sinh-di-hoc-sau-hon-mot-thang-nghi-vi-sap-nhap-truong-5130205.html",
       "https://vnexpress.net/161-hoc-sinh-duoc-den-truong-sau-hon-mot-thang-nghi-5130205.html",
-      "https://vnexpress.net/ai-khien-gioi-toan-hoc-chao-dao-vi-giai-lien-370-bai-5130141.html"
+      "https://vnexpress.net/ai-khien-gioi-toan-hoc-chao-dao-vi-giai-lien-370-bai-5130141.html",
+      "https://vnexpress.net/pho-thu-tuong-yeu-cau-ra-soat-truong-hoc-quy-mo-lon-sau-sap-xep-5130521.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/cong-ty-nhat-ban-trien-khai-dich-vu-cap-cuu-robot-hinh-nguoi-5120677.html",
       "https://vnexpress.net/video-ngan-tu-youtuber-viet-tang-hon-100-sau-mot-nam-5121093.html",
       "https://vnexpress.net/tac-nhan-openai-tham-do-hugging-face-hai-thang-moi-tan-cong-5121110.html",
       "https://vnexpress.net/chip-nho-chiem-60-gia-linh-kien-smartphone-tam-trung-5121109.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/chuyen-doi-so-phai-bat-dau-tu-bai-toan-khong-phai-san-pham-5130387.html",
       "https://vnexpress.net/121-nha-khoa-hoc-lam-viec-tai-viet-nam-vao-top-anh-huong-the-gioi-5130353.html",
       "https://vnexpress.net/chinh-phu-yeu-cau-tap-trung-nguon-luc-cho-cong-nghe-chien-luoc-5130362.html",
-      "https://vnexpress.net/4-phi-hanh-gia-tro-ve-trai-dat-sau-8-thang-tren-vu-tru-5130346.html"
+      "https://vnexpress.net/4-phi-hanh-gia-tro-ve-trai-dat-sau-8-thang-tren-vu-tru-5130346.html",
+      "https://vnexpress.net/linh-an-tu-vi-dung-ai-tao-nhac-va-nguoi-nghe-gia-5130490.html"
     ]
   },
   "kinh-doanh": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/viral-tren-threads-khien-toi-bi-chui-vi-mot-bai-dang-5112839.html",
       "https://vnexpress.net/dau-tu-vang-gia-vang-hom-nay-tiem-vang-nau-chay-5-chi-vang-cua-toi-roi-ep-gia-5112871.html",
       "https://vnexpress.net/thoi-quen-an-man-bay-an-man-trong-bua-com-it-muoi-nha-toi-5113106.html",
       "https://vnexpress.net/tap-gym-cho-nguoi-moi-bat-dau-30-trieu-mua-goi-gym-mot-nam-nhung-tap-duoc-vai-bua-da-bo-5113241.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/bua-an-mat-vui-vi-dong-nghiep-tranh-tra-tien-5130007.html",
       "https://vnexpress.net/hoc-sinh-bieu-tinh-tai-phap-toi-giat-minh-truoc-the-he-hoc-sinh-nghi-day-di-hoc-tu-6h30-nhu-cuc-hinh-5129976.html",
       "https://vnexpress.net/giu-ban-dai-dien-cha-me-hoc-sinh-lam-gi-khi-chi-lo-van-dong-thu-tien-phu-huynh-5130244.html",
-      "https://vnexpress.net/10-nam-qua-toi-khong-he-ep-con-hoc-5130237.html"
+      "https://vnexpress.net/10-nam-qua-toi-khong-he-ep-con-hoc-5130237.html",
+      "https://vnexpress.net/bai-toan-xay-cap-treo-keo-du-khach-den-ma-pi-leng-5130466.html"
     ]
   }
 }
