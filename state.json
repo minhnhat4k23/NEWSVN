@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/chu-tich-quoc-hoi-khong-de-sua-luat-nay-lai-gay-vuong-o-luat-khac-5125507.html",
-      "https://vnexpress.net/tp-hcm-va-mien-tay-doi-mat-dinh-trieu-cao-nhat-tu-dau-nam-5125512.html",
       "https://vnexpress.net/chieu-nay-tp-hcm-va-mien-tay-doi-mat-dinh-trieu-cao-nhat-tu-dau-nam-5125512.html",
       "https://vnexpress.net/ha-noi-du-kien-boi-thuong-dat-toi-da-gap-2-lan-cho-7-du-an-duong-sat-5125585.html",
       "https://vnexpress.net/nhung-dau-an-trong-chuyen-doi-so-he-thong-mang-dau-thau-quoc-gia-5117702.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chi-dao-xu-ly-tan-goc-o-nhiem-kenh-bac-hung-hai-5130528.html",
       "https://vnexpress.net/pho-thu-tuong-yeu-cau-ra-soat-truong-hoc-qua-lon-sau-sap-xep-5130521.html",
       "https://vnexpress.net/oto-khach-16-cho-chay-tro-khung-o-tp-hcm-5130564.html",
-      "https://vnexpress.net/chinh-quyen-tp-hcm-dua-quy-trinh-giao-viec-len-moi-truong-so-5130533.html"
+      "https://vnexpress.net/chinh-quyen-tp-hcm-dua-quy-trinh-giao-viec-len-moi-truong-so-5130533.html",
+      "https://vnexpress.net/thao-do-80-hang-quan-o-bai-bien-nhat-le-5130100.html",
+      "https://vnexpress.net/lang-bien-du-lich-khat-nuoc-sach-5129516.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/cuu-pho-phong-hinh-su-lua-chay-an-lay-3-5-ty-dong-cua-hai-nguoi-san-xuat-sua-gia-5123663.html",
       "https://vnexpress.net/cuu-pho-phong-hinh-su-lua-chay-an-lay-hon-3-ty-dong-cua-nguoi-san-xuat-sua-gia-5123663.html",
       "https://vnexpress.net/chu-tich-cong-ty-cp-thanh-nien-bi-cao-buoc-chiem-doat-gan-500-ty-cua-pvcombank-5123755.html",
       "https://vnexpress.net/nhat-ban-xem-xet-sua-luat-de-trung-phat-khach-mua-dam-5123770.html",
@@ -908,12 +907,12 @@
       "https://vnexpress.net/a05-canh-bao-hoi-nhom-truc-tuyen-keo-tre-em-vao-cam-xuc-tieu-cuc-5130422.html",
       "https://vnexpress.net/chieu-sua-mot-ky-tu-trong-so-tai-khoan-677-lan-lua-chuyen-tien-thanh-cong-5130439.html",
       "https://vnexpress.net/trung-tuong-nguyen-thanh-tung-la-cong-dan-thu-do-uu-tu-5130519.html",
-      "https://vnexpress.net/3-000-nguoi-lien-quan-duong-day-danh-bac-rua-tien-750-ty-dong-5130520.html"
+      "https://vnexpress.net/3-000-nguoi-lien-quan-duong-day-danh-bac-rua-tien-750-ty-dong-5130520.html",
+      "https://vnexpress.net/su-that-lanh-gay-ve-ga-dao-hoa-co-6-doi-vo-3-nguoi-chet-bi-an-5130511.html"
     ]
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/t-t-group-tai-tro-600-trieu-dong-thiet-bi-cho-truong-hoc-ha-noi-5117041.html",
       "https://vnexpress.net/tp-hcm-giam-gan-47-so-hieu-truong-hieu-pho-sau-sap-nhap-truong-5116416.html",
       "https://vnexpress.net/10-truong-co-hoc-sinh-do-dh-y-khoa-pham-ngoc-thach-dong-nhat-5117019.html",
       "https://vnexpress.net/tat-ta-san-lung-sach-giao-khoa-sau-ngay-khai-giang-5117175.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/ham-chong-tan-the-chua-gi-5130498.html",
       "https://vnexpress.net/pho-thu-tuong-yeu-cau-ra-soat-truong-hoc-qua-lon-sau-sap-xep-5130521.html",
       "https://vnexpress.net/dau-an-bach-khoa-ha-noi-qua-nhung-cong-trinh-huyen-thoai-5130506.html",
-      "https://vnexpress.net/nhung-cong-trinh-lam-nen-ten-tuoi-dai-hoc-bach-khoa-ha-noi-70-nam-qua-5130506.html"
+      "https://vnexpress.net/nhung-cong-trinh-lam-nen-ten-tuoi-dai-hoc-bach-khoa-ha-noi-70-nam-qua-5130506.html",
+      "https://vnexpress.net/giang-vien-tuoi-19-o-bach-khoa-va-su-menh-pha-thuy-loi-thoi-chien-5130396.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/be-trai-ton-thuong-nao-do-dot-bien-gene-di-truyen-5127405.html",
-      "https://vnexpress.net/nhung-viec-nen-lam-sau-tuoi-40-de-bao-ve-mat-5127218.html",
-      "https://vnexpress.net/tp-hcm-rot-hon-5-000-ty-dong-nang-nang-luc-tri-ung-thu-5127399.html",
       "https://vnexpress.net/tre-hay-tai-phat-viem-amidan-vao-mua-mua-co-dang-lo-5127429.html",
       "https://vnexpress.net/mat-ngu-boi-con-dau-nua-dau-kem-roi-loan-lo-au-5127423.html",
       "https://vnexpress.net/gan-nhiem-mo-do-mot-co-can-dung-thuoc-5127418.html",
@@ -2124,12 +2121,14 @@
       "https://vnexpress.net/da-mac-sot-xuat-huyet-hai-lan-co-can-tiem-vaccine-5130352.html",
       "https://vnexpress.net/hoa-chat-son-mong-tay-chan-anh-huong-mat-the-nao-5130383.html",
       "https://vnexpress.net/ra-dong-thit-qua-dem-co-an-toan-5130287.html",
-      "https://vnexpress.net/beo-phi-va-benh-tim-mach-vong-xoay-benh-tat-hai-chieu-5130532.html"
+      "https://vnexpress.net/beo-phi-va-benh-tim-mach-vong-xoay-benh-tat-hai-chieu-5130532.html",
+      "https://vnexpress.net/an-giun-song-moi-sang-bi-quyet-truong-sinh-cua-ty-phu-hollywood-gay-soc-5130277.html",
+      "https://vnexpress.net/3-sai-lam-giam-can-phu-nu-sau-tuoi-35-hay-mac-5129681.html",
+      "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-an-nghe-thuong-xuyen-5130006.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/hang-dai-nguoi-xep-hang-mua-kem-trang-tien-truoc-ngay-dong-cua-5117806.html",
       "https://vnexpress.net/chua-lanh-bang-chuyen-du-lich-mot-minh-sau-khi-bo-nguoi-yeu-5117859.html",
       "https://vnexpress.net/con-co-dao-anh-hung-mot-thoi-nhin-tu-tren-cao-5117516.html",
       "https://vnexpress.net/quan-du-lich-noi-tieng-tokyo-se-cam-cho-thue-nha-vi-khach-y-thuc-kem-5118335.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/khi-duoi-lon-chim-ung-an-do-duoc-tha-ve-vgq-phong-nha-ke-bang-5130218.html",
       "https://vnexpress.net/ban-ta-phinh-mua-nuoc-ngap-5124736.html",
       "https://vnexpress.net/khi-duoi-lon-chim-ung-an-do-duoc-tha-ve-vqg-phong-nha-ke-bang-5130218.html",
-      "https://vnexpress.net/nhung-mon-lam-tu-thit-bam-ngon-nhat-the-gioi-5127690.html"
+      "https://vnexpress.net/nhung-mon-lam-tu-thit-bam-ngon-nhat-the-gioi-5127690.html",
+      "https://vnexpress.net/gia-ve-may-bay-giam-gan-10-lan-sau-hon-7-thap-ky-5128458.html"
     ]
   },
   "gia-dinh": {
