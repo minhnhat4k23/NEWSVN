@@ -1825,8 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/chan-ga-quan-ao-benh-nhan-vien-cong-khu-khuan-chuan-nhat-ban-5127682.html",
-      "https://vnexpress.net/lan-dau-mo-noi-soi-tren-dao-phu-quy-5127781.html",
       "https://vnexpress.net/7-cach-giup-toc-moc-nhanh-giam-gay-rung-5127194.html",
       "https://vnexpress.net/quy-tac-so-9-ve-tan-suat-quan-he-tot-hay-hai-suc-khoe-5127479.html",
       "https://vnexpress.net/sai-lam-khi-uong-ca-phe-lam-tang-nguy-co-ung-thu-5127502.html",
@@ -2124,7 +2122,9 @@
       "https://vnexpress.net/thit-ma-dao-lon-co-bo-duong-hon-5130540.html",
       "https://vnexpress.net/4-thuc-pham-giup-xuong-tre-phat-trien-tu-nhung-nam-dau-doi-5130500.html",
       "https://vnexpress.net/vi-sao-nen-giam-can-truoc-khi-thu-tinh-ong-nghiem-5130544.html",
-      "https://vnexpress.net/18-nguoi-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5130725.html"
+      "https://vnexpress.net/18-nguoi-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5130725.html",
+      "https://vnexpress.net/dieu-gi-xay-ra-voi-giac-ngu-khi-ban-ngung-uong-bia-5129950.html",
+      "https://vnexpress.net/hop-tac-nang-cao-cham-soc-suc-khoe-da-lieu-cong-dong-5130726.html"
     ]
   },
   "du-lich": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/co-gai-leo-ra-mom-da-cheo-leo-de-chup-anh-duoc-gi-ngoai-song-ao-5113267.html",
       "https://vnexpress.net/vo-toi-hai-lan-dinh-qua-lua-vi-mua-keo-kera-thit-trau-gac-bep-cua-idol-5113300.html",
       "https://vnexpress.net/thit-trau-gac-bep-tay-bac-hai-sapa-tv-bi-bat-vo-toi-hai-lan-dinh-qua-lua-vi-mua-keo-kera-thit-trau-gac-bep-cua-idol-5113300.html",
       "https://vnexpress.net/ngo-doc-banh-mi-ai-giup-xe-banh-mi-dam-bao-ve-sinh-an-toan-thuc-pham-5113482.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/bai-toan-xay-cap-treo-keo-du-khach-den-ma-pi-leng-5130466.html",
       "https://vnexpress.net/kho-tuyen-tho-lam-tran-thach-cao-du-co-1-6-trieu-thanh-nien-ba-khong-5130478.html",
       "https://vnexpress.net/rac-thai-nhua-toi-tay-chay-hang-xoi-dung-tui-nilon-hop-xop-5130682.html",
-      "https://vnexpress.net/ban-dai-dien-cha-me-hoc-sinh-thong-tu-81-hoi-phu-huynh-chang-khac-nao-ban-dai-dien-thu-tien-cha-me-hoc-sinh-5130626.html"
+      "https://vnexpress.net/ban-dai-dien-cha-me-hoc-sinh-thong-tu-81-hoi-phu-huynh-chang-khac-nao-ban-dai-dien-thu-tien-cha-me-hoc-sinh-5130626.html",
+      "https://vnexpress.net/nen-lap-hoi-phu-huynh-khong-thu-tien-quy-5130626.html"
     ]
   }
 }
