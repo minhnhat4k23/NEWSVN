@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/tp-hcm-mua-trang-troi-ket-xe-hon-3-km-duong-cua-ngo-tan-son-nhat-5127298.html",
-      "https://vnexpress.net/them-hai-si-quan-quan-doi-lam-viec-tai-tru-so-lien-hop-quoc-5127278.html",
       "https://vnexpress.net/trung-tuong-le-minh-quang-lam-pho-chu-nhiem-tong-cuc-chinh-tri-5127296.html",
       "https://vnexpress.net/mua-trang-troi-tp-hcm-giao-thong-te-liet-nguoi-dan-chat-vat-5127298.html",
       "https://vnexpress.net/ca-moi-chet-dat-vao-bo-bien-quang-tri-5127334.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/dat-nut-toac-keo-dai-500-m-o-gia-lai-5132217.html",
       "https://vnexpress.net/nguyen-pho-giam-doc-so-ke-hoach-va-dau-tu-tp-hcm-vi-pham-gay-hau-qua-rat-nghiem-trong-5132395.html",
       "https://vnexpress.net/hoan-tat-an-tang-731-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5132380.html",
-      "https://vnexpress.net/be-12-tuoi-tu-vong-ben-vung-nuoc-o-tp-hcm-nghi-bi-dien-giat-5132413.html"
+      "https://vnexpress.net/be-12-tuoi-tu-vong-ben-vung-nuoc-o-tp-hcm-nghi-bi-dien-giat-5132413.html",
+      "https://vnexpress.net/tay-ninh-chuan-bi-de-an-len-thanh-pho-truc-thuoc-trung-uong-5132387.html",
+      "https://vnexpress.net/mot-so-nha-may-cho-cong-nhan-nghi-tet-9-12-ngay-5132248.html"
     ]
   },
   "the-gioi": {
@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/cho-thue-tai-khoan-quet-mat-giup-duong-day-danh-bac-giao-dich-1-000-ty-dong-5125188.html",
-      "https://vnexpress.net/co-nen-ky-cam-ket-khong-lam-cho-doi-thu-sau-khi-nghi-viec-5125094.html",
       "https://vnexpress.net/cu-ba-79-tuoi-bi-khoi-to-vi-ke-khai-gia-ban-dat-giam-4-lan-5125242.html",
       "https://vnexpress.net/cu-ba-bi-khoi-to-vi-ke-khai-gia-ban-dat-giam-4-lan-5125242.html",
       "https://vnexpress.net/khoi-to-thuyen-truong-lam-lat-tau-khien-hai-nguoi-tu-vong-5125342.html",
@@ -908,12 +906,13 @@
       "https://vnexpress.net/ke-lua-tinh-nhan-hay-song-tot-sau-khi-vet-sach-tien-cua-nan-nhan-5132181.html",
       "https://vnexpress.net/nguyen-chu-tich-xa-bi-khoi-to-vi-lam-quyen-tu-y-ban-tru-so-lam-viec-5132235.html",
       "https://vnexpress.net/gia-resort-5-sao-o-phu-quoc-de-lua-dat-coc-dong-tien-hon-6-000-ty-dong-5132341.html",
-      "https://vnexpress.net/nghich-tu-sat-hai-cha-danh-me-nhap-vien-5132400.html"
+      "https://vnexpress.net/nghich-tu-sat-hai-cha-danh-me-nhap-vien-5132400.html",
+      "https://vnexpress.net/phong-gay-an-di-dong-cua-ga-tai-xe-san-tim-phu-nu-5132378.html",
+      "https://vnexpress.net/nhung-chi-dao-gian-lan-khien-shark-binh-bi-cao-buoc-tron-thue-5132330.html"
     ]
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/gan-20-hoc-sinh-viet-bi-bat-nat-vai-lan-moi-thang-5118569.html",
       "https://vnexpress.net/dang-sau-su-ra-doi-match-day-o-dai-hoc-y-ha-noi-5118496.html",
       "https://vnexpress.net/hue-gap-rut-dau-thau-vi-hon-20-hoc-sinh-thieu-sach-giao-khoa-5118577.html",
       "https://vnexpress.net/trung-quoc-soan-ngoi-singapore-ve-diem-toan-khoa-hoc-cua-hoc-sinh-5118368.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/chuyen-dung-mat-than-radar-tim-mo-liet-si-cong-vien-le-thi-rieng-5132016.html",
       "https://vnexpress.net/nam-sinh-lop-11-gianh-ngoi-thu-khoa-mon-toan-cua-ha-noi-5132052.html",
       "https://vnexpress.net/nam-sinh-lop-11-doat-thu-khoa-toan-cua-ha-noi-5132052.html",
-      "https://vnexpress.net/nuoc-nao-san-xuat-sua-nhieu-nhat-the-gioi-5131894.html"
+      "https://vnexpress.net/nuoc-nao-san-xuat-sua-nhieu-nhat-the-gioi-5131894.html",
+      "https://vnexpress.net/dai-hoc-my-dai-ha-gia-de-hut-sinh-vien-5131038.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -2129,7 +2129,6 @@
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/gia-dinh-my-vo-mong-song-o-chau-a-sau-8-thang-5120081.html",
       "https://vnexpress.net/khach-san-lau-doi-nhat-ha-noi-qua-anh-tu-lieu-tram-nam-5119208.html",
       "https://vnexpress.net/sua-lua-xuat-hien-o-bien-quang-ninh-nhieu-khach-bi-dot-5120315.html",
       "https://vnexpress.net/sua-lua-xuat-hien-day-o-bien-quang-ninh-nhieu-khach-bi-dot-5120315.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/tham-trai-san-tai-san-bay-tot-nhat-the-gioi-gay-tranh-cai-5132008.html",
       "https://vnexpress.net/video-chua-tung-tiet-lo-ve-nguoi-menh-danh-giay-xanh-tren-everest-5132227.html",
       "https://vnexpress.net/huy-chuyen-bay-vi-rep-tan-cong-5132169.html",
-      "https://vnexpress.net/giai-cuu-hai-khach-tay-lac-trong-rung-o-da-nang-5132372.html"
+      "https://vnexpress.net/giai-cuu-hai-khach-tay-lac-trong-rung-o-da-nang-5132372.html",
+      "https://vnexpress.net/tranh-cai-tiep-vien-khong-ho-tro-khach-mang-bau-cat-hanh-ly-5132073.html"
     ]
   },
   "gia-dinh": {
