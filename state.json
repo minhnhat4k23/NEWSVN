@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/can-bo-thanh-tich-dac-biet-xuat-sac-duoc-uu-tien-quy-hoach-cap-chien-luoc-5127590.html",
-      "https://vnexpress.net/de-xuat-xe-di-lan-1-cao-toc-phai-tren-toc-do-toi-thieu-5127579.html",
       "https://vnexpress.net/thu-truong-tran-trung-tinh-cong-nghe-la-chia-khoa-de-viet-nam-vuon-ra-bien-lon-5127424.html",
       "https://vnexpress.net/canh-sat-giao-thong-cuu-nguoi-phu-nu-duoi-nuoc-tren-song-huong-5127630.html",
       "https://vnexpress.net/giua-thu-ha-noi-van-nong-38-do-c-5127517.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/deo-lo-dieu-ven-bien-gia-lai-thong-xe-5132715.html",
       "https://vnexpress.net/xe-cho-20-khach-tong-lien-hoan-4-oto-o-tp-hcm-5132813.html",
       "https://vnexpress.net/thanh-nien-xung-phong-o-mien-nam-duoc-tang-gap-doi-tro-cap-5132809.html",
-      "https://vnexpress.net/pho-thu-tuong-pham-thi-thanh-tra-nguoi-tre-co-4-co-hoi-de-tao-dau-an-5132827.html"
+      "https://vnexpress.net/pho-thu-tuong-pham-thi-thanh-tra-nguoi-tre-co-4-co-hoi-de-tao-dau-an-5132827.html",
+      "https://vnexpress.net/cuu-thanh-nien-xung-phong-mien-nam-mat-suc-co-don-duoc-tang-gap-doi-tro-cap-5132809.html",
+      "https://vnexpress.net/bo-truong-vu-hai-quan-muon-lam-viec-lon-phai-bat-dau-tu-viec-nho-5132838.html"
     ]
   },
   "the-gioi": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/viet-nam-lan-dau-co-dich-vu-chuyen-hang-len-nui-bang-uav-5123570.html",
       "https://vnexpress.net/tp-hcm-trien-khai-khong-gian-thu-nghiem-thuc-te-cho-drone-uav-5123676.html",
       "https://vnexpress.net/tp-hcm-uu-tien-thu-nghiem-drone-uav-tai-cu-chi-can-gio-5123676.html",
       "https://vnexpress.net/con-mot-tuan-binh-chon-vong-so-loai-ai-awards-2026-5123456.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/startup-viet-goi-von-3-trieu-usd-cho-ai-ho-tro-nha-khoa-hoc-5132272.html",
       "https://vnexpress.net/vietnam-post-trung-dau-gia-dau-so-di-dong-075-5132679.html",
       "https://vnexpress.net/hom-nay-dong-cong-binh-chon-smartwatch-ai-cho-suc-khoe-5132256.html",
-      "https://vnexpress.net/anker-maggo-2-pro-pin-sac-qi2-2-dau-tien-co-quat-tan-nhiet-5131818.html"
+      "https://vnexpress.net/anker-maggo-2-pro-pin-sac-qi2-2-dau-tien-co-quat-tan-nhiet-5131818.html",
+      "https://vnexpress.net/bo-truong-vu-hai-quan-muon-lam-viec-lon-phai-bat-dau-tu-viec-nho-5132838.html"
     ]
   },
   "kinh-doanh": {
@@ -1825,11 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/thieu-nu-tram-cam-loan-than-o-tuoi-15-5129706.html",
-      "https://vnexpress.net/not-vang-quanh-mat-la-dau-hieu-benh-gi-5129720.html",
-      "https://vnexpress.net/dong-mach-chu-bung-phinh-to-gap-ba-binh-thuong-5129713.html",
-      "https://vnexpress.net/bi-soi-tui-mat-co-can-kieng-dau-mo-5129708.html",
-      "https://vnexpress.net/tri-hoan-cai-thien-chi-so-sau-kham-suc-khoe-5129608.html",
       "https://vnexpress.net/hoang-tuong-bi-dau-doc-khien-nguoi-tam-than-tu-choi-uong-thuoc-5129727.html",
       "https://vnexpress.net/be-gai-viem-amidan-suy-dinh-duong-5129739.html",
       "https://vnexpress.net/6-nhom-nguoi-nen-han-che-uong-ca-phe-5129723.html",
@@ -2124,7 +2119,12 @@
       "https://vnexpress.net/sun-khop-duoc-nuoi-duong-nhu-the-nao-5132744.html",
       "https://vnexpress.net/ung-thu-dai-trang-di-can-gan-5132453.html",
       "https://vnexpress.net/vo-sinh-do-tac-hai-voi-trung-5132720.html",
-      "https://vnexpress.net/thuc-pham-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5132501.html"
+      "https://vnexpress.net/thuc-pham-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5132501.html",
+      "https://vnexpress.net/co-giao-tieng-anh-o-gia-lai-chet-nao-hien-tang-ghep-cuu-3-nguoi-5132633.html",
+      "https://vnexpress.net/nhieu-phu-nu-song-mac-cam-sau-phau-thuat-ung-thu-vu-5132049.html",
+      "https://vnexpress.net/be-trai-10-tuoi-liet-nua-nguoi-sau-khi-tu-nho-rang-sau-5132768.html",
+      "https://vnexpress.net/quan-ly-an-toan-thuc-pham-chuyen-tu-phat-sang-chan-nguy-co-som-5132844.html",
+      "https://vnexpress.net/nguyen-pho-chu-tich-vff-thoat-cua-tu-sau-ca-ghep-gan-5132753.html"
     ]
   },
   "du-lich": {
