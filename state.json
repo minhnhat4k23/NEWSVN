@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/quan-chinh-phu-yemen-lao-thiet-giap-vao-chien-binh-houthi-5129345.html",
-      "https://vnexpress.net/cuoc-chien-vo-hinh-tai-ukraine-thay-doi-tu-duy-quan-su-toan-cau-5129281.html",
       "https://vnexpress.net/ga-trung-quoc-van-hanh-40-giay-mot-chuyen-trong-cao-diem-tuan-le-vang-5129100.html",
       "https://vnexpress.net/no-luc-thuc-day-hoa-dam-nga-ukraine-cua-ong-trump-be-tac-5129326.html",
       "https://vnexpress.net/ukraine-tuyen-bo-chan-hang-chuc-ten-lua-hanh-trinh-iskander-m-nga-5129440.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html",
       "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html",
       "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html",
-      "https://vnexpress.net/trieu-tien-thu-nghiem-ngu-loi-dung-ai-truy-duoi-muc-tieu-5133448.html"
+      "https://vnexpress.net/trieu-tien-thu-nghiem-ngu-loi-dung-ai-truy-duoi-muc-tieu-5133448.html",
+      "https://vnexpress.net/ong-putin-nga-dang-lap-vung-an-ninh-khong-thuong-luong-doc-bien-gioi-5133449.html",
+      "https://vnexpress.net/cu-dan-new-york-phat-sot-vi-gia-dinh-cu-lon-5133327.html"
     ]
   },
   "phap-luat": {
@@ -1825,8 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/sinh-mo-ket-hop-boc-u-xo-va-triet-san-5130221.html",
-      "https://vnexpress.net/6-yeu-to-nguy-co-gay-dau-nua-dau-5130307.html",
       "https://vnexpress.net/cac-hoat-dong-ren-tu-duy-logic-cho-tre-5130297.html",
       "https://vnexpress.net/khong-gym-khong-an-kieng-bi-mat-ngoi-lang-italy-co-nhieu-cu-ba-bach-nien-5130179.html",
       "https://vnexpress.net/ngoi-lang-italy-co-nhieu-cu-ba-song-tram-tuoi-5130179.html",
@@ -2124,12 +2122,13 @@
       "https://vnexpress.net/vi-sao-uong-ca-phe-gay-tang-can-5133272.html",
       "https://vnexpress.net/4-cach-giup-hoi-phuc-sau-phau-thuat-soi-mat-5133270.html",
       "https://vnexpress.net/bac-si-huong-dan-che-do-an-sau-phau-thuat-cat-gan-5133264.html",
-      "https://vnexpress.net/tiem-thuoc-tieu-soi-huyet-tai-thong-mach-mau-nao-5133234.html"
+      "https://vnexpress.net/tiem-thuoc-tieu-soi-huyet-tai-thong-mach-mau-nao-5133234.html",
+      "https://vnexpress.net/7-thuc-pham-an-sang-giau-kali-tot-cho-huyet-ap-5133451.html",
+      "https://vnexpress.net/thu-pham-gay-hat-xi-lien-tuc-vao-buoi-sang-5133231.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/4-trai-nghiem-le-hoi-tai-singapore-dip-grand-prix-2026-5116009.html",
       "https://vnexpress.net/noi-luu-giu-hai-bo-xuong-ca-voi-lon-nhat-viet-nam-5118468.html",
       "https://vnexpress.net/ninh-binh-dung-nhieu-diem-tham-quan-vi-mua-lon-5121297.html",
       "https://vnexpress.net/nha-hang-o-ha-noi-vao-top-3-tot-nhat-the-gioi-5121336.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/hai-hanh-trinh-tau-hoa-viet-nam-vao-top-dep-nhat-the-gioi-5133322.html",
       "https://vnexpress.net/con-gai-bien-ho-chieu-cua-cha-qua-co-thanh-tac-pham-nghe-thuat-5133144.html",
       "https://vnexpress.net/quan-cha-ca-la-vong-nam-trong-10-diem-nen-den-truoc-khi-chet-5133250.html",
-      "https://vnexpress.net/canh-dong-hoa-huong-duong-lon-nhat-viet-nam-bung-no-5132503.html"
+      "https://vnexpress.net/canh-dong-hoa-huong-duong-lon-nhat-viet-nam-bung-no-5132503.html",
+      "https://vnexpress.net/den-kyoto-mua-thu-ngam-la-do-ben-nhung-con-duong-co-5132177.html"
     ]
   },
   "gia-dinh": {
