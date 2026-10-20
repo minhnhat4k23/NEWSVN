@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/song-do-nguoc-dong-de-doa-dang-cong-hoa-5130192.html",
-      "https://vnexpress.net/xa-sung-tai-thanh-pho-my-9-nguoi-thiet-mang-5130845.html",
       "https://vnexpress.net/cuoc-rut-lui-cua-linh-my-khoi-can-cu-bi-iran-danh-tan-hoang-5129869.html",
       "https://vnexpress.net/12-nguoi-thiet-mang-trong-vu-san-bay-arab-saudi-bi-tap-kich-5130872.html",
       "https://vnexpress.net/ong-trump-ukraine-nen-co-tong-thong-moi-5130885.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/nguoi-dan-alberta-chon-o-lai-voi-canada-5134612.html",
       "https://vnexpress.net/bo-truong-quoc-phong-my-bat-ngo-tham-israel-de-ban-ve-iran-5134482.html",
       "https://vnexpress.net/nghi-si-australia-bi-xe-tong-nat-chan-trong-vu-tan-cong-co-y-5134545.html",
-      "https://vnexpress.net/ve-tinh-nga-ap-sat-radar-khong-gian-dang-ho-tro-ukraine-5134511.html"
+      "https://vnexpress.net/ve-tinh-nga-ap-sat-radar-khong-gian-dang-ho-tro-ukraine-5134511.html",
+      "https://vnexpress.net/han-quoc-rut-nhan-vien-tai-su-quan-o-ukraine-sau-tranh-cai-ve-tu-binh-trieu-tien-5134638.html",
+      "https://vnexpress.net/nga-xay-radar-vuot-duong-chan-troi-tam-3-000-km-giua-long-nato-5134668.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/chuoi-hoat-dong-huong-ung-ngay-hoi-doi-moi-sang-tao-quoc-gia-5125856.html",
       "https://vnexpress.net/22-nha-nghien-cuu-hang-dau-keu-goi-giam-sat-khan-cap-ai-5126045.html",
       "https://vnexpress.net/amd-chi-8-2-ty-usd-mua-lai-cong-ty-cua-me-do-dau-ai-5126092.html",
       "https://vnexpress.net/chuan-bi-ha-tang-cloud-cho-giai-doan-cao-diem-5126176.html",
@@ -1516,13 +1515,12 @@
       "https://vnexpress.net/tp-hcm-tra-luong-den-100-trieu-dong-cho-chuyen-gia-nong-nghiep-cong-nghe-cao-5134566.html",
       "https://vnexpress.net/rang-dong-ung-dung-ai-iot-vao-he-sinh-thai-cong-trinh-thong-minh-5134583.html",
       "https://vnexpress.net/dung-ai-do-giao-dien-smart-tv-5134574.html",
-      "https://vnexpress.net/than-dong-terence-tao-ai-khien-su-lang-man-cua-toan-hoc-ket-thuc-5134468.html"
+      "https://vnexpress.net/than-dong-terence-tao-ai-khien-su-lang-man-cua-toan-hoc-ket-thuc-5134468.html",
+      "https://vnexpress.net/nhat-ban-phong-tau-lay-mau-vat-mat-trang-sao-hoa-5134573.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/fed-co-the-khong-tang-lai-suat-trong-thang-nay-5128086.html",
-      "https://vnexpress.net/cam-ket-rot-10-ty-usd-cho-khi-hau-ty-phu-jeff-bezos-thuc-te-da-chi-bao-nhieu-5127994.html",
       "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
       "https://vnexpress.net/viet-nam-duy-tri-muc-tieu-gdp-tang-10-de-nang-hang-tin-nhiem-vao-2030-5128181.html",
       "https://vnexpress.net/viet-nam-muon-duy-tri-muc-tieu-gdp-tang-10-de-nang-hang-tin-nhiem-vao-2030-5128181.html",
@@ -1820,7 +1818,9 @@
       "https://vnexpress.net/nhan-vien-ngan-hang-san-khach-gui-tien-truoc-khi-ha-lai-suat-5134398.html",
       "https://vnexpress.net/evn-khoi-cong-nha-may-dien-khi-lng-hon-40-000-ty-dong-5134576.html",
       "https://vnexpress.net/sun-group-quang-ba-du-lich-mice-phu-quoc-tai-itb-asia-2026-5134568.html",
-      "https://vnexpress.net/de-xuat-cho-tu-nhan-lam-nha-may-dien-hat-nhan-module-nho-5134664.html"
+      "https://vnexpress.net/de-xuat-cho-tu-nhan-lam-nha-may-dien-hat-nhan-module-nho-5134664.html",
+      "https://vnexpress.net/coteccons-doi-huong-tang-truong-khi-nganh-xay-dung-them-doi-thu-lon-5134650.html",
+      "https://vnexpress.net/co-phieu-pnj-day-song-truoc-phien-hop-co-dong-bat-thuong-5134706.html"
     ]
   },
   "suc-khoe": {
