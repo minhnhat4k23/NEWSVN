@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/12-du-an-lien-quan-ong-le-thanh-than-duoc-de-xuat-xu-ly-ra-sao-5130802.html",
-      "https://vnexpress.net/tai-xe-lap-den-noc-xe-ban-tai-bi-phat-2-trieu-dong-5130749.html",
-      "https://vnexpress.net/xay-dung-nha-xa-hoi-cham-soc-nguoi-gia-doc-than-5130808.html",
       "https://vnexpress.net/phao-hoa-ruc-sang-mung-ngay-giai-phong-thu-do-5130831.html",
       "https://vnexpress.net/nguoi-mong-duoi-chan-hoang-lien-son-lam-du-lich-5129613.html",
       "https://vnexpress.net/nguoi-dan-duoc-tu-choi-thu-tuc-hanh-chinh-trai-quy-dinh-5130850.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/4-nguoi-gap-nan-gan-gian-khoan-su-tu-trang-duoc-cuu-5135863.html",
       "https://vnexpress.net/lam-dong-lay-y-kien-dieu-chinh-dia-gioi-voi-dong-nai-5135905.html",
       "https://vnexpress.net/da-nang-chuan-bi-sap-xep-nhieu-phuong-xa-5135994.html",
-      "https://vnexpress.net/chung-cu-gap-kho-khi-lap-tram-sac-xe-dien-5135991.html"
+      "https://vnexpress.net/chung-cu-gap-kho-khi-lap-tram-sac-xe-dien-5135991.html",
+      "https://vnexpress.net/giai-bai-toan-thieu-lao-dong-nganh-xay-dung-5135776.html",
+      "https://vnexpress.net/rao-can-lap-tram-sac-xe-dien-o-chung-cu-5135991.html",
+      "https://vnexpress.net/ben-trong-ho-sut-rong-hon-2-ha-o-phong-nha-ke-bang-5135966.html"
     ]
   },
   "the-gioi": {
@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/tu-chiec-xe-may-canh-sat-lan-ra-nghi-pham-cuop-dien-thoai-o-tp-hcm-5128249.html",
-      "https://vnexpress.net/lo-dien-danh-tinh-bat-ngo-cua-ke-hiep-dam-sau-34-nam-5128261.html",
       "https://vnexpress.net/tai-xe-dua-be-gai-14-tuoi-di-gap-ban-trai-den-tru-so-cong-an-5128295.html",
       "https://vnexpress.net/bi-lua-660-trieu-dong-khi-nho-chuyen-vien-dua-11-mo-ra-khoi-quy-hoach-5128286.html",
       "https://vnexpress.net/vu-tuan-than-den-bi-lua-660-trieu-dong-khi-chay-11-mo-ra-khoi-quy-hoach-5128286.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/tai-xe-say-ruou-lai-oto-tong-chet-nguoi-5135988.html",
       "https://vnexpress.net/phat-hien-ong-lao-tu-vong-nam-canh-sat-mao-danh-de-chiem-nha-5135989.html",
       "https://vnexpress.net/va-cham-voi-nguoi-di-bo-gay-hon-chien-tren-pho-ha-noi-5135944.html",
-      "https://vnexpress.net/tu-xung-luong-y-hoang-linh-de-boc-thuoc-chua-benh-5135972.html"
+      "https://vnexpress.net/tu-xung-luong-y-hoang-linh-de-boc-thuoc-chua-benh-5135972.html",
+      "https://vnexpress.net/tu-xung-luong-y-hoang-linh-de-ban-thuoc-nam-chua-benh-5135972.html",
+      "https://vnexpress.net/nam-sinh-lop-7-tu-che-30-qua-phao-no-5136009.html"
     ]
   },
   "giao-duc": {
