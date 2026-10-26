@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/tp-hcm-dat-muc-tieu-80-so-ngay-co-khong-khi-tot-trung-binh-5131786.html",
-      "https://vnexpress.net/viet-nam-lao-tang-cuong-hop-tac-cong-nghiep-quoc-phong-5131764.html",
       "https://vnexpress.net/nghien-cuu-mua-nha-thuong-mai-ton-kho-de-cho-thue-5131659.html",
       "https://vnexpress.net/canh-bao-mao-danh-lua-cai-ma-doc-ve-bao-hiem-xa-hoi-5131423.html",
       "https://vnexpress.net/metro-xe-buyt-tp-hcm-tang-chuyen-phuc-vu-le-an-tang-731-hai-cot-liet-si-5131871.html",
@@ -300,14 +298,13 @@
       "https://vnexpress.net/de-xuat-bo-nghiem-thu-pccc-truoc-khi-dua-cong-trinh-vao-su-dung-5136605.html",
       "https://vnexpress.net/nu-cong-nhan-rut-ngan-tung-giay-tren-chuyen-may-xuat-khau-5135926.html",
       "https://vnexpress.net/hinh-hai-trung-tam-hoi-nghi-va-nha-bieu-dien-apec-2027-5136496.html",
-      "https://vnexpress.net/dai-bieu-quoc-hoi-can-xu-ly-nguon-phat-tan-phim-doc-hai-5136335.html"
+      "https://vnexpress.net/dai-bieu-quoc-hoi-can-xu-ly-nguon-phat-tan-phim-doc-hai-5136335.html",
+      "https://vnexpress.net/bac-bo-nang-nong-hiem-gap-5136799.html",
+      "https://vnexpress.net/trinh-quoc-hoi-tang-50-muc-phat-hanh-chinh-toi-da-5136781.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ten-lua-houthi-danh-trung-to-hop-dinh-tong-thong-yemen-5132943.html",
-      "https://vnexpress.net/khoanh-khac-tiem-kich-hon-120-trieu-usd-cua-arab-saudi-hung-ten-lua-houthi-5132966.html",
-      "https://vnexpress.net/ong-trump-ukraine-dang-ho-then-khi-tap-kich-nha-may-loc-dau-nga-5132973.html",
       "https://vnexpress.net/hoang-hau-thai-lan-tu-lai-chuyen-co-toi-nhat-ban-5132974.html",
       "https://vnexpress.net/australia-trao-tra-tuong-phat-bi-an-cho-trung-quoc-5133004.html",
       "https://vnexpress.net/ukraine-da-vet-can-kho-ten-lua-patriot-5132987.html",
@@ -604,7 +601,10 @@
       "https://vnexpress.net/trieu-tien-gui-thu-to-cao-han-quoc-len-lien-hop-quoc-5136767.html",
       "https://vnexpress.net/ong-trump-keu-goi-nguoi-israel-bo-phieu-cho-thu-tuong-netanyahu-5136815.html",
       "https://vnexpress.net/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-ba-lan-5136836.html",
-      "https://vnexpress.net/con-dau-trung-quoc-tinh-lai-sau-hon-me-nho-me-chong-cham-soc-700-ngay-5136794.html"
+      "https://vnexpress.net/con-dau-trung-quoc-tinh-lai-sau-hon-me-nho-me-chong-cham-soc-700-ngay-5136794.html",
+      "https://vnexpress.net/my-co-the-ung-ho-cuu-thu-tuong-hungary-lam-tong-thu-ky-lhq-5136763.html",
+      "https://vnexpress.net/me-chong-17-nam-cham-soc-con-dau-ton-thuong-nao-5136794.html",
+      "https://vnexpress.net/trung-quoc-cong-bo-anh-ve-tinh-ro-tung-ngo-ngach-o-dao-dai-loan-5136777.html"
     ]
   },
   "phap-luat": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/iphone-18-pro-giup-apple-vuon-len-vi-tri-so-mot-trung-quoc-5126831.html",
       "https://vnexpress.net/dau-an-mark-zuckerberg-trong-thoa-thuan-ai-cua-nha-trang-5127520.html",
       "https://vnexpress.net/google-can-10-nam-va-1-800-lan-phong-de-xay-trung-tam-du-lieu-vu-tru-5127638.html",
       "https://vnexpress.net/pii-2026-tu-chi-so-doi-moi-sang-tao-den-cong-cu-quan-ly-5127771.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/khanh-thanh-khu-thu-nghiem-uav-tai-hoa-lac-5136677.html",
       "https://vnexpress.net/nhom-nghien-cuu-viet-che-tao-xuong-kim-loai-tu-titan-5133699.html",
       "https://vnexpress.net/moi-nguy-tu-cac-thiet-bi-ai-luon-lang-nghe-5134661.html",
-      "https://vnexpress.net/tra-tan-iphone-duo-kiem-tra-do-ben-5136699.html"
+      "https://vnexpress.net/tra-tan-iphone-duo-kiem-tra-do-ben-5136699.html",
+      "https://vnexpress.net/nguoi-dung-sau-cuoc-giai-cuu-internet-khoi-tham-hoa-php-5136800.html"
     ]
   },
   "kinh-doanh": {
