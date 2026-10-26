@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nghien-cuu-mua-nha-thuong-mai-ton-kho-de-cho-thue-5131659.html",
-      "https://vnexpress.net/canh-bao-mao-danh-lua-cai-ma-doc-ve-bao-hiem-xa-hoi-5131423.html",
       "https://vnexpress.net/metro-xe-buyt-tp-hcm-tang-chuyen-phuc-vu-le-an-tang-731-hai-cot-liet-si-5131871.html",
       "https://vnexpress.net/quoc-hoi-hop-ky-2-ca-cuoi-tuan-thong-qua-43-luat-nghi-quyet-5131902.html",
       "https://vnexpress.net/thuyen-danh-ca-va-cham-truoc-cang-mot-nguoi-tu-vong-5131914.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/hinh-hai-trung-tam-hoi-nghi-va-nha-bieu-dien-apec-2027-5136496.html",
       "https://vnexpress.net/dai-bieu-quoc-hoi-can-xu-ly-nguon-phat-tan-phim-doc-hai-5136335.html",
       "https://vnexpress.net/bac-bo-nang-nong-hiem-gap-5136799.html",
-      "https://vnexpress.net/trinh-quoc-hoi-tang-50-muc-phat-hanh-chinh-toi-da-5136781.html"
+      "https://vnexpress.net/trinh-quoc-hoi-tang-50-muc-phat-hanh-chinh-toi-da-5136781.html",
+      "https://vnexpress.net/mien-bac-nang-nong-hiem-gap-5136799.html",
+      "https://vnexpress.net/chay-nha-o-gia-lai-hai-cha-con-tu-vong-5136818.html"
     ]
   },
   "the-gioi": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/khach-hang-thuong-gia-doi-nhan-vien-san-bay-check-in-cho-sau-nguoi-di-cung-5118209.html",
       "https://vnexpress.net/ha-noi-can-thiet-xay-khai-khoan-mon-gan-ho-guom-ha-noi-co-gi-dac-biet-5118296.html",
       "https://vnexpress.net/toi-mong-ha-noi-ho-guom-duoc-quy-hoach-kieu-ai-cung-muon-quay-ve-5118296.html",
       "https://vnexpress.net/vi-khach-hang-thuong-gia-doi-nhan-vien-san-bay-check-in-cho-6-nguoi-di-cung-5118209.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/thoi-quen-kho-ly-giai-cua-dan-chung-cu-trong-thang-may-5136582.html",
       "https://vnexpress.net/noi-kho-40-phu-huynh-40-mong-muon-cua-giao-vien-5136580.html",
       "https://vnexpress.net/co-giao-kho-so-vi-40-phu-huynh-40-mong-muon-5136580.html",
-      "https://vnexpress.net/co-nen-san-phang-ngon-nui-cao-40-m-o-quy-nhon-5136804.html"
+      "https://vnexpress.net/co-nen-san-phang-ngon-nui-cao-40-m-o-quy-nhon-5136804.html",
+      "https://vnexpress.net/co-giao-noi-toi-sau-nay-chang-lam-nen-tro-trong-gi-5134217.html"
     ]
   }
 }
