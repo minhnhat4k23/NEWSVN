@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/pho-thu-tuong-pham-thi-thanh-tra-nguoi-tre-co-4-co-hoi-de-tao-dau-an-5132827.html",
-      "https://vnexpress.net/cuu-thanh-nien-xung-phong-mien-nam-mat-suc-co-don-duoc-tang-gap-doi-tro-cap-5132809.html",
-      "https://vnexpress.net/bo-truong-vu-hai-quan-muon-lam-viec-lon-phai-bat-dau-tu-viec-nho-5132838.html",
       "https://vnexpress.net/ha-noi-ky-hop-dong-chia-khoa-trao-tay-5-tuyen-metro-khoang-mot-trieu-ty-dong-5132852.html",
       "https://vnexpress.net/tp-hcm-mo-lan-dao-chieu-duong-truong-chinh-de-giam-un-tac-5132863.html",
       "https://vnexpress.net/nhieu-phuong-o-tp-hcm-duoc-thuong-tram-ty-dong-vi-giai-ngan-dau-tu-cong-tot-5132868.html",
@@ -300,14 +297,14 @@
       "https://vnexpress.net/de-xuat-loat-uu-dai-thue-dat-dai-phat-trien-du-lich-5137620.html",
       "https://vnexpress.net/ha-noi-thong-qua-co-che-xu-ly-12-du-an-cua-tap-doan-muong-thanh-5137716.html",
       "https://vnexpress.net/cua-ngo-ha-noi-un-tac-vi-rao-chan-thi-cong-5137700.html",
-      "https://vnexpress.net/ho-tro-nong-dan-mien-tay-trong-180-000-lua-phat-thai-thap-5137848.html"
+      "https://vnexpress.net/ho-tro-nong-dan-mien-tay-trong-180-000-lua-phat-thai-thap-5137848.html",
+      "https://vnexpress.net/ha-noi-chinh-trang-tai-thiet-hon-30-ha-dat-khu-vuc-ho-guom-5137746.html",
+      "https://vnexpress.net/cao-toc-dau-giay-tan-phu-thi-cong-moi-dat-5-2-sau-hon-mot-nam-5137744.html",
+      "https://vnexpress.net/ha-noi-thong-nhat-dieu-chinh-dia-gioi-don-vi-hanh-chinh-voi-tinh-phu-tho-5137926.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/nhung-cu-tri-dau-tat-mat-toi-co-the-dinh-doat-bau-cu-giua-ky-my-5131736.html",
-      "https://vnexpress.net/viet-nam-de-nghi-liechtenstein-chia-se-kinh-nghiem-quan-ly-tai-san-quoc-te-5133907.html",
-      "https://vnexpress.net/my-cong-bo-danh-tinh-phu-huynh-ha-ke-xa-sung-o-truong-tieu-hoc-5133456.html",
       "https://vnexpress.net/bao-loan-o-phap-co-the-gay-thiet-hai-hang-tram-trieu-euro-5133908.html",
       "https://vnexpress.net/hanh-trinh-doi-phe-cua-trung-uy-nga-chien-dau-o-ukraine-5133171.html",
       "https://vnexpress.net/ong-zelensky-my-da-noi-lai-chia-se-tinh-bao-cho-ukraine-5133960.html",
@@ -604,7 +601,10 @@
       "https://vnexpress.net/cong-ty-my-tuyen-nguoi-dat-cho-robot-di-dao-5137707.html",
       "https://vnexpress.net/the-giang-co-khi-bau-cu-israel-bat-phan-thang-bai-5137674.html",
       "https://vnexpress.net/ukraine-ban-de-sen-bo-che-do-tu-dong-giua-con-doi-ten-lua-patriot-5137673.html",
-      "https://vnexpress.net/ong-trump-neu-y-tuong-venezuela-thanh-bang-thu-51-cua-my-5137734.html"
+      "https://vnexpress.net/ong-trump-neu-y-tuong-venezuela-thanh-bang-thu-51-cua-my-5137734.html",
+      "https://vnexpress.net/phi-co-quay-dau-vi-thanh-nien-nhan-tin-doa-cuop-may-bay-5137830.html",
+      "https://vnexpress.net/don-danh-giua-cau-cua-iskander-m-khien-giao-thong-kiev-te-liet-5137804.html",
+      "https://vnexpress.net/thuong-vien-phap-thong-qua-du-luat-buoc-nguoi-bieu-tinh-pha-hoai-phai-boi-thuong-5137812.html"
     ]
   },
   "phap-luat": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/nen-lam-gi-sau-dot-quy-giup-cai-thien-tri-nho-5134551.html",
-      "https://vnexpress.net/nguyen-nhan-loang-xuong-o-nguoi-tre-5134735.html",
-      "https://vnexpress.net/vi-sao-chat-xo-tot-cho-suc-khoe-tim-mach-5134492.html",
       "https://vnexpress.net/gan-nha-co-ca-nao-mo-cau-phong-ngua-the-nao-5134800.html",
       "https://vnexpress.net/bac-si-no-luc-cuu-nguoi-dan-ong-3-lan-tim-ngung-dap-5134701.html",
       "https://vnexpress.net/ba-loai-qua-dung-thuong-xuyen-tot-cho-than-5134698.html",
@@ -2124,7 +2121,10 @@
       "https://vnexpress.net/dan-kin-mieng-di-ngu-nhu-sao-han-66-tuoi-coi-chung-dot-tu-trong-dem-5137759.html",
       "https://vnexpress.net/7-thuc-pham-giau-vitamin-c-giup-co-the-tao-collagen-5137378.html",
       "https://vnexpress.net/nam-tiktoker-mac-vay-nen-toi-xem-benh-la-nguoi-ban-dong-hanh-5137849.html",
-      "https://vnexpress.net/men-gan-tang-15-lan-nghi-do-thuoc-giam-can-troi-noi-5137867.html"
+      "https://vnexpress.net/men-gan-tang-15-lan-nghi-do-thuoc-giam-can-troi-noi-5137867.html",
+      "https://vnexpress.net/nguoi-tap-gym-nap-qua-nhieu-protein-co-hai-than-5137711.html",
+      "https://vnexpress.net/5-dau-hieu-sun-khop-suy-yeu-5137887.html",
+      "https://vnexpress.net/soi-gay-u-nuoc-than-5137876.html"
     ]
   },
   "du-lich": {
@@ -2433,10 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/lao-xuong-song-cuu-nguoi-giua-nuoc-lu-5121442.html",
-      "https://vnexpress.net/bo-qua-muong-nuoc-lu-do-de-cho-san-phu-5121542.html",
-      "https://vnexpress.net/cuoc-song-dao-lon-trong-khu-dan-cu-oc-dao-do-mua-ngap-5121543.html",
-      "https://vnexpress.net/can-chuan-bi-gi-khi-chuyen-giao-tai-san-cho-the-he-sau-5121642.html",
       "https://vnexpress.net/cuoc-hon-nhan-mac-ket-vi-phoi-thai-cua-chong-va-nhan-tinh-5120246.html",
       "https://vnexpress.net/cam-hung-van-hoa-viet-tai-trien-lam-kim-hoan-quoc-te-5121456.html",
       "https://vnexpress.net/5-vat-dung-phat-tan-formaldehyde-trong-nha-5120495.html",
@@ -2732,7 +2728,11 @@
       "https://vnexpress.net/giai-ma-thoi-quen-tu-can-tro-ban-than-5137355.html",
       "https://vnexpress.net/cong-thuc-mon-ba-chi-om-chuoi-dau-5137121.html",
       "https://vnexpress.net/nguoi-mau-nga-chon-o-lai-viet-nam-vi-chang-trai-ha-noi-5136675.html",
-      "https://vnexpress.net/cuoc-song-cua-nguyen-mau-phim-lion-sau-14-nam-tim-thay-me-5137543.html"
+      "https://vnexpress.net/cuoc-song-cua-nguyen-mau-phim-lion-sau-14-nam-tim-thay-me-5137543.html",
+      "https://vnexpress.net/ong-chu-56-tuoi-dat-khach-nho-nghe-cai-thue-5137443.html",
+      "https://vnexpress.net/nguoi-gia-sap-bay-lua-con-nuoi-ai-5137384.html",
+      "https://vnexpress.net/mat-bang-chung-chong-ngoai-tinh-vi-dat-camera-giau-kin-5137838.html",
+      "https://vnexpress.net/kham-sang-loc-nguy-co-dot-quy-cho-hon-1-000-nguoi-dan-ha-tinh-5137880.html"
     ]
   },
   "tam-su": {
