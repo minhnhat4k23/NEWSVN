@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/hon-100-nam-thang-tram-cua-hoa-sua-ha-noi-5132618.html",
-      "https://vnexpress.net/ngan-gian-lan-ket-qua-can-do-luong-bang-phan-mem-5133513.html",
       "https://vnexpress.net/gan-101-5-trieu-nguoi-chuyen-doi-ma-so-bhxh-bhyt-sang-dinh-danh-ca-nhan-5133376.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-phai-bao-ve-nguoi-dan-truoc-nhung-sai-lech-trong-do-luong-5133584.html",
       "https://vnexpress.net/gia-lai-tim-huong-dua-nong-san-len-ban-an-the-gioi-5133450.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/de-nghi-dai-ngo-can-bo-xa-theo-hieu-qua-cong-viec-5138805.html",
       "https://vnexpress.net/dong-tho-cao-toc-go-dau-xa-mat-hon-10-200-ty-dong-5138815.html",
       "https://vnexpress.net/tp-hcm-mo-co-che-tien-cu-tra-luong-chuyen-gia-den-265-trieu-dong-thang-5138876.html",
-      "https://vnexpress.net/chay-can-nha-khoa-trai-lan-sang-5-can-ben-canh-5138889.html"
+      "https://vnexpress.net/chay-can-nha-khoa-trai-lan-sang-5-can-ben-canh-5138889.html",
+      "https://vnexpress.net/chay-nha-lan-sang-5-can-ben-canh-5138889.html",
+      "https://vnexpress.net/bo-truong-xay-dung-duong-sat-ha-noi-thai-nguyen-do-hai-dia-phuong-quyet-5138846.html"
     ]
   },
   "the-gioi": {
@@ -609,7 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/bi-khoi-to-vi-mang-chuong-cho-giuong-ra-chan-ngo-di-chung-5131174.html",
       "https://vnexpress.net/benh-vien-bi-kien-sau-cai-chet-cua-co-gai-gay-mat-ca-chan-5131195.html",
       "https://vnexpress.net/ca-si-chi-dan-khang-cao-xin-giam-nhe-hinh-phat-5131208.html",
       "https://vnexpress.net/shark-thuy-bi-truy-to-vi-chiem-doat-8-459-ty-dong-5131215.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/bo-me-mr-pips-se-suy-nghi-viec-cung-con-trai-boi-thuong-5138719.html",
       "https://vnexpress.net/tu-kien-hang-kha-nghi-lo-duong-day-che-tao-sung-quan-dung-5138733.html",
       "https://vnexpress.net/bo-me-mr-pips-khai-tien-mat-qua-cong-kenh-mua-vang-giau-cho-gon-5138719.html",
-      "https://vnexpress.net/vo-chong-giao-su-goc-viet-bi-ban-nghi-pham-la-con-trai-5138808.html"
+      "https://vnexpress.net/vo-chong-giao-su-goc-viet-bi-ban-nghi-pham-la-con-trai-5138808.html",
+      "https://vnexpress.net/bo-me-mr-pips-khai-tien-mat-qua-cong-kenh-mua-314-cay-vang-giau-cho-gon-5138719.html"
     ]
   },
   "giao-duc": {
