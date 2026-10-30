@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ukraine-khong-nhan-duoc-canh-bao-ten-lua-nga-co-the-vi-loi-phan-mem-5134440.html",
-      "https://vnexpress.net/trung-quoc-co-bao-nhieu-thanh-pho-so-huu-tau-dien-ngam-5132171.html",
       "https://vnexpress.net/bai-toan-kho-giai-cua-phap-sau-song-bieu-tinh-bao-loan-5134431.html",
       "https://vnexpress.net/thu-tuong-ha-lan-sap-don-con-dau-long-nho-mang-thai-ho-5134463.html",
       "https://vnexpress.net/houthi-tap-kich-thao-truong-quan-doi-yemen-gan-60-nguoi-chet-5134484.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/ong-putin-ung-ho-cai-thien-quan-he-voi-chau-au-5138566.html",
       "https://vnexpress.net/chien-luoc-gia-hang-dau-lau-nam-goc-mat-chuc-vi-lam-ro-ri-tin-mat-5138568.html",
       "https://vnexpress.net/ong-trump-huy-loat-buoi-van-dong-sat-ngay-bau-cu-giua-ky-5138592.html",
-      "https://vnexpress.net/co-che-lam-nen-suc-huy-diet-cua-bom-me-my-doa-nem-xuong-iran-5137393.html"
+      "https://vnexpress.net/co-che-lam-nen-suc-huy-diet-cua-bom-me-my-doa-nem-xuong-iran-5137393.html",
+      "https://vnexpress.net/ukraine-tuyen-bo-pha-huy-hai-may-bay-su-34-danh-trung-be-iskander-5138608.html",
+      "https://vnexpress.net/nguoi-me-bi-bat-vi-bo-4-con-nho-o-nha-di-cong-tac-5138455.html"
     ]
   },
   "phap-luat": {
@@ -2433,10 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/lo-giac-mo-dong-con-vi-ap-luc-tien-bac-5122061.html",
-      "https://vnexpress.net/bi-thu-chu-tich-xa-xay-kenh-livestream-chot-don-cho-dia-phuong-5121949.html",
-      "https://vnexpress.net/trang-tay-sau-man-ly-hon-gia-de-giu-tai-san-5122082.html",
-      "https://vnexpress.net/loi-song-lam-mot-nghi-ba-cua-gioi-tre-5122064.html",
       "https://vnexpress.net/meo-luoc-trung-bang-noi-chien-khong-dau-5121610.html",
       "https://vnexpress.net/su-khac-biet-cot-loi-cua-hai-kieu-phan-boi-5120944.html",
       "https://vnexpress.net/nuoc-ngap-ham-chung-cu-nguoi-dan-tp-vinh-bi-bom-cuu-tai-san-5122313.html",
@@ -2732,12 +2728,15 @@
       "https://vnexpress.net/lan-ngoc-thien-trang-tham-gia-chien-dich-nang-cao-nhan-thuc-ve-hpv-5136910.html",
       "https://vnexpress.net/generali-gan-ket-nhan-vien-cong-dong-qua-giai-pickleball-genforza-2026-5138233.html",
       "https://vnexpress.net/voi-xit-ve-sinh-duoc-san-don-tai-nhieu-cong-so-my-5138316.html",
-      "https://vnexpress.net/grab-mo-rong-chuong-trinh-dieu-uoc-sau-tay-lai-5138249.html"
+      "https://vnexpress.net/grab-mo-rong-chuong-trinh-dieu-uoc-sau-tay-lai-5138249.html",
+      "https://vnexpress.net/cach-uop-dau-an-tru-dong-hai-san-tuoi-lau-5138434.html",
+      "https://vnexpress.net/meo-giu-nang-luong-trong-nhung-ngay-ban-ron-5138357.html",
+      "https://vnexpress.net/tinh-cach-nguoi-me-anh-huong-tuong-lai-con-cai-the-nao-5138523.html",
+      "https://vnexpress.net/loi-nuoc-trieu-cuong-cuu-ho-xe-chet-may-trong-dem-5138067.html"
     ]
   },
   "tam-su": {
     "seen": [
-      "https://vnexpress.net/vo-lien-tuc-hoi-thuc-toi-noi-bo-me-sang-ten-manh-dat-da-cho-5119814.html",
       "https://vnexpress.net/buon-ba-va-u-uat-vi-chong-khong-co-nhu-cau-gan-gui-5119543.html",
       "https://vnexpress.net/nghi-chia-tay-ban-gai-de-do-met-moi-nhung-toi-dau-kho-mai-chua-nguoi-5119387.html",
       "https://vnexpress.net/vo-sap-cuoi-ngoan-hien-xem-nhieu-trang-web-nhay-cam-5120152.html",
@@ -3036,7 +3035,8 @@
       "https://vnexpress.net/chong-toi-tot-nhung-qua-te-nhat-5138413.html",
       "https://vnexpress.net/vo-tho-o-khi-toi-ngo-doc-nhung-sot-sang-khi-dong-nghiep-nam-dau-dau-5138367.html",
       "https://vnexpress.net/lo-ban-trai-khong-chung-thuy-khi-anh-lam-nghe-phai-di-chuyen-nhieu-5138458.html",
-      "https://vnexpress.net/toi-hoi-han-voi-quyet-dinh-o-re-nam-xua-5138459.html"
+      "https://vnexpress.net/toi-hoi-han-voi-quyet-dinh-o-re-nam-xua-5138459.html",
+      "https://vnexpress.net/toi-nhin-thay-chong-muon-hon-tinh-cu-sau-gan-20-nam-gap-lai-5138457.html"
     ]
   },
   "tam-su-2": {
