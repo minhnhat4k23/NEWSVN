@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html",
       "https://vnexpress.net/noi-an-nghi-cua-vi-chua-nguyen-dau-tien-5133645.html",
       "https://vnexpress.net/pho-thu-tuong-chinh-phu-lam-ngay-lam-dem-de-thao-go-kho-khan-5133798.html",
       "https://vnexpress.net/luong-tang-2-trieu-dong-nhung-chi-phi-thiet-yeu-tang-3-trieu-5133845.html",
@@ -300,13 +299,12 @@
       "https://vnexpress.net/pho-chu-tich-thai-nguyen-giu-chuc-thu-truong-nong-nghiep-va-moi-truong-5138982.html",
       "https://vnexpress.net/rac-tu-long-tom-hum-bua-vay-bo-bien-cam-ranh-5138277.html",
       "https://vnexpress.net/bon-nam-xay-dung-dinh-doc-lap-5138776.html",
-      "https://vnexpress.net/hue-chi-60-ty-dong-tu-bo-lang-chua-nguyen-5138973.html"
+      "https://vnexpress.net/hue-chi-60-ty-dong-tu-bo-lang-chua-nguyen-5138973.html",
+      "https://vnexpress.net/doi-nam-nu-tu-vong-sau-tai-nan-trong-ham-chui-gan-san-bay-tan-son-nhat-5139064.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/ukraine-to-ang-ten-khang-nhieu-nga-dung-hang-chuc-linh-kien-my-5134660.html",
-      "https://vnexpress.net/dac-phai-vien-my-mang-de-xuat-hoa-binh-ukraine-den-gap-ong-putin-5134970.html",
       "https://vnexpress.net/gia-toc-kennedy-hung-chiu-them-bi-kich-5134944.html",
       "https://vnexpress.net/noi-dan-vat-cua-nguoi-hung-ha-ke-xa-sung-tai-truong-tieu-hoc-my-5134979.html",
       "https://vnexpress.net/dang-cong-hoa-gap-kho-khi-ong-trump-nga-ve-nga-5133989.html",
@@ -604,13 +602,13 @@
       "https://vnexpress.net/my-bat-den-xanh-ban-500-ten-lua-patriot-cho-ukraine-5139005.html",
       "https://vnexpress.net/vo-chong-giao-su-goc-viet-bi-ban-chet-tai-nha-nghi-pham-la-con-trai-5139008.html",
       "https://vnexpress.net/ong-trump-iran-muon-dam-phan-5139012.html",
-      "https://vnexpress.net/my-yeu-cau-ba-nuoc-baltic-tiet-che-loi-le-ve-nga-5138886.html"
+      "https://vnexpress.net/my-yeu-cau-ba-nuoc-baltic-tiet-che-loi-le-ve-nga-5138886.html",
+      "https://vnexpress.net/chuyen-bay-dua-bolsonaro-toi-florida-duoc-tra-bang-tai-khoan-tai-my-5139031.html",
+      "https://vnexpress.net/ten-lua-phong-khong-xuat-hien-gan-dinh-thu-ong-trump-5139049.html"
     ]
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/hon-chien-trong-dem-15-nguoi-bi-khoi-to-5131407.html",
-      "https://vnexpress.net/chu-kenh-gia-lang-tay-nguyen-do-thanh-tin-bi-bat-5130558.html",
       "https://vnexpress.net/bon-nguoi-tron-truy-na-quoc-te-bi-bat-tai-da-nang-5131444.html",
       "https://vnexpress.net/giau-xac-vo-duoi-ham-nha-hoang-bo-tron-cung-ban-gai-17-tuoi-5131430.html",
       "https://vnexpress.net/nhung-luu-y-quan-trong-ve-dat-coc-tu-15-10-5131178.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/cu-phan-boi-trong-cuoc-gap-bi-mat-khien-trum-ma-tuy-sa-luoi-5138929.html",
       "https://vnexpress.net/bi-mat-trong-nhom-chat-dau-tu-ruou-vang-cua-mr-pips-voi-luat-su-va-hai-cong-an-5138847.html",
       "https://vnexpress.net/hai-nguoi-bi-thuong-sau-tran-hon-chien-cua-nhom-giang-ho-nhi-5138828.html",
-      "https://vnexpress.net/ong-chu-cay-xanh-cong-minh-bo-tron-tien-van-chuyen-ve-tai-khoan-nguoi-nha-5138857.html"
+      "https://vnexpress.net/ong-chu-cay-xanh-cong-minh-bo-tron-tien-van-chuyen-ve-tai-khoan-nguoi-nha-5138857.html",
+      "https://vnexpress.net/mr-pips-khong-ai-tu-nhan-minh-di-lua-dao-truoc-cong-an-5138847.html",
+      "https://vnexpress.net/vo-mr-hunter-khai-ve-hon-nhan-tien-ai-nay-giu-xin-duoc-tra-lai-18-ty-dong-5138958.html"
     ]
   },
   "giao-duc": {
