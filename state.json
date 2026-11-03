@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/viet-nam-de-nghi-malaysia-ho-tro-dao-tao-tieng-anh-cho-si-quan-5134760.html",
-      "https://vnexpress.net/nhip-cau-di-bo-nang-3-400-tan-qua-song-sai-gon-lap-dat-the-nao-5134792.html",
       "https://vnexpress.net/khanh-hoa-dinh-huong-dat-trung-tam-hanh-chinh-o-cam-lam-5134801.html",
       "https://vnexpress.net/tp-hcm-de-xuat-chi-hon-600-ty-dong-ho-tro-can-bo-khong-chuyen-trach-5134798.html",
       "https://vnexpress.net/bat-an-khi-song-canh-nghia-trang-5132478.html",
@@ -300,13 +298,13 @@
       "https://vnexpress.net/doi-diem-thuong-ho-tro-vien-phi-cho-benh-nhan-ung-thu-5139712.html",
       "https://vnexpress.net/nha-may-giay-hon-1-600-cong-nhan-o-tp-hcm-giai-the-5139954.html",
       "https://vnexpress.net/nguoi-di-bo-the-duc-bi-xe-container-tong-tu-vong-5140006.html",
-      "https://vnexpress.net/xe-may-noi-hang-dai-tren-lan-uu-tien-xe-dap-o-tp-hcm-5139929.html"
+      "https://vnexpress.net/xe-may-noi-hang-dai-tren-lan-uu-tien-xe-dap-o-tp-hcm-5139929.html",
+      "https://vnexpress.net/quang-ngai-de-nghi-can-bo-ky-cam-ket-khong-nhung-nhieu-doanh-nghiep-5139560.html",
+      "https://vnexpress.net/cong-vien-chiec-nhan-hoa-binh-giua-trung-tam-da-nang-5139896.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/the-kho-cua-ukraine-khi-dam-phan-ba-ben-voi-nga-my-5135429.html",
-      "https://vnexpress.net/dong-dat-7-do-tai-tay-tang-it-nhat-16-nguoi-thiet-mang-5135814.html",
       "https://vnexpress.net/viet-nam-eu-nhat-tri-mo-rong-hop-tac-chuyen-doi-xanh-doi-moi-sang-tao-5135788.html",
       "https://vnexpress.net/ukraine-phat-lenh-so-tan-bat-buoc-tai-hai-thanh-pho-phao-dai-o-donetsk-5135818.html",
       "https://vnexpress.net/ong-trump-starshield-da-hoat-dong-tro-lai-o-ukraine-5135830.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/my-tap-kich-dao-chien-luoc-cua-iran-5139974.html",
       "https://vnexpress.net/thong-tin-mat-cua-tong-thong-han-quoc-bi-dang-tren-mang-5139975.html",
       "https://vnexpress.net/giac-mo-dang-do-cua-nu-co-pho-20-tuoi-trong-vu-may-bay-lao-xuong-dat-5139977.html",
-      "https://vnexpress.net/nguoi-linh-cuu-hoa-la-vua-bat-ran-o-bangkok-5139696.html"
+      "https://vnexpress.net/nguoi-linh-cuu-hoa-la-vua-bat-ran-o-bangkok-5139696.html",
+      "https://vnexpress.net/my-trien-khai-vu-khi-laser-bao-ve-dinh-thu-cua-ong-trump-5139997.html",
+      "https://vnexpress.net/ly-do-dang-dan-chu-co-the-gianh-lai-ha-vien-sau-bau-cu-giua-ky-5139619.html"
     ]
   },
   "phap-luat": {
@@ -2129,7 +2129,6 @@
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/quan-pho-ga-michelin-chieu-khach-ban-gia-linh-hoat-5121989.html",
       "https://vnexpress.net/ta-xua-lan-dau-duoc-vinh-danh-diem-den-moi-noi-hang-dau-chau-a-5126915.html",
       "https://vnexpress.net/doan-hon-70-khach-to-bi-cong-ty-tour-bo-roi-giua-chuyen-di-phap-5126982.html",
       "https://vnexpress.net/10-quoc-gia-dan-dau-the-gioi-ve-du-lich-2026-5126943.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/doan-khach-quoc-te-dau-tien-nghi-dem-tren-vinh-bai-tu-long-5139891.html",
       "https://vnexpress.net/vietnam-airlines-mo-rong-mang-bay-tang-co-hoi-don-khach-quoc-te-5139841.html",
       "https://vnexpress.net/quan-bot-chien-gan-voi-ky-uc-nguoi-dan-tp-hcm-mo-ban-tro-lai-5139892.html",
-      "https://vnexpress.net/thap-tam-thang-hut-khach-check-in-ben-bien-vung-tau-5137329.html"
+      "https://vnexpress.net/thap-tam-thang-hut-khach-check-in-ben-bien-vung-tau-5137329.html",
+      "https://vnexpress.net/de-xuat-cham-dut-hoat-dong-du-lich-sinh-thai-thac-ba-trong-rung-lam-dong-5139913.html"
     ]
   },
   "gia-dinh": {
