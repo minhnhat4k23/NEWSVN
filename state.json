@@ -1217,8 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/microsoft-sa-thai-nhan-su-tai-viet-nam-5131896.html",
-      "https://vnexpress.net/sac-du-phong-bung-chay-tren-may-bay-5131761.html",
       "https://vnexpress.net/apple-ra-homeview-man-hinh-trung-tam-nha-thong-minh-5131911.html",
       "https://vnexpress.net/cau-truc-phang-khien-nhan-vien-nvidia-it-nghi-viec-5131435.html",
       "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-thoi-ai-5128776.html",
@@ -1516,7 +1514,9 @@
       "https://vnexpress.net/apple-co-the-se-dung-san-xuat-macbook-pro-man-hinh-thuong-5139912.html",
       "https://vnexpress.net/ly-do-hacker-co-the-tan-cong-tang-nhiet-do-tu-lanh-sieu-thi-5140045.html",
       "https://vnexpress.net/fpt-van-hanh-thu-nghiem-nha-may-chip-tai-bac-ninh-5140108.html",
-      "https://vnexpress.net/meta-dang-che-tao-robot-hinh-nguoi-5139895.html"
+      "https://vnexpress.net/meta-dang-che-tao-robot-hinh-nguoi-5139895.html",
+      "https://vnexpress.net/nhieu-nha-toan-hoc-tre-xem-xet-lai-su-nghiep-vi-ai-5139650.html",
+      "https://vnexpress.net/binh-chon-dien-thoai-gap-dan-dau-trao-luu-duoc-yeu-thich-nhat-5140182.html"
     ]
   },
   "kinh-doanh": {
@@ -1825,9 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/vi-sao-phu-nu-de-boc-hoa-sau-tuoi-40-5136997.html",
-      "https://vnexpress.net/cat-tu-cung-ngan-tien-trien-ung-thu-5136986.html",
-      "https://vnexpress.net/nguoi-benh-cho-hon-90-phut-vi-so-kham-bi-bo-quen-trong-hoc-ban-5137045.html",
       "https://vnexpress.net/cang-co-khac-rach-co-the-nao-5137038.html",
       "https://vnexpress.net/vitamin-b9-quan-trong-voi-suc-khoe-nhu-the-nao-5136849.html",
       "https://vnexpress.net/xoa-seo-loi-sau-phau-thuat-nang-nguc-5137022.html",
@@ -2124,7 +2121,10 @@
       "https://vnexpress.net/8-thac-mac-ve-vaccine-cum-chuyen-biet-danh-cho-nguoi-cao-tuoi-5140177.html",
       "https://vnexpress.net/6-lan-chuyen-phoi-moi-co-con-5140089.html",
       "https://vnexpress.net/cach-lam-sach-va-duong-am-cho-da-kho-5140042.html",
-      "https://vnexpress.net/tuong-chong-mat-do-tuoi-gia-hoa-nhip-tim-cham-5139959.html"
+      "https://vnexpress.net/tuong-chong-mat-do-tuoi-gia-hoa-nhip-tim-cham-5139959.html",
+      "https://vnexpress.net/ba-thoi-quen-tot-cho-gan-5140010.html",
+      "https://vnexpress.net/com-trang-co-phai-ke-thu-suc-khoe-gay-tang-can-va-tieu-duong-5140016.html",
+      "https://vnexpress.net/can-bao-nhieu-kali-moi-ngay-de-tot-cho-huyet-ap-5139972.html"
     ]
   },
   "du-lich": {
@@ -2737,7 +2737,6 @@
   },
   "tam-su": {
     "seen": [
-      "https://vnexpress.net/toi-cat-lien-lac-khi-nguoi-tinh-tre-noi-muon-co-con-5121607.html",
       "https://vnexpress.net/khong-the-yeu-du-anh-la-mau-nguoi-toi-tim-kiem-bay-lau-5121838.html",
       "https://vnexpress.net/mua-nha-cho-ban-gai-du-hoc-ve-nhung-toi-nhan-lai-su-phan-boi-5121944.html",
       "https://vnexpress.net/khong-tim-duoc-ly-do-vo-tu-nhien-bo-be-gia-dinh-5121993.html",
@@ -3036,7 +3035,8 @@
       "https://vnexpress.net/nguoi-yeu-cu-muon-gap-toi-mot-lan-sau-17-nam-xa-cach-5139837.html",
       "https://vnexpress.net/chong-ngoai-tinh-18-nam-gio-toi-moi-biet-5139777.html",
       "https://vnexpress.net/muon-chua-hiem-muon-nhung-kinh-te-chua-vung-5140090.html",
-      "https://vnexpress.net/muon-lay-vo-de-co-nguoi-kiem-tien-toi-chi-lam-viec-nha-5140150.html"
+      "https://vnexpress.net/muon-lay-vo-de-co-nguoi-kiem-tien-toi-chi-lam-viec-nha-5140150.html",
+      "https://vnexpress.net/ca-gia-dinh-toi-doi-xu-tu-te-ma-chi-dau-thai-do-khong-tot-5140276.html"
     ]
   },
   "tam-su-2": {
