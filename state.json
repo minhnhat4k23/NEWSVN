@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/nhieu-loai-cay-cam-trong-hien-dien-tren-duong-pho-thu-do-5135312.html",
-      "https://vnexpress.net/chim-tau-4-ngu-dan-mat-tich-gan-gian-khoan-su-tu-trang-5135322.html",
       "https://vnexpress.net/dien-mao-cau-di-bo-bac-qua-song-sai-gon-sau-hop-long-5135414.html",
       "https://vnexpress.net/trinh-quoc-hoi-giai-phap-hoan-doi-dat-o-bao-dam-sinh-ke-khi-thu-hoi-dat-5135433.html",
       "https://vnexpress.net/nghe-an-xem-xet-thu-phi-do-xe-duoi-long-duong-5135454.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/dai-bieu-de-nghi-phan-hoa-tien-phat-giua-vi-pham-lan-dau-va-tai-pham-5140714.html",
       "https://vnexpress.net/vi-sao-nguoi-dan-khong-duoc-trong-dua-tren-dai-phan-cach-dai-lo-5140605.html",
       "https://vnexpress.net/mien-bac-sap-don-hai-dot-khong-khi-lanh-5140808.html",
-      "https://vnexpress.net/bo-truong-cong-an-se-dung-du-lieu-de-xac-dinh-vi-pham-giao-thong-vo-y-hay-co-y-5140817.html"
+      "https://vnexpress.net/bo-truong-cong-an-se-dung-du-lieu-de-xac-dinh-vi-pham-giao-thong-vo-y-hay-co-y-5140817.html",
+      "https://vnexpress.net/bo-truong-cong-an-se-dung-du-lieu-de-xac-dinh-vi-pham-giao-thong-vo-tinh-hay-co-y-5140817.html",
+      "https://vnexpress.net/nuoc-cuon-cuon-sau-mua-lon-o-tp-hcm-5140854.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/viet-nam-gianh-6-huy-chuong-vang-olympic-vat-ly-thien-van-quoc-te-5128275.html",
       "https://vnexpress.net/hoc-sinh-ha-noi-dua-nan-buon-nguoi-len-san-khau-vu-dao-5125405.html",
       "https://vnexpress.net/nuoc-nao-mua-dau-nhieu-nhat-chau-a-5128248.html",
       "https://vnexpress.net/phuong-tay-xuong-suc-tren-bang-xep-hang-dai-hoc-the-gioi-5127779.html",
@@ -1212,12 +1211,12 @@
       "https://vnexpress.net/nhieu-hoc-sinh-bi-bat-nat-hon-5-lan-trong-nam-hoc-5138891.html",
       "https://vnexpress.net/hang-loat-sang-kien-cong-dong-tai-sinh-vien-the-he-moi-2026-5140707.html",
       "https://vnexpress.net/dong-thap-tang-toc-xay-6-truong-noi-tru-vung-bien-5140587.html",
-      "https://vnexpress.net/hai-nhom-truong-o-tp-hcm-duoc-linh-dong-xep-mon-lien-ket-5140837.html"
+      "https://vnexpress.net/hai-nhom-truong-o-tp-hcm-duoc-linh-dong-xep-mon-lien-ket-5140837.html",
+      "https://vnexpress.net/truong-o-tp-hcm-duoc-linh-dong-xep-mon-lien-ket-5140837.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/hang-chip-nho-trung-quoc-cxmt-gay-xao-dong-thi-truong-5132433.html",
       "https://vnexpress.net/trung-quoc-phat-trien-ten-lua-tai-su-dung-thu-hoi-bang-dua-gap-5132322.html",
       "https://vnexpress.net/startup-viet-goi-von-3-trieu-usd-cho-ai-ho-tro-nha-khoa-hoc-5132272.html",
       "https://vnexpress.net/vietnam-post-trung-dau-gia-dau-so-di-dong-075-5132679.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/siri-ai-tieng-viet-co-the-lam-nhung-gi-tren-iphone-5140705.html",
       "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-appe-5140782.html",
       "https://vnexpress.net/dien-gia-truyen-cam-hung-ve-phat-trien-cong-nghe-tai-ai4vn-2026-5140337.html",
-      "https://vnexpress.net/du-thao-luat-do-luong-sua-doi-co-nhieu-diem-moi-5140832.html"
+      "https://vnexpress.net/du-thao-luat-do-luong-sua-doi-co-nhieu-diem-moi-5140832.html",
+      "https://vnexpress.net/ra-soat-33-chuong-trinh-khoa-hoc-cong-nghe-quoc-gia-trong-nam-2026-5140849.html"
     ]
   },
   "kinh-doanh": {
