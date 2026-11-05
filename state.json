@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ha-noi-du-kien-mo-rong-them-hon-4-000-ha-5135511.html",
       "https://vnexpress.net/chu-tich-quoc-hoi-tranh-de-bang-gia-dat-tang-dot-bien-5135614.html",
       "https://vnexpress.net/tau-nuoc-ngoai-bi-bat-giu-sau-khi-dam-hong-cau-cang-dung-quat-5135653.html",
       "https://vnexpress.net/phat-hien-ho-sut-sau-120-m-o-phong-nha-ke-bang-5135738.html",
@@ -300,14 +299,12 @@
       "https://vnexpress.net/quoc-hoi-se-xem-xet-dieu-chinh-dia-gioi-ha-noi-va-phu-tho-5140979.html",
       "https://vnexpress.net/du-kien-lap-trung-tam-lien-nganh-chong-lua-dao-truc-tuyen-5140960.html",
       "https://vnexpress.net/can-hon-5-260-ty-dong-khoi-phuc-san-bay-o-son-la-5140999.html",
-      "https://vnexpress.net/be-trai-5-tuoi-bi-bo-lai-ben-duong-5141031.html"
+      "https://vnexpress.net/be-trai-5-tuoi-bi-bo-lai-ben-duong-5141031.html",
+      "https://vnexpress.net/tam-thoi-giu-lai-ruong-dua-tren-dai-lo-hoa-lu-5141034.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/trieu-tien-gui-thu-to-cao-han-quoc-len-lien-hop-quoc-5136767.html",
-      "https://vnexpress.net/ong-trump-keu-goi-nguoi-israel-bo-phieu-cho-thu-tuong-netanyahu-5136815.html",
-      "https://vnexpress.net/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-ba-lan-5136836.html",
       "https://vnexpress.net/con-dau-trung-quoc-tinh-lai-sau-hon-me-nho-me-chong-cham-soc-700-ngay-5136794.html",
       "https://vnexpress.net/my-co-the-ung-ho-cuu-thu-tuong-hungary-lam-tong-thu-ky-lhq-5136763.html",
       "https://vnexpress.net/me-chong-17-nam-cham-soc-con-dau-ton-thuong-nao-5136794.html",
@@ -604,12 +601,14 @@
       "https://vnexpress.net/quan-chuc-tinh-bao-cap-cao-ukraine-mat-chuc-vi-nghi-an-tham-nhung-5140946.html",
       "https://vnexpress.net/song-xanh-can-quet-ban-do-bau-cu-giua-ky-my-5140680.html",
       "https://vnexpress.net/ong-trump-benh-vuc-bo-truong-quoc-phong-sau-that-bai-bau-cu-5140996.html",
-      "https://vnexpress.net/lanh-dao-the-gioi-ky-vong-vao-khoi-dau-moi-sau-bau-cu-giua-ky-my-5140978.html"
+      "https://vnexpress.net/lanh-dao-the-gioi-ky-vong-vao-khoi-dau-moi-sau-bau-cu-giua-ky-my-5140978.html",
+      "https://vnexpress.net/thiet-giap-phao-binh-indonesia-noi-duoi-tien-vao-thu-do-giua-cuoc-dieu-tra-tuong-canh-sat-5141003.html",
+      "https://vnexpress.net/trieu-tien-thu-ten-lua-hanh-trinh-diet-san-bay-5141024.html",
+      "https://vnexpress.net/nong-dan-texas-canh-tac-khong-cong-gay-quy-hoc-bong-3-trieu-usd-5140322.html"
     ]
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/tai-xe-bi-tam-giu-sau-vu-tong-chet-nguoi-keo-nan-nhan-khoi-gam-xe-de-bo-chay-5133791.html",
       "https://vnexpress.net/cuop-ipad-cua-be-6-tuoi-5133817.html",
       "https://vnexpress.net/cuop-ipad-cua-be-gai-6-tuoi-5133817.html",
       "https://vnexpress.net/chong-cu-cua-tiktoker-hang-du-muc-bi-bat-5133846.html",
@@ -908,7 +907,8 @@
       "https://vnexpress.net/nguoi-dan-ong-dang-video-sai-su-that-ve-xanh-sm-bi-bat-5140969.html",
       "https://vnexpress.net/nguoi-dang-video-sai-su-that-ve-xanh-sm-bi-bat-5140969.html",
       "https://vnexpress.net/du-kien-lap-trung-tam-lien-nganh-chong-lua-dao-truc-tuyen-5140960.html",
-      "https://vnexpress.net/5-cuu-lanh-dao-scb-bi-truy-na-trong-vu-gay-thiet-hai-22-500-ty-dong-5140670.html"
+      "https://vnexpress.net/5-cuu-lanh-dao-scb-bi-truy-na-trong-vu-gay-thiet-hai-22-500-ty-dong-5140670.html",
+      "https://vnexpress.net/nguoi-dang-video-sai-su-that-ve-gsm-bi-bat-5140969.html"
     ]
   },
   "giao-duc": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/chat-acrylamide-dau-doc-nghien-cuu-sinh-goc-viet-nguy-hiem-the-nao-5132802.html",
       "https://vnexpress.net/nha-mang-viet-ban-goi-cuoc-5g-theo-gio-5132691.html",
       "https://vnexpress.net/hop-tac-theo-chuoi-gia-tri-dua-ket-qua-nghien-cuu-ra-thi-truong-5132897.html",
       "https://vnexpress.net/hanh-trinh-10-nam-cua-starship-va-giac-mo-chinh-phuc-sao-hoa-5132636.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/hom-nay-khai-mac-ngay-hoi-tri-tue-nhan-tao-viet-nam-2026-5140602.html",
       "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-apple-5140782.html",
       "https://vnexpress.net/google-phat-hien-doi-tac-cai-ma-doc-vao-1-3-trieu-android-tv-box-5140877.html",
-      "https://vnexpress.net/12-cong-trinh-duoc-de-nghi-tang-giai-cao-quy-nhat-ve-khoa-hoc-cong-nghe-5140791.html"
+      "https://vnexpress.net/12-cong-trinh-duoc-de-nghi-tang-giai-cao-quy-nhat-ve-khoa-hoc-cong-nghe-5140791.html",
+      "https://vnexpress.net/cisco-giao-mot-nhan-vien-gen-z-viet-lai-98-ma-nguon-cu-5140846.html"
     ]
   },
   "kinh-doanh": {
