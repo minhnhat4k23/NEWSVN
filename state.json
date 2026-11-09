@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/chu-tich-quoc-hoi-lao-sap-tham-viet-nam-5138520.html",
-      "https://vnexpress.net/ong-trump-tiet-lo-noi-dung-thu-pho-tong-thong-my-gui-iran-5138543.html",
       "https://vnexpress.net/thong-diep-ran-de-cua-trieu-tien-khi-chia-phao-thang-vao-han-quoc-5137808.html",
       "https://vnexpress.net/he-thong-an-toan-hon-60-nam-tuoi-trong-tham-kich-tau-cao-toc-tay-ban-nha-5138239.html",
       "https://vnexpress.net/ong-putin-ung-ho-cai-thien-quan-he-voi-chau-au-5138566.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/ong-trump-noi-dua-ve-viec-moi-trum-dau-vo-lam-phat-ngon-vien-nha-trang-5142525.html",
       "https://vnexpress.net/nu-doanh-nhan-trong-be-boi-ngoai-tinh-cua-ceo-nvidia-5142546.html",
       "https://vnexpress.net/nga-dung-iskander-m-mang-dau-do-chu-dong-de-tap-kich-cau-o-kiev-5142533.html",
-      "https://vnexpress.net/nguoi-phu-nu-chay-7-giai-marathon-trong-luc-mang-thai-5142557.html"
+      "https://vnexpress.net/nguoi-phu-nu-chay-7-giai-marathon-trong-luc-mang-thai-5142557.html",
+      "https://vnexpress.net/thu-tuong-nhat-chu-tri-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-5142481.html",
+      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-cac-dinh-huong-trong-tam-cho-hop-tac-viet-nam-nhat-ban-5142594.html"
     ]
   },
   "phap-luat": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/loat-truong-tu-tuyen-lop-1-6-nam-2027-5130133.html",
       "https://vnexpress.net/loat-truong-tu-tuyen-sinh-lop-1-6-nam-2027-5130133.html",
       "https://vnexpress.net/tinh-thanh-nao-tang-truong-kinh-te-cao-nhat-9-thang-5130965.html",
       "https://vnexpress.net/dai-hoc-o-at-tuyen-dung-luong-giang-vien-bao-nhieu-5129550.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/cuoc-thi-truc-tuyen-tim-sang-kien-cong-dong-danh-cho-sinh-vien-5134625.html",
       "https://vnexpress.net/mo-hinh-ai-triple-nexus-ket-noi-phong-lab-va-doanh-nghiep-5142135.html",
       "https://vnexpress.net/giam-doc-so-giao-duc-nguyen-tan-phat-chuong-trinh-thi-cu-nam-nao-cung-thay-doi-rat-met-moi-5142480.html",
-      "https://vnexpress.net/giam-doc-so-o-tp-hcm-giao-duc-nam-nao-cung-thay-doi-rat-met-5142480.html"
+      "https://vnexpress.net/giam-doc-so-o-tp-hcm-giao-duc-nam-nao-cung-thay-doi-rat-met-5142480.html",
+      "https://vnexpress.net/nghien-cuu-chinh-sach-rieng-de-tuyen-giao-vien-tieng-anh-tin-hoc-5142583.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
