@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/de-nghi-lam-ro-trach-nhiem-khi-chu-dau-tu-tu-nghiem-thu-phong-chay-5136811.html",
-      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-khong-de-nguoi-mua-nha-ganh-hau-qua-sai-pham-phong-chay-5136928.html",
       "https://vnexpress.net/nguy-co-rong-ruot-pho-co-hoi-an-5136222.html",
       "https://vnexpress.net/hai-bo-truong-tai-chinh-khoa-hoc-va-cong-nghe-se-tra-loi-chat-van-5136979.html",
       "https://vnexpress.net/voi-rong-xuat-hien-o-nghe-an-5137095.html",
@@ -300,13 +298,13 @@
       "https://vnexpress.net/ha-noi-mua-giong-nguy-co-tac-duong-5142256.html",
       "https://vnexpress.net/gia-lai-di-doi-khan-cap-nguoi-dan-o-nui-mot-do-mua-lon-5142245.html",
       "https://vnexpress.net/ha-noi-mua-giong-nhieu-tuyen-duong-un-tac-5142256.html",
-      "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html"
+      "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html",
+      "https://vnexpress.net/ha-noi-mua-lon-gio-cao-diem-thanh-hoa-mua-tren-400-mm-5142256.html",
+      "https://vnexpress.net/sap-mo-cau-tren-tuyen-giao-thong-huyet-mach-o-thanh-hoa-5142319.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/canh-bao-bi-bo-lo-trong-vu-hai-tau-cao-toc-dam-nhau-khien-68-nguoi-chet-5138148.html",
-      "https://vnexpress.net/tinh-bao-my-trung-quoc-se-som-dua-vu-khi-diet-ve-tinh-len-quy-dao-5138175.html",
       "https://vnexpress.net/dong-minh-ong-trump-tu-nhan-la-lanh-dao-brazil-sau-khi-sang-my-5138215.html",
       "https://vnexpress.net/chien-thuat-tung-hoa-mu-giup-dong-minh-ong-trump-bi-mat-roi-brazil-5138169.html",
       "https://vnexpress.net/thu-tuong-tay-ban-nha-cam-ket-dieu-tra-toi-cung-vu-dam-tau-5138190.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/iran-ra-canh-bao-yeu-cau-my-chap-nhan-de-xuat-hoa-binh-5142249.html",
       "https://vnexpress.net/nha-choc-troi-o-thu-do-arab-saudi-trung-don-tap-kich-cua-houthi-5142258.html",
       "https://vnexpress.net/ong-trump-len-tieng-ve-ceo-nvidia-giua-be-boi-ngoai-tinh-5142271.html",
-      "https://vnexpress.net/ngoai-truong-my-tung-canh-bao-ve-quan-he-ngoai-luong-cua-ceo-nvidia-5142293.html"
+      "https://vnexpress.net/ngoai-truong-my-tung-canh-bao-ve-quan-he-ngoai-luong-cua-ceo-nvidia-5142293.html",
+      "https://vnexpress.net/duc-sap-co-nu-tong-thong-dau-tien-5142294.html",
+      "https://vnexpress.net/phat-hien-thi-the-be-gai-viet-13-tuoi-mat-tich-o-duc-5142289.html"
     ]
   },
   "phap-luat": {
@@ -2433,9 +2433,6 @@
   },
   "gia-dinh": {
     "seen": [
-      "https://vnexpress.net/tranh-cai-quanh-vu-cu-ong-doi-co-gai-nhuong-ghe-tren-tau-dien-5125047.html",
-      "https://vnexpress.net/con-gai-to-chuc-sinh-nhat-tuoi-16-cho-bo-5125120.html",
-      "https://vnexpress.net/duong-toi-giang-duong-cua-co-be-canh-cut-5122063.html",
       "https://vnexpress.net/tiet-kiem-tu-30-tuoi-de-nghi-huu-trong-vien-duong-lao-5125020.html",
       "https://vnexpress.net/cuu-giam-doc-that-nghiep-ban-khoai-nuong-via-he-5125320.html",
       "https://vnexpress.net/chau-ngoai-15-tuoi-su-gia-ngoai-giao-cua-tong-thong-trump-5125322.html",
@@ -2732,7 +2729,10 @@
       "https://vnexpress.net/6-bai-hoc-lam-giau-cua-ty-phu-tung-ban-mau-de-mua-thuc-an-5142037.html",
       "https://vnexpress.net/giai-ma-thoi-quen-ngu-gat-cua-nguoi-nhat-5141317.html",
       "https://vnexpress.net/danh-8-nam-tu-che-sieu-xe-porsche-mo-uoc-5141921.html",
-      "https://vnexpress.net/cach-loai-bo-khi-doc-khi-dun-nau-bang-bep-gas-5141941.html"
+      "https://vnexpress.net/cach-loai-bo-khi-doc-khi-dun-nau-bang-bep-gas-5141941.html",
+      "https://vnexpress.net/nguoi-khmer-o-tp-hcm-mua-chan-trong-le-dang-y-5142165.html",
+      "https://vnexpress.net/dich-vu-xe-om-lien-tinh-cuu-khach-say-oto-5142023.html",
+      "https://vnexpress.net/dua-con-trai-14-tuoi-di-giao-hang-de-hieu-gia-tri-viec-hoc-5142074.html"
     ]
   },
   "tam-su": {
