@@ -1,7 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/dai-bieu-quoc-hoi-khong-nen-phat-qua-nang-voi-nhung-loi-vo-y-5137028.html",
       "https://vnexpress.net/voi-rong-xuat-hien-tren-canh-dong-o-nghe-an-5137095.html",
       "https://vnexpress.net/lo-banh-mi-khien-352-nguoi-ngo-doc-phai-boi-thuong-hon-mot-ty-dong-5137110.html",
       "https://vnexpress.net/sa-lan-va-cham-lam-lech-nhip-cau-o-ca-mau-5137135.html",
@@ -300,7 +299,8 @@
       "https://vnexpress.net/nguoi-dan-phu-quoc-xep-hang-cho-do-xang-5142323.html",
       "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html",
       "https://vnexpress.net/thieu-xang-cuc-bo-nguoi-dan-phu-quoc-xep-hang-cho-do-5142323.html",
-      "https://vnexpress.net/nghi-ngay-27-7-de-nguoi-dan-co-thoi-gian-tri-an-liet-si-5142361.html"
+      "https://vnexpress.net/nghi-ngay-27-7-de-nguoi-dan-co-thoi-gian-tri-an-liet-si-5142361.html",
+      "https://vnexpress.net/khoi-cong-cai-tao-rach-van-thanh-o-trung-tam-tp-hcm-5142379.html"
     ]
   },
   "the-gioi": {
@@ -609,8 +609,6 @@
   },
   "phap-luat": {
     "seen": [
-      "https://vnexpress.net/khoa-ben-ngoai-dot-nha-nguoi-tinh-cu-5135328.html",
-      "https://vnexpress.net/toi-nen-lam-gi-khi-chong-mat-me-chong-doi-dat-da-tang-rieng-5134955.html",
       "https://vnexpress.net/co-giao-ton-hai-12-suc-khoe-do-bi-nam-sinh-hanh-hung-5135389.html",
       "https://vnexpress.net/nu-tai-xe-chong-doi-canh-sat-giao-thong-khi-bi-kiem-tra-giay-to-5135427.html",
       "https://vnexpress.net/sau-nguoi-dan-ong-bi-lua-tien-khi-tim-dich-vu-gai-goi-qua-telegram-5135436.html",
@@ -908,7 +906,9 @@
       "https://vnexpress.net/me-chong-ep-dong-5-trieu-dong-tien-sinh-hoat-toi-phai-lam-sao-5141929.html",
       "https://vnexpress.net/bi-chu-tat-9-cai-nhan-vien-hon-me-14-thang-roi-tu-vong-5142193.html",
       "https://vnexpress.net/cuu-giam-doc-chi-nhanh-seabank-bi-truy-na-trong-vu-an-15-nam-truoc-5142190.html",
-      "https://vnexpress.net/chau-be-tu-vong-sau-cu-va-cham-cua-oto-ca-2-tai-xe-bi-khoi-to-5142318.html"
+      "https://vnexpress.net/chau-be-tu-vong-sau-cu-va-cham-cua-oto-ca-2-tai-xe-bi-khoi-to-5142318.html",
+      "https://vnexpress.net/son-mat-quy-hoi-han-sau-nhung-man-dien-giang-ho-cung-hiep-den-5142401.html",
+      "https://vnexpress.net/dang-tron-truy-na-cuu-giam-doc-chi-nhanh-seabank-gui-don-phan-tran-5142411.html"
     ]
   },
   "giao-duc": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/loi-trai-dat-dang-ro-ri-5134169.html",
       "https://vnexpress.net/robot-hinh-nguoi-dung-smartphone-gia-re-lam-bo-nao-5134116.html",
       "https://vnexpress.net/laptop-trang-bi-chip-nvidia-rtx-spark-gia-gan-200-trieu-dong-5134164.html",
       "https://vnexpress.net/san-pham-so-can-loai-bo-nguy-co-voi-tre-em-tu-thuat-toan-5134175.html",
@@ -1516,12 +1515,12 @@
       "https://vnexpress.net/ceo-nvidia-thua-nhan-khong-chung-thuy-voi-vo-5142241.html",
       "https://vnexpress.net/nhung-ket-qua-dot-pha-sau-gan-hai-nam-trien-khai-nghi-quyet-57-5141451.html",
       "https://vnexpress.net/danh-tieng-cua-jensen-huang-bi-danh-gia-hoen-o-sau-be-boi-tinh-cam-5142346.html",
-      "https://vnexpress.net/megaspeed-cong-ty-bi-an-sau-nhung-lo-chip-nvidia-ty-usd-5142300.html"
+      "https://vnexpress.net/megaspeed-cong-ty-bi-an-sau-nhung-lo-chip-nvidia-ty-usd-5142300.html",
+      "https://vnexpress.net/megaspeed-cong-ty-dung-sau-nhung-lo-chip-nvidia-ty-usd-5142300.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/ong-trump-do-thue-mot-so-san-pham-canada-5136499.html",
       "https://vnexpress.net/bigbang-co-the-mang-ve-hang-chuc-trieu-usd-loi-nhuan-cho-cong-ty-chu-quan-5136490.html",
       "https://vnexpress.net/ong-trump-go-bo-thue-mot-so-san-pham-cua-canada-5136499.html",
       "https://vnexpress.net/keo-halloween-e-am-tai-my-5136515.html",
@@ -1820,13 +1819,12 @@
       "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
       "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-nang-muc-tieu-lai-ky-luc-5142212.html",
       "https://vnexpress.net/nvidia-them-suc-ep-khi-ceo-jensen-huang-bi-dieu-tra-5142297.html",
-      "https://vnexpress.net/ngan-sach-du-thu-hon-775-000-ty-dong-tu-nha-dat-nam-sau-5142350.html"
+      "https://vnexpress.net/ngan-sach-du-thu-hon-775-000-ty-dong-tu-nha-dat-nam-sau-5142350.html",
+      "https://vnexpress.net/gan-2-ty-usd-rut-khoi-cac-quy-bitcoin-5142374.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/bac-si-khuyen-kham-tien-hon-nhan-khi-muc-sinh-o-tp-hcm-thap-nhat-nuoc-5139179.html",
-      "https://vnexpress.net/ha-noi-huong-toi-du-lich-y-te-tu-cac-ky-thuat-mo-tim-chuyen-sau-5139117.html",
       "https://vnexpress.net/ngua-do-benh-to-dia-co-het-khong-5139251.html",
       "https://vnexpress.net/thit-ga-cong-nghiep-do-chien-ran-co-gay-day-thi-som-5139170.html",
       "https://vnexpress.net/vi-sao-tap-yoga-thuong-xuyen-tot-cho-huyet-ap-5139160.html",
@@ -2124,7 +2122,9 @@
       "https://vnexpress.net/nu-sinh-12-tuoi-mac-tram-cam-do-bi-ban-be-co-lap-keo-dai-5142303.html",
       "https://vnexpress.net/uong-men-vi-sinh-moi-ngay-co-giup-duong-ruot-khoe-hon-5142302.html",
       "https://vnexpress.net/bac-si-chi-4-viec-lam-ngay-sau-tuoi-40-de-tranh-nhoi-mau-co-tim-dot-quy-5142326.html",
-      "https://vnexpress.net/dot-quy-do-cuc-mau-dong-gay-tac-dong-mach-5142277.html"
+      "https://vnexpress.net/dot-quy-do-cuc-mau-dong-gay-tac-dong-mach-5142277.html",
+      "https://vnexpress.net/vi-sao-nguoi-song-chu-toan-qua-trach-nhiem-de-kiet-que-tam-than-5142313.html",
+      "https://vnexpress.net/dau-hong-lung-phat-hien-vo-than-5142353.html"
     ]
   },
   "du-lich": {
