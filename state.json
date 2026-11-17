@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/gan-2-000-ty-dong-lam-duong-au-thuyen-vung-ngap-nhat-can-tho-5140168.html",
-      "https://vnexpress.net/hai-nguoi-tu-vong-sau-tai-nan-lien-hoan-tren-duong-ho-chi-minh-5140249.html",
-      "https://vnexpress.net/gan-2-000-ty-dong-xu-ly-ron-ngap-o-can-tho-5140168.html",
       "https://vnexpress.net/loat-cong-trinh-apec-tang-toc-thi-cong-tren-dao-ngoc-5138789.html",
       "https://vnexpress.net/dai-phan-cach-tren-dai-lo-lon-nhat-ninh-binh-thanh-ruong-dua-5140323.html",
       "https://vnexpress.net/tranh-luan-ve-muc-tien-dat-truoc-khi-dau-gia-dat-5140208.html",
@@ -300,12 +297,14 @@
       "https://vnexpress.net/nhieu-tom-hum-o-vinh-xuan-dai-chet-dot-ngot-5145428.html",
       "https://vnexpress.net/giai-phau-sai-pham-tai-to-hop-chung-cu-cua-muong-thanh-5143404.html",
       "https://vnexpress.net/tu-6-trieu-dong-vay-gay-dung-trai-nuoi-ba-ba-cua-dinh-tien-ty-5145232.html",
-      "https://vnexpress.net/khong-khi-lanh-manh-tran-xuong-mien-bac-tu-sang-mai-5145551.html"
+      "https://vnexpress.net/khong-khi-lanh-manh-tran-xuong-mien-bac-tu-sang-mai-5145551.html",
+      "https://vnexpress.net/de-xuat-con-nuoi-duoc-biet-thong-tin-ve-cha-me-de-5145499.html",
+      "https://vnexpress.net/khong-gian-lich-su-tai-thu-do-khang-chien-tan-trao-5145342.html",
+      "https://vnexpress.net/nguoi-dan-se-duoc-cong-chung-nha-dat-o-tinh-khac-5145588.html"
     ]
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tong-thong-paraguay-bi-phe-truat-quan-thuc-tai-gia-5141769.html",
       "https://vnexpress.net/chuyen-tham-nhat-cua-tong-bi-thu-chu-tich-nuoc-se-tao-dong-luc-dot-pha-khoa-hoc-cong-nghe-5141741.html",
       "https://vnexpress.net/nghi-pham-muon-am-sat-ong-trump-bi-bat-gan-nha-trang-5141784.html",
       "https://vnexpress.net/phe-dan-chu-doa-dieu-tra-tan-chanh-van-phong-nha-trang-5141776.html",
@@ -604,7 +603,8 @@
       "https://vnexpress.net/ong-kim-dan-con-gai-tham-thanh-pho-gan-bien-gioi-trung-quoc-5145460.html",
       "https://vnexpress.net/trinh-sat-co-sieu-hiem-cua-my-xuat-hien-o-bien-den-5145488.html",
       "https://vnexpress.net/loat-ngan-hang-lon-cua-my-bi-te-liet-dich-vu-truc-tuyen-5145564.html",
-      "https://vnexpress.net/cuu-binh-my-cao-tuoi-nhat-trong-tran-tran-chau-cang-qua-doi-5145525.html"
+      "https://vnexpress.net/cuu-binh-my-cao-tuoi-nhat-trong-tran-tran-chau-cang-qua-doi-5145525.html",
+      "https://vnexpress.net/ukraine-phong-hang-chuc-ten-lua-uav-nham-vao-cau-crimea-5145572.html"
     ]
   },
   "phap-luat": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/khoi-ngoai-vua-rut-gan-mot-ty-usd-khoi-chung-khoan-viet-nam-5139224.html",
       "https://vnexpress.net/nhung-dau-moc-trong-nam-dau-hoat-dong-cua-sun-phuquoc-airways-5139253.html",
       "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-giam-gan-1-400-nhan-su-trong-ba-thang-5139256.html",
       "https://vnexpress.net/vng-lan-dau-lai-hon-1-000-ty-dong-5139288.html",
@@ -1820,7 +1819,8 @@
       "https://vnexpress.net/sfinance-duoc-duyet-tang-von-dieu-le-len-2-600-ty-dong-5145308.html",
       "https://vnexpress.net/chung-khoan-pinetree-nhan-giai-cong-ty-co-phi-giao-dich-tot-nhat-viet-nam-5144713.html",
       "https://vnexpress.net/nvidia-khong-xem-xet-kha-nang-dua-jensen-huang-tro-lai-vi-tri-ceo-5145467.html",
-      "https://vnexpress.net/vietcombank-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhat-lan-hai-5145537.html"
+      "https://vnexpress.net/vietcombank-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhat-lan-hai-5145537.html",
+      "https://vnexpress.net/hai-ong-lon-tien-so-binance-va-okx-khau-chien-5145555.html"
     ]
   },
   "suc-khoe": {
@@ -2737,7 +2737,6 @@
   },
   "tam-su": {
     "seen": [
-      "https://vnexpress.net/ban-trai-noi-toi-bat-thuong-co-van-de-ve-gioi-tinh-5127369.html",
       "https://vnexpress.net/anh-doi-hoi-qua-nhieu-o-ban-doi-du-ban-than-khong-xung-dang-5127363.html",
       "https://vnexpress.net/la-tru-cot-tai-chinh-nhung-lien-tuc-bi-vo-duoi-khoi-nha-5127360.html",
       "https://vnexpress.net/chong-bao-viec-nha-cua-phu-nu-anh-khong-co-nghia-vu-phai-lam-5127242.html",
@@ -3036,7 +3035,8 @@
       "https://vnexpress.net/phai-chang-dan-ong-tot-khong-danh-cho-toi-5145317.html",
       "https://vnexpress.net/khi-can-tien-ca-nha-hua-chia-dat-cho-toi-luc-gan-xong-lai-doi-y-5145311.html",
       "https://vnexpress.net/kho-co-con-voi-toi-chong-moi-biet-con-cung-vo-cu-khong-phai-cua-minh-5145359.html",
-      "https://vnexpress.net/muon-sua-nha-cho-me-chong-nhung-so-ba-nghi-toi-gianh-dat-5144926.html"
+      "https://vnexpress.net/muon-sua-nha-cho-me-chong-nhung-so-ba-nghi-toi-gianh-dat-5144926.html",
+      "https://vnexpress.net/quyet-cuoi-chong-theo-y-minh-gio-toi-khong-biet-keu-voi-ai-5145416.html"
     ]
   },
   "tam-su-2": {
