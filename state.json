@@ -1,9 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/ha-noi-mua-giong-nguy-co-tac-duong-5142256.html",
-      "https://vnexpress.net/gia-lai-di-doi-khan-cap-nguoi-dan-o-nui-mot-do-mua-lon-5142245.html",
-      "https://vnexpress.net/ha-noi-mua-giong-nhieu-tuyen-duong-un-tac-5142256.html",
       "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html",
       "https://vnexpress.net/ha-noi-mua-lon-gio-cao-diem-thanh-hoa-mua-tren-400-mm-5142256.html",
       "https://vnexpress.net/sap-mo-cau-tren-tuyen-giao-thong-huyet-mach-o-thanh-hoa-5142319.html",
@@ -300,7 +297,10 @@
       "https://vnexpress.net/vietnam-airlines-vietjet-sap-mo-duong-bay-tu-long-thanh-ra-bac-5147412.html",
       "https://vnexpress.net/dien-mao-cao-toc-tp-hcm-long-thanh-sau-khi-mo-rong-10-lan-5147407.html",
       "https://vnexpress.net/bai-bo-18-thu-tuc-hanh-chinh-ve-so-huu-tri-tue-5147427.html",
-      "https://vnexpress.net/dong-bao-dan-toc-it-nguoi-nhat-viet-nam-dieu-hanh-tren-pho-5147415.html"
+      "https://vnexpress.net/dong-bao-dan-toc-it-nguoi-nhat-viet-nam-dieu-hanh-tren-pho-5147415.html",
+      "https://vnexpress.net/lam-dong-siet-quan-ly-126-biet-thu-o-da-lat-5147455.html",
+      "https://vnexpress.net/13-ngay-nghi-le-tet-nam-2027-5146995.html",
+      "https://vnexpress.net/dau-an-chu-tich-ton-duc-thang-tai-chien-khu-tan-trao-5146505.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/bo-cong-viec-on-dinh-co-gai-bac-ninh-thanh-thu-khoa-dai-hoc-5134934.html",
       "https://vnexpress.net/11-truong-co-tren-100-lop-sau-sap-xep-o-da-nang-5136188.html",
       "https://vnexpress.net/bo-viec-di-hoc-cheo-co-gai-bac-ninh-thanh-thu-khoa-5134934.html",
       "https://vnexpress.net/pho-thu-tuong-su-menh-cua-truong-su-pham-khong-chi-la-dao-tao-thay-co-gioi-5136325.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/hoc-sinh-viet-nam-can-duoc-ho-tro-ve-tri-tue-cam-xuc-5146797.html",
       "https://vnexpress.net/sinh-vien-de-xuat-loat-sang-kien-thich-ung-bien-doi-khi-hau-5147469.html",
       "https://vnexpress.net/lop-hoc-trieu-view-trong-gian-bep-cua-co-giao-74-tuoi-5147198.html",
-      "https://vnexpress.net/nuoc-chau-a-nao-co-ty-le-dan-nhap-cu-cao-nhat-the-gioi-5147452.html"
+      "https://vnexpress.net/nuoc-chau-a-nao-co-ty-le-dan-nhap-cu-cao-nhat-the-gioi-5147452.html",
+      "https://vnexpress.net/hoc-phi-chi-phi-sinh-hoat-o-nhung-bang-dai-hoc-dong-du-hoc-sinh-nhat-my-5146574.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
