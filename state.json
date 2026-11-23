@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-sap-du-hoi-nghi-cap-cao-phap-ngu-5143743.html",
-      "https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html",
       "https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html",
       "https://vnexpress.net/cha-cua-meghan-bi-dua-tro-lai-nha-tu-vi-tu-y-cat-bo-vong-giam-sat-5143779.html",
       "https://vnexpress.net/trung-quoc-yeu-cau-my-ngung-bia-dat-ve-vu-jensen-huang-5143880.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/ben-trong-may-bay-ngay-tan-the-cua-my-5147436.html",
       "https://vnexpress.net/malaysia-loay-hoay-xu-ly-xe-ma-5147087.html",
       "https://vnexpress.net/ong-trump-my-ha-toan-bo-ten-lua-uav-iran-phong-trong-tuan-5147766.html",
-      "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html"
+      "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html",
+      "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+      "https://vnexpress.net/ukraine-uoc-tinh-nga-can-mot-nam-de-don-phan-sap-cua-cau-crimea-5147789.html"
     ]
   },
   "phap-luat": {
@@ -1521,7 +1521,6 @@
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/anh-tang-lai-suat-lan-dau-tien-sau-3-nam-5141653.html",
       "https://vnexpress.net/vi-sao-doanh-nghiep-viet-kho-huy-dong-von-ngoai-5141644.html",
       "https://vnexpress.net/doanh-nghiep-dai-loan-mo-rong-hop-tac-san-xuat-tai-viet-nam-5135723.html",
       "https://vnexpress.net/thien-long-ve-tay-tap-doan-nhat-ban-5141686.html",
@@ -1820,18 +1819,12 @@
       "https://vnexpress.net/trai-phieu-chinh-phu-lan-dau-giam-lai-suat-trong-nam-nay-5147737.html",
       "https://vnexpress.net/gia-vang-co-the-giam-tiep-5147695.html",
       "https://vnexpress.net/16-thuong-hieu-quoc-te-giam-den-80-dip-black-friday-5146776.html",
-      "https://vnexpress.net/sacombank-sbj-ra-mat-nhan-bac-tai-loc-tich-tru-5147164.html"
+      "https://vnexpress.net/sacombank-sbj-ra-mat-nhan-bac-tai-loc-tich-tru-5147164.html",
+      "https://vnexpress.net/dam-phan-khi-hau-cop31-that-bai-5147753.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/an-hanh-toi-co-giup-tranh-muoi-dot-5144758.html",
-      "https://vnexpress.net/nguoi-tre-co-bi-suy-gian-tinh-mach-5144700.html",
-      "https://vnexpress.net/meo-giup-bao-ve-mat-khi-lam-viec-voi-may-tinh-5144696.html",
-      "https://vnexpress.net/ai-de-dot-quy-tham-lang-5143574.html",
-      "https://vnexpress.net/4-viec-nguoi-ung-thu-nen-lam-de-bao-ve-suc-khoe-mua-lanh-5144710.html",
-      "https://vnexpress.net/ba-thoi-quen-sau-khi-thuc-day-tot-cho-tim-5144642.html",
-      "https://vnexpress.net/4-thuc-pham-gay-o-nong-can-tranh-5144612.html",
       "https://vnexpress.net/bao-nhieu-tuoi-co-the-tre-hoa-da-bang-song-sieu-am-5144786.html",
       "https://vnexpress.net/dau-hieu-chan-thuong-the-thao-chua-phuc-hoi-hoan-toan-5144787.html",
       "https://vnexpress.net/dieu-gi-xay-ra-khi-mang-thai-o-tuoi-vi-thanh-nien-5144703.html",
@@ -2124,7 +2117,14 @@
       "https://vnexpress.net/bac-si-canh-bao-4-thoi-quen-nguy-hiem-khi-vua-mo-mat-5146952.html",
       "https://vnexpress.net/nguoi-phu-nu-3-lan-ghep-than-trong-26-nam-5147655.html",
       "https://vnexpress.net/thanh-an-song-trong-ac-mong-sau-ca-phau-thuat-cat-da-thua-5147750.html",
-      "https://vnexpress.net/ba-nguy-co-suc-khoe-rinh-rap-nguoi-tieu-duong-trong-mua-lanh-5147112.html"
+      "https://vnexpress.net/ba-nguy-co-suc-khoe-rinh-rap-nguoi-tieu-duong-trong-mua-lanh-5147112.html",
+      "https://vnexpress.net/ngon-chan-loet-tham-den-do-tac-dong-mach-5147774.html",
+      "https://vnexpress.net/phat-hien-ung-thu-thuc-quan-tu-dau-hieu-nac-cut-5147773.html",
+      "https://vnexpress.net/vi-sao-viem-xoang-thuong-tai-phat-5147772.html",
+      "https://vnexpress.net/xa-tri-tieu-diet-11-u-di-can-nao-5147771.html",
+      "https://vnexpress.net/can-benh-la-bien-da-day-be-gai-10-tuoi-thanh-to-ken-toc-nang-3-kg-5147269.html",
+      "https://vnexpress.net/viem-phe-quan-khac-hen-phe-quan-the-nao-5147782.html",
+      "https://vnexpress.net/viet-nam-cung-my-thu-nghiem-thuoc-moi-dieu-tri-ung-thu-gan-5147769.html"
     ]
   },
   "du-lich": {
