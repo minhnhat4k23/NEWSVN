@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/may-bay-my-ha-canh-khan-vi-khoang-hanh-khach-ngap-nuoc-5143754.html",
-      "https://vnexpress.net/nguoi-vo-tin-chong-tuyet-doi-cua-jensen-huang-5143633.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-sap-du-hoi-nghi-cap-cao-phap-ngu-5143743.html",
       "https://vnexpress.net/pho-tong-thong-indonesia-nop-don-tu-chuc-5143848.html",
       "https://vnexpress.net/iran-he-lo-vu-khi-giong-ten-lua-hanh-trinh-tang-hinh-cua-my-5143748.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/no-tai-quan-cang-libya-nghi-do-tau-nga-bi-tap-kich-5147730.html",
       "https://vnexpress.net/no-tai-quan-cang-libya-nghi-do-chien-ham-nga-bi-tap-kich-5147730.html",
       "https://vnexpress.net/ben-trong-may-bay-ngay-tan-the-cua-my-5147436.html",
-      "https://vnexpress.net/malaysia-loay-hoay-xu-ly-xe-ma-5147087.html"
+      "https://vnexpress.net/malaysia-loay-hoay-xu-ly-xe-ma-5147087.html",
+      "https://vnexpress.net/ong-trump-my-ha-toan-bo-ten-lua-uav-iran-phong-trong-tuan-5147766.html",
+      "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html"
     ]
   },
   "phap-luat": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/thuong-hieu-du-hoc-trung-quoc-len-ngoi-5102847.html",
       "https://vnexpress.net/suc-hut-cua-du-hoc-trung-quoc-5102847.html",
       "https://vnexpress.net/thi-chung-de-lieu-thuoc-dep-lam-phat-diem-hoc-ba-ao-5136368.html",
       "https://vnexpress.net/thi-chung-de-lieu-thuoc-tri-lam-phat-diem-hoc-ba-ao-5136368.html",
@@ -1212,7 +1211,8 @@
       "https://vnexpress.net/nuoc-nao-co-nhieu-ho-nhat-the-gioi-5147697.html",
       "https://vnexpress.net/du-hoc-sinh-viet-tai-my-chuong-nganh-nao-nhat-5146105.html",
       "https://vnexpress.net/nhung-nganh-hoc-thu-hut-du-hoc-sinh-viet-o-my-5146105.html",
-      "https://vnexpress.net/truong-cong-lap-nhu-du-thuyen-5-sao-duoi-chan-nui-ba-vi-5143958.html"
+      "https://vnexpress.net/truong-cong-lap-nhu-du-thuyen-5-sao-duoi-chan-nui-ba-vi-5143958.html",
+      "https://vnexpress.net/du-hoc-sinh-viet-o-my-chuong-nganh-nao-5146105.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
@@ -1825,7 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ngung-uong-ca-phe-sau-14h-5144689.html",
       "https://vnexpress.net/an-hanh-toi-co-giup-tranh-muoi-dot-5144758.html",
       "https://vnexpress.net/nguoi-tre-co-bi-suy-gian-tinh-mach-5144700.html",
       "https://vnexpress.net/meo-giup-bao-ve-mat-khi-lam-viec-voi-may-tinh-5144696.html",
@@ -2124,7 +2123,8 @@
       "https://vnexpress.net/ky-thuat-moi-noi-soi-lay-mo-thay-cach-hut-mu-5147591.html",
       "https://vnexpress.net/bac-si-canh-bao-4-thoi-quen-nguy-hiem-khi-vua-mo-mat-5146952.html",
       "https://vnexpress.net/nguoi-phu-nu-3-lan-ghep-than-trong-26-nam-5147655.html",
-      "https://vnexpress.net/thanh-an-song-trong-ac-mong-sau-ca-phau-thuat-cat-da-thua-5147750.html"
+      "https://vnexpress.net/thanh-an-song-trong-ac-mong-sau-ca-phau-thuat-cat-da-thua-5147750.html",
+      "https://vnexpress.net/ba-nguy-co-suc-khoe-rinh-rap-nguoi-tieu-duong-trong-mua-lanh-5147112.html"
     ]
   },
   "du-lich": {
