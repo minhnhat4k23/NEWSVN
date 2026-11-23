@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/mua-lu-mien-trung-cay-de-oto-song-tran-ke-duong-ngap-5142653.html",
-      "https://vnexpress.net/65-coc-betong-cam-duoi-bien-uy-hiep-tau-thuyen-o-ca-mau-5142647.html",
       "https://vnexpress.net/ca-lang-nuoi-oc-buou-doanh-thu-20-ty-dong-moi-nam-5142184.html",
       "https://vnexpress.net/cao-toc-bang-nui-rung-ket-noi-buon-ma-thuot-voi-nha-trang-5142237.html",
       "https://vnexpress.net/oto-do-tran-via-he-long-duong-ha-noi-5142167.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/tp-hcm-dat-muc-tieu-vao-nhom-100-thanh-pho-dang-song-tren-the-gioi-5147930.html",
       "https://vnexpress.net/truc-thang-keo-co-tren-bau-troi-ha-noi-5148004.html",
       "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-xay-dung-xa-hoi-ma-long-nhan-ai-tro-thanh-nep-song-5148026.html",
-      "https://vnexpress.net/hai-phong-khoi-cong-nha-may-vat-lieu-tinh-khiet-tu-dat-hiem-5148076.html"
+      "https://vnexpress.net/hai-phong-khoi-cong-nha-may-vat-lieu-tinh-khiet-tu-dat-hiem-5148076.html",
+      "https://vnexpress.net/mien-trung-co-the-mua-tren-750-mm-trong-7-ngay-toi-5148111.html",
+      "https://vnexpress.net/da-nang-du-kien-tra-luong-ceo-trung-tam-tai-chinh-quoc-te-850-trieu-dong-5148144.html"
     ]
   },
   "the-gioi": {
@@ -913,7 +913,6 @@
   },
   "giao-duc": {
     "seen": [
-      "https://vnexpress.net/5-hieu-truong-bi-chuyen-lam-giao-vien-sau-sap-nhap-5136726.html",
       "https://vnexpress.net/chuyen-5-hieu-truong-lam-giao-vien-sai-dinh-huong-5136726.html",
       "https://vnexpress.net/yeu-cau-sua-sai-vu-chuyen-5-hieu-truong-lam-giao-vien-5136726.html",
       "https://vnexpress.net/dai-hoc-tang-550-trieu-dong-moi-giao-su-ve-lam-viec-5137064.html",
@@ -1212,12 +1211,12 @@
       "https://vnexpress.net/giay-phut-co-giao-lang-nguoi-khi-hoc-tro-cat-tieng-hat-5146375.html",
       "https://vnexpress.net/thay-nguyen-xuan-khang-khoc-khi-trao-ngoi-truong-tram-ty-cho-hoc-sinh-meo-vac-5148019.html",
       "https://vnexpress.net/ai-giup-sinh-vien-phat-trien-sang-kien-nhu-the-nao-5148062.html",
-      "https://vnexpress.net/phuong-thuc-tuyen-sinh-to-hop-va-bang-quy-doi-ielts-dai-hoc-luat-tp-hcm-2027-chi-tiet-nhat-5148077.html"
+      "https://vnexpress.net/phuong-thuc-tuyen-sinh-to-hop-va-bang-quy-doi-ielts-dai-hoc-luat-tp-hcm-2027-chi-tiet-nhat-5148077.html",
+      "https://vnexpress.net/thay-giao-khoc-khi-trao-ngoi-truong-tram-ty-cho-hoc-sinh-meo-vac-5148019.html"
     ]
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/gap-rut-truy-vet-thu-hoi-6-3-ty-usd-bi-danh-cap-tu-binance-5139194.html",
       "https://vnexpress.net/mot-so-hang-may-tinh-dua-hoat-dong-san-xuat-tro-lai-trung-quoc-5138992.html",
       "https://vnexpress.net/ve-tinh-ai-cua-google-gui-phan-hoi-dau-tien-tu-khong-gian-5139248.html",
       "https://vnexpress.net/doanh-nghiep-viet-dat-chung-nhan-iso-cho-he-thong-san-xuat-uav-5139252.html",
@@ -1516,13 +1515,12 @@
       "https://vnexpress.net/mat-trai-khi-chia-tay-nguoi-tinh-ai-5147801.html",
       "https://vnexpress.net/robot-va-tau-vu-tru-nasa-cung-gap-su-co-tren-sao-hoa-5147991.html",
       "https://vnexpress.net/viet-nam-nen-tap-trung-vao-chip-chuyen-dung-5147936.html",
-      "https://vnexpress.net/5-may-loc-nuoc-ro-hydrogen-duoc-yeu-thich-nhat-5147742.html"
+      "https://vnexpress.net/5-may-loc-nuoc-ro-hydrogen-duoc-yeu-thich-nhat-5147742.html",
+      "https://vnexpress.net/vivo-v80-smartphone-voi-nhieu-tinh-nang-ai-cho-camera-5147934.html"
     ]
   },
   "kinh-doanh": {
     "seen": [
-      "https://vnexpress.net/green-sm-giam-cuoc-tang-thu-nhap-cho-tai-xe-5141907.html",
-      "https://vnexpress.net/bo-cong-thuong-muon-mien-bac-giam-3-000-mw-dung-dien-gio-cao-diem-5142008.html",
       "https://vnexpress.net/novaland-dat-muc-tieu-doanh-thu-hon-20-ty-usd-gap-8-lan-du-no-5142014.html",
       "https://vnexpress.net/tu-cu-khoai-mi-den-hang-bot-banh-doanh-thu-gan-nghin-ty-dong-5136047.html",
       "https://vnexpress.net/truong-hoc-my-tim-cach-giam-thai-nua-trieu-tan-do-an-thua-5141962.html",
@@ -1820,14 +1818,13 @@
       "https://vnexpress.net/hanwha-life-khai-truong-van-phong-moi-tai-ifc-hanoi-5148058.html",
       "https://vnexpress.net/heo-hoi-tang-gia-gan-30-sau-khi-cham-day-3-nam-5148039.html",
       "https://vnexpress.net/tp-hcm-ha-noi-co-the-phat-trien-dien-mat-troi-mai-nha-nhieu-nhat-ca-nuoc-5147917.html",
-      "https://vnexpress.net/co-phieu-pnj-cham-san-5148100.html"
+      "https://vnexpress.net/co-phieu-pnj-cham-san-5148100.html",
+      "https://vnexpress.net/ong-trump-giuc-nvidia-phuc-chuc-cho-jensen-huang-5148098.html",
+      "https://vnexpress.net/novaland-muon-rut-von-tai-hai-cong-ty-con-khi-co-phieu-thung-menh-gia-5148096.html"
     ]
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/so-ca-tu-vong-do-dot-quy-tang-gap-doi-sau-4-nam-5144893.html",
-      "https://vnexpress.net/dieu-gi-xay-ra-voi-nao-khi-ban-thuong-xuyen-di-bo-5144495.html",
-      "https://vnexpress.net/nguoi-tho-lan-suy-ho-hap-sau-duoi-nuoc-5145019.html",
       "https://vnexpress.net/ca-dai-phau-tim-mach-keo-dai-9-gio-cuu-mang-benh-nhan-5145016.html",
       "https://vnexpress.net/bac-si-chi-ra-mon-an-sang-ngot-mieng-nhung-lam-than-suy-huyet-ap-tang-5144946.html",
       "https://vnexpress.net/dat-stent-ngan-mau-chay-vao-tui-phinh-mach-mau-nao-5145030.html",
@@ -2124,7 +2121,10 @@
       "https://vnexpress.net/lam-gi-buoi-toi-giup-giam-day-hoi-5147924.html",
       "https://vnexpress.net/5-thoi-quen-an-uong-co-the-khien-ban-nhanh-gia-5147779.html",
       "https://vnexpress.net/chuyen-gia-my-chi-ra-5-quan-niem-sai-lam-khi-phong-chong-ung-thu-5148067.html",
-      "https://vnexpress.net/su-dung-may-tinh-nhieu-gio-co-gay-sam-da-5148054.html"
+      "https://vnexpress.net/su-dung-may-tinh-nhieu-gio-co-gay-sam-da-5148054.html",
+      "https://vnexpress.net/co-uong-du-8-coc-nuoc-moi-ngay-thoi-quen-tot-hay-ganh-nang-cho-than-5147818.html",
+      "https://vnexpress.net/chon-vaccine-cum-dang-xit-hay-dang-tiem-5147942.html",
+      "https://vnexpress.net/giam-doc-bi-ban-o-dong-nai-tu-vong-sau-mot-tuan-dieu-tri-5148166.html"
     ]
   },
   "du-lich": {
