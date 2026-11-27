@@ -1,8 +1,6 @@
 {
   "thoi-su": {
     "seen": [
-      "https://vnexpress.net/bo-truong-khoa-hoc-va-cong-nghe-vu-hai-quan-tiep-tuc-tra-loi-chat-van-5143668-tong-thuat.html",
-      "https://vnexpress.net/thu-tuong-le-minh-hung-lan-dau-tra-loi-chat-van-5143677.html",
       "https://vnexpress.net/thu-tuong-nam-2027-can-huy-dong-toi-6-4-trieu-ty-dong-von-dau-tu-5143983.html",
       "https://vnexpress.net/ho-chon-tap-the-liet-si-o-cong-vien-le-thi-rieng-duoc-nghien-cuu-bao-ton-5144011.html",
       "https://vnexpress.net/du-khach-kuwait-mat-tich-6-ngay-o-sa-pa-5144012.html",
@@ -300,7 +298,9 @@
       "https://vnexpress.net/bi-thu-xa-livestream-ban-sau-rieng-5129301.html",
       "https://vnexpress.net/metro-tp-hcm-dong-nghit-khach-5149216.html",
       "https://vnexpress.net/danh-gia-nguoi-hoc-khong-chi-bang-kien-thuc-5149435.html",
-      "https://vnexpress.net/ha-noi-cong-khai-dinh-luong-hinh-anh-suat-an-hoc-sinh-5149475.html"
+      "https://vnexpress.net/ha-noi-cong-khai-dinh-luong-hinh-anh-suat-an-hoc-sinh-5149475.html",
+      "https://vnexpress.net/tp-hcm-va-nam-bo-don-dot-mua-lon-giua-mua-kho-5149471.html",
+      "https://vnexpress.net/tay-ninh-khoi-cong-duong-hon-9-300-ty-dong-noi-vung-dong-thap-muoi-5149469.html"
     ]
   },
   "the-gioi": {
@@ -1217,7 +1217,6 @@
   },
   "khoa-hoc-cong-nghe": {
     "seen": [
-      "https://vnexpress.net/anthropic-noi-sap-dat-den-ai-tu-cai-tien-5140446.html",
       "https://vnexpress.net/siri-ai-tieng-viet-co-the-lam-nhung-gi-tren-iphone-5140705.html",
       "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-appe-5140782.html",
       "https://vnexpress.net/dien-gia-truyen-cam-hung-ve-phat-trien-cong-nghe-tai-ai4vn-2026-5140337.html",
@@ -1516,7 +1515,8 @@
       "https://vnexpress.net/laptop-2-trong-1-gia-gan-40-trieu-dong-5148177.html",
       "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
       "https://vnexpress.net/fpt-telecom-tham-gia-dau-tu-tuyen-cap-bien-2-500-km-viet-nam-singapore-5149431.html",
-      "https://vnexpress.net/hang-phan-mem-lon-nhat-chau-au-co-the-sa-thai-10-000-nguoi-5149433.html"
+      "https://vnexpress.net/hang-phan-mem-lon-nhat-chau-au-co-the-sa-thai-10-000-nguoi-5149433.html",
+      "https://vnexpress.net/mo-hinh-lo-phan-ung-hat-nhan-may-dao-ham-tai-geotech-hanoi-2026-5149384.html"
     ]
   },
   "kinh-doanh": {
@@ -3041,7 +3041,6 @@
   },
   "tam-su-2": {
     "seen": [
-      "https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-vay-2-ty-mua-nha-chang-khac-nao-thue-cho-o-cua-ngan-hang-5129868.html",
       "https://vnexpress.net/ban-nhau-che-toi-phi-moi-vi-ngoi-ca-tieng-moi-het-mot-coc-bia-5129571.html",
       "https://vnexpress.net/nuoi-day-con-tro-chuyen-voi-con-moi-ngay-5127947.html",
       "https://vnexpress.net/bua-an-mat-vui-vi-dong-nghiep-tranh-tra-tien-5130007.html",
@@ -3340,7 +3339,8 @@
       "https://vnexpress.net/nga-tu-ha-noi-hon-loan-vi-hang-chuc-tai-xe-khong-ai-nhuong-ai-5149067.html",
       "https://vnexpress.net/nga-tu-hon-loan-vi-hang-chuc-tai-xe-viet-khong-ai-nhuong-ai-5149067.html",
       "https://vnexpress.net/hung-than-di-20-ban-ep-uong-bia-ruou-tram-phan-tram-5149011.html",
-      "https://vnexpress.net/gia-xang-giam-6-700-dong-trong-mot-thang-nhung-bua-sang-cua-toi-khong-re-hon-5149246.html"
+      "https://vnexpress.net/gia-xang-giam-6-700-dong-trong-mot-thang-nhung-bua-sang-cua-toi-khong-re-hon-5149246.html",
+      "https://vnexpress.net/ep-uong-ruou-bia-tram-phan-tram-5149011.html"
     ]
   }
 }
