@@ -305,8 +305,6 @@
   },
   "the-gioi": {
     "seen": [
-      "https://vnexpress.net/phap-bi-mat-trien-khai-luc-luong-den-ukraine-5145618.html",
-      "https://vnexpress.net/iran-tuyen-bo-phong-uav-vao-tram-radar-my-tai-bahrain-5145725.html",
       "https://vnexpress.net/cau-crimea-sap-mot-phan-sau-don-tan-cong-cua-ukraine-5145729.html",
       "https://vnexpress.net/nghich-ly-an-sau-he-thong-kiem-soat-khong-luu-gan-tram-nam-tuoi-cua-my-5145761.html",
       "https://vnexpress.net/nga-tap-kich-loat-nha-may-ten-lua-co-so-ha-tang-cua-ukraine-5145727.html",
@@ -604,7 +602,9 @@
       "https://vnexpress.net/tin-tac-xam-nhap-nen-tang-dam-may-chu-chot-cua-quan-doi-my-5149863.html",
       "https://vnexpress.net/nguoi-kiev-giang-co-giua-di-hay-o-truoc-mua-dong-toi-tam-5149517.html",
       "https://vnexpress.net/gan-290-000-nguoi-canada-ky-ten-keu-goi-truc-xuat-dai-su-my-5149879.html",
-      "https://vnexpress.net/an-do-sap-trien-khai-to-hop-s-400-bao-ve-gioi-tuyen-giap-pakistan-5149855.html"
+      "https://vnexpress.net/an-do-sap-trien-khai-to-hop-s-400-bao-ve-gioi-tuyen-giap-pakistan-5149855.html",
+      "https://vnexpress.net/italy-to-ong-zelensky-noi-doi-ve-vu-tap-kich-tau-nga-o-libya-5149904.html",
+      "https://vnexpress.net/gioi-trung-luu-trung-quoc-that-hau-bao-quay-lung-voi-ao-long-vu-cao-cap-5149906.html"
     ]
   },
   "phap-luat": {
@@ -1825,7 +1825,6 @@
   },
   "suc-khoe": {
     "seen": [
-      "https://vnexpress.net/nguoi-benh-thoai-hoa-cot-song-nen-di-bo-the-nao-5147060.html",
       "https://vnexpress.net/an-khoai-the-nao-de-giam-can-5146896.html",
       "https://vnexpress.net/thoi-diem-an-uong-tac-dong-den-toc-do-dot-mo-the-nao-5146893.html",
       "https://vnexpress.net/kho-truy-xuat-nguon-goc-thuc-pham-vi-thieu-thong-tin-nguoi-ban-5146880.html",
@@ -2124,12 +2123,12 @@
       "https://vnexpress.net/an-rau-truoc-com-mang-lai-loi-ich-gi-cho-suc-khoe-5149430.html",
       "https://vnexpress.net/soi-mat-co-di-truyen-khong-5149882.html",
       "https://vnexpress.net/thu-pham-gay-chay-nuoc-mat-thuong-xuyen-5149881.html",
-      "https://vnexpress.net/vi-sao-phoi-thu-tinh-ong-nghiem-co-chat-luong-khac-nhau-5149905.html"
+      "https://vnexpress.net/vi-sao-phoi-thu-tinh-ong-nghiem-co-chat-luong-khac-nhau-5149905.html",
+      "https://vnexpress.net/5-loai-hat-giau-duong-chat-co-loi-cho-mat-5149889.html"
     ]
   },
   "du-lich": {
     "seen": [
-      "https://vnexpress.net/4-diem-den-giup-tre-kham-pha-the-gioi-tai-singapore-5132611.html",
       "https://vnexpress.net/video-hai-me-con-ngoi-tho-tai-doc-tham-ma-gay-sot-5135694.html",
       "https://vnexpress.net/3-kinh-nghiem-su-dung-diem-thuong-de-du-lich-gia-re-suot-20-nam-5134030.html",
       "https://vnexpress.net/khach-san-kin-phong-ve-bay-tp-hcm-ha-noi-gan-7-trieu-dong-dip-concert-bigbang-5135295.html",
@@ -2428,7 +2427,8 @@
       "https://vnexpress.net/10-quoc-gia-co-nen-am-thuc-ngon-nhat-the-gioi-5149493.html",
       "https://vnexpress.net/an-choi-o-con-pho-thu-vi-nhat-the-gioi-5147072.html",
       "https://vnexpress.net/goi-y-ket-hop-cong-tac-va-du-lich-gia-dinh-tai-singapore-5149888.html",
-      "https://vnexpress.net/ngoi-lang-co-khach-tham-quan-tiep-can-bang-cap-treo-5149633.html"
+      "https://vnexpress.net/ngoi-lang-co-khach-tham-quan-tiep-can-bang-cap-treo-5149633.html",
+      "https://vnexpress.net/duong-bich-hoa-tren-deo-prenn-gay-tranh-cai-vi-an-toan-giao-thong-5149852.html"
     ]
   },
   "gia-dinh": {
